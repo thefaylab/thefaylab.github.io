@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Transition from RMarkdown – Making sharable documents with Quarto</title>
+<title>Publications – Making sharable documents with Quarto</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,41 +20,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -64,8 +29,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./people.html" rel="next">
-<link href="./learning-more.html" rel="prev">
+<link href="./people.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -116,7 +80,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./transition-from-rmarkdown.html">Transition from Rmd</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./publications.html">Publications</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -195,7 +159,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./transition-from-rmarkdown.html" class="sidebar-item-text sidebar-link active">
+  <a href="./transition-from-rmarkdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Transition from Rmd</span></a>
   </div>
 </li>
@@ -207,7 +171,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./publications.html" class="sidebar-item-text sidebar-link">
+  <a href="./publications.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Publications</span></a>
   </div>
 </li>
@@ -216,36 +180,15 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#bookdown-to-quarto" id="toc-bookdown-to-quarto" class="nav-link active" data-scroll-target="#bookdown-to-quarto">Bookdown to Quarto</a>
-  <ul class="collapse">
-  <li><a href="#experimenting-in-a-low-risk-environment" id="toc-experimenting-in-a-low-risk-environment" class="nav-link" data-scroll-target="#experimenting-in-a-low-risk-environment">Experimenting in a low-risk environment</a></li>
-  <li><a href="#the-conversion" id="toc-the-conversion" class="nav-link" data-scroll-target="#the-conversion">The conversion</a></li>
-  <li><a href="#citations" id="toc-citations" class="nav-link" data-scroll-target="#citations">Citations</a></li>
-  <li><a href="#publishing-notes" id="toc-publishing-notes" class="nav-link" data-scroll-target="#publishing-notes">Publishing notes</a></li>
-  <li><a href="#github-actions" id="toc-github-actions" class="nav-link" data-scroll-target="#github-actions">GitHub Actions</a></li>
-  </ul></li>
-  <li><a href="#distill-to-quarto" id="toc-distill-to-quarto" class="nav-link" data-scroll-target="#distill-to-quarto">Distill to quarto</a>
-  <ul class="collapse">
-  <li><a href="#publishing-notes-1" id="toc-publishing-notes-1" class="nav-link" data-scroll-target="#publishing-notes-1">Publishing notes</a></li>
-  </ul></li>
-  <li><a href="#troubleshooting" id="toc-troubleshooting" class="nav-link" data-scroll-target="#troubleshooting">Troubleshooting</a>
-  <ul class="collapse">
-  <li><a href="#github-action-fails-says-you-need-rmarkdown-but-you-dont-have-r-code" id="toc-github-action-fails-says-you-need-rmarkdown-but-you-dont-have-r-code" class="nav-link" data-scroll-target="#github-action-fails-says-you-need-rmarkdown-but-you-dont-have-r-code">GitHub Action fails, says you need RMarkdown but you don’t have R code!</a></li>
-  </ul></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/openscapes/quarto-website-tutorial/edit/main/transition-from-rmarkdown.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/openscapes/quarto-website-tutorial/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Transition from RMarkdown</h1>
+<h1 class="title">Publications</h1>
 </div>
 
 
@@ -262,119 +205,80 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<p>You may already have workflows in RMarkdown and are interested in transitioning to Quarto. There’s no hurry to migrate to Quarto. Keep using Rmarkdown and when you’re ready the migration will be fine.</p>
-<p>Here are some notes as we migrate RMarkdown sites and books.</p>
-<p><em>TODO: translating R code chunks</em></p>
-<section id="bookdown-to-quarto" class="level2">
-<h2 class="anchored" data-anchor-id="bookdown-to-quarto">Bookdown to Quarto</h2>
-<p>Converting a Bookdown book to Quarto is slightly more involved than converting a website. A book has chapters whose order must be defined, and likely has citations and <a href="https://quarto.org/docs/books/book-crossrefs.html">cross-refs</a>. Still, conversion is not that hard.</p>
-<p>We got some practice converting from Bookdown to Quarto by helping Gavin Fay convert his lab’s fantastic onboarding documentation, the <a href="https://thefaylab.github.io/lab-manual/">Faylab Lab Manual</a>. Here’s the GitHub view <a href="https://github.com/thefaylab/lab-manual/tree/4ebe9614d4fcab9d782073057ef6e56e9213c167">before</a> and <a href="https://github.com/thefaylab/lab-manual/tree/3ce2418ed7bd65936a130a42a7f975f55fb9b734">after</a>.</p>
-<p>Our best first reference material for this was Nick Tierney’s <a href="https://www.njtierney.com/post/2022/04/11/rmd-to-qmd/">Notes on Changing from Rmarkdown/Bookdown to Quarto</a>. Nick shares some scripts in that post to automate some changes. In our case, the book was small enough that we made all changes manually. <a href="https://quarto.org/">Quarto documentation</a> was indispensable.</p>
-<section id="experimenting-in-a-low-risk-environment" class="level3">
-<h3 class="anchored" data-anchor-id="experimenting-in-a-low-risk-environment">Experimenting in a low-risk environment</h3>
-<p>We forked a copy of the Faylab Lab manual to the Openscapes organization, and worked in a branch so we could make changes relatively risk-free. We could always fork a new copy of the original if we “broke” something. (Caution: the default when making a pull request from a fork is to push changes to the original upstream repo, not your fork and it does this without warning if you have write-access to that repo.) With local previews it’s easy to test / play with settings to see what they do. We tended to make a change, Preview, then compare the look and functionality of the book to the original. It was helpful to comment out some elements of the configuration file <code>_output.yml</code> after their counterparts had been added to the Quarto configuration file <code>_quarto.yml</code>, or to confirm they were no longer needed, before making the drastic move of deleting them.</p>
+<section id="refereed-publications" class="level4">
+<h4 class="anchored" data-anchor-id="refereed-publications">Refereed Publications</h4>
+<p>(bold = lab member; *postdoc, **grad student, §undergrad)</p>
+<p><strong>2023</strong></p>
+<p>Vicarelli, M., R. DeConto, D. Connor Maresca, …, <strong>G. Fay</strong>, et al.&nbsp;2023. Climate resilience in coastal Massachusetts: a survey of municipal challenges, plans, and needs. Mass Benchmarks - Journal of the Massachusetts Economy 25(2): 22-34.</p>
+<p>*Maltby, KM, JG Mason, **H Cheng, <strong>G Fay</strong>, RL Selden, L Williams, CL Alves. 2023. Navigating concepts of social-ecological resilience in marine fisheries under climate change: shared challenges and recommendations from the northeast United States, ICES Journal of Marine Science, 2023; fsad151, <a href="https://doi.org/10.1093/icesjms/fsad151" class="uri">https://doi.org/10.1093/icesjms/fsad151</a></p>
+<p><strong>**Winton, M.V., G. Fay</strong>, G. Skomal. 2023. An open spatial capture-recapture framework for estimating the abundance and seasonal dynamics of white sharks at aggregation sites. Marine Ecology Progress Series 715:1-25. <a href="https://doi.org/10.3354/meps14371" class="uri">https://doi.org/10.3354/meps14371</a></p>
+<p>*Perryman, H., IC Kaplan, JL Blanchard, <strong>G Fay</strong>, SK Gaichas, VL McGregor, HN Morzaria-Luna, J Porobic, H Townsend, EA Fulton. 2023. Atlantis Ecosystem Model Summit 2022: report from a workshop. Ecological Modelling 483: 110442. <a href="https://doi.org/10.1016/j.ecolmodel.2023.110442" class="uri">https://doi.org/10.1016/j.ecolmodel.2023.110442</a></p>
+<p><strong>*Silva, T, §T Breault</strong>, TM Lowery, **NM Calabrese, KDE Stokesbury, DN Wiley, <strong>G Fay</strong>. 2023. Investigating spatial overlap between northern sand lance (<em>Ammodytes dubius</em>) and Atlantic cod (<em>Gadus morhua</em>) with video trawl technology. Fisheries Research 265: 106746. <a href="https://doi.org/10.1016/j.fishres.2023.106746" class="uri">https://doi.org/10.1016/j.fishres.2023.106746</a></p>
+<p>Karp, MA, JS Link, **Max Grezlik, S Cadrin, <strong>G Fay</strong>, P Lynch, et al.&nbsp;2023. Increasing the uptake of multispecies models in fisheries management. ICES Journal of Marine Science. <a href="https://doi.org/10.1093/icesjms/fsad001" class="uri">https://doi.org/10.1093/icesjms/fsad001</a></p>
+<p><strong>2022</strong></p>
+<p>**Tran, M, <strong>G Fay</strong>, BD Stewart, KDE Stokesbury. 2022. Resiliency of marine benthic communities in sea scallop rotational management areas on Georges Bank. Journal of Shellfish Research 41:1-9.</p>
+<p>Legault, CM., J Wiedenmann, J Deroba, <strong>G Fay</strong>, TJ Miller, E Brooks, R Bell, **J Langan, J Cournane, A Jones, B Muffley. 2022. Data Rich but Model Resistant: An Evaluation of Data-Limited Methods to Manage Fisheries with Failed Age-based Stock Assessments. Canadian Journal of Fisheries and Aquatic Sciences. <a href="#0">https://doi.org/10.1139/cjfas-2022-0045</a></p>
+<p>**Danaher-Garcia, NK,&nbsp;R Connor,&nbsp;<strong>G Fay</strong>, K Melillo-Sweeting, KM Dudzinski. 2022.&nbsp;The Partial Merger of Two Dolphin Societies. Royal Society Open Science 9(8), p.211963.&nbsp;<a href="https://doi.org/10.1098/rsos.211963" class="uri">https://doi.org/10.1098/rsos.211963</a></p>
+<p><strong>**Danaher-Garcia, NK, R Connor, G Fay, K Melillo-Sweeting, KM Dudzinski. 2022<em>.</em> Using Social Network Analysis to Confirm the ‘Gambit of the Group’ Hypothesis for a Small Cetacean. Behavioral Processes 200, p.104694.&nbsp;<a href="https://doi.org/10.1016/j.beproc.2022.104694" class="uri">https://doi.org/10.1016/j.beproc.2022.104694</a></strong></p>
+<p><strong>Stokesbury, KDE, G Fay, R Griffin. 2022. A framework for categorizing the interactions of offshore windfarms and fisheries. ICES Journal of Marine Science.&nbsp;<a href="https://doi.org/10.1093/icesjms/fsac118" class="uri">https://doi.org/10.1093/icesjms/fsac118</a></strong></p>
+<p><strong>2021</strong></p>
+<p><strong>*Silva, T.L.</strong>, DN Wiley, <strong>G Fay</strong>. 2021. A hierarchical modelling approach to estimating humpback whale abundance from sand lance abundance. Ecological Modelling 456, 109662. <a href="https://doi.org/10.1016/j.ecolmodel.2021.109662" class="uri">https://doi.org/10.1016/j.ecolmodel.2021.109662</a></p>
+<p>Patel, S.H., <strong>**MV Winton</strong>, JM Hatch, HL Haas, VS Saba, <strong>G Fay</strong>, RJ Smolowitz. 2021. Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change. Scientific Reports 11, 8850. <a href="https://doi.org/10.1038/s41598-021-88290-9" class="uri">https://doi.org/10.1038/s41598-021-88290-9</a></p>
+<p>Froehlich, H. E., R Gentry, SE Lester, RS Cottrell, <strong>G Fay,</strong> TA Branch, J Gephart, E White, JK Baum. 2021. Securing a sustainable future for US seafood in the wake of a global crisis. Marine Policy 124: 104328.</p>
+<p>**Lucey, SM, KY Aydin, SK Gaichas, SX Cadrin, <strong>G Fay</strong>, MJ Fogarty, AE Punt. 2021. Evaluating fishery management strategies using an ecosystem model as an operating model. Fisheries Research 234: 105780.</p>
+<p>**Hansell, A., T.H. Curtis, J Carlson, E Cortés, <strong>G. Fay</strong>, S.X. Cadrin. 2021. Stock Assessment of the Lemon Shark (<em>Negaprion brevirostris</em>) off the Southeast United States. North American Journal of Fisheries Management 41: 35–48.</p>
+<p><strong>2020</strong></p>
+<p>**Silva, E.N.S., A. Gangopadhyay, <strong>G. Fay</strong>, M.K.V. Welandawe, G. Gawarkiewicz, **A.M. Silver, M. Monim, J. Clark. 2020. A survival analysis of the Gulf Stream warm core rings. Journal of Geophysical Research: Oceans 125: <a href="https://doi.org/10.1029/2020JC016507">10. e2020JC016507.</a></p>
+<p><strong>*T.L. Silva</strong>, M Thompson, P Hong, D Wiley, H Baumann, L Kaufman, J Llopiz, J Suca, <strong>G Fay</strong>. 2020. High collocation between sand lance and top predators in the southwestern Gulf of Maine. Conservation Science and Practice 3: <a href="http://dx.doi.org/10.1111/csp2.274">2.e274</a>.</p>
+<p>**<strong>Hart, A.R.</strong>, <strong>G. Fay</strong>. 2020. Applying tree analysis to assess combinations of ecosystem-based fisheries management actions in Management Strategy Evaluation. Fisheries Research 225:105466.</p>
+<p>*<strong>Trijoulet, V.</strong>, <strong>G. Fay</strong>, T.J. Miller. 2020. Performance of a state‐space multispecies model: What are the consequences of ignoring predation and process errors in stock assessments? Journal of Applied Ecology 57:121-135.</p>
+<p><strong>2019</strong></p>
+<p>*Tam, J.C., <strong>G. Fay</strong>, J.S. Link. 2019. Better Together: the uses of ecological and socio-economic indicators with end-to-end models in marine ecosystem based management. Frontiers in Marine Science. 6:560. doi: 10.3389/fmars.2019.00560.</p>
+<p>Pethybridge, H.R., M. Weijerman, *H. Perrymann,&nbsp; A. Audzijonyte, J. Porobic, V. McGregor, R. Girardin, C. Bulman, *K. Ortega-Cisneros, M. Sinerchia, T. Hutton, H. Lozano-Montes, M. Mori, C. Novaglio, <strong>G. Fay</strong>, R. Gorton, E. Fulton. 2019. Calibrating process-based marine ecosystem models: An example case using Atlantis. Ecological Modelling 412. 108822.</p>
+<p>*<strong>Trijoulet, V.</strong>, <strong>G. Fay</strong>, K. Curti, B. Smith, T.J. Miller. 2019. Performance of multispecies assessment models: insights on the influence of diet data. ICES Journal of Marine Science 76: 1464-1476.</p>
+<p><strong>Fay, G.</strong>, G. DePiper, S. Steinback, R.J. Gamble, J.S. Link. 2019. Economic and ecosystem effects of fishing on the Northeast US shelf. Frontiers in Marine Science. 6:133. doi: 10.3389/fmars.2019.00133</p>
+<p>**Liu, C., G.W. Cowles, D.R. Zemeckis, <strong>G. Fay</strong>, A. Le Bris, S.X. Cadrin. 2019. A hardware-accelerated particle filter for the geolocation of demersal fishes. Fisheries Research 213: 160-171.</p>
+<p>*<strong>Silva, T.L.</strong>, <strong>G. Fay</strong>, T.A. Mooney, J. Robbins, M.T. Weinrich, C.D. Carson, T.V.N. Cole, M.A.&nbsp;Thompson, D.N. Wiley. 2019. Toothed whale habitat use in a marine protected area using point process models. Marine Ecology Progress Series 609: 239-256.</p>
+<p>Cadrin, S.X., D.R. Goethel, **M.R. Morse, <strong>G. Fay</strong>, L.A. Kerr. 2019. “So, where do you come from?” The impact of assumed spatial population structure on estimates of recruitment. Fisheries Research 217: 156-168.</p>
+<p><strong>2018</strong></p>
+<p>Kneebone, J., **<strong>M.V. Winton</strong>, A. Danylchuk, J. Chisholm, G.B. Skomal. 2018. An assessment of juvenile sand tiger (<em>Carcharias taurus</em>) activity patterns in a seasonal nursery using accelerometer transmitters. Environmental Biology of Fishes 101: 1739-1756.</p>
+<p>**<strong>Winton, M.V.</strong>, J. Kneebone, D. Zemeckis, <strong>G. Fay</strong>. 2018. A spatial point process model to estimate individual centers of activity from passive acoustic telemetry data. Methods in Ecology and Evolution 9: 2262-2272.</p>
+<p>Olsen, E., I.C. Kaplan, C. Ainsworth, <strong>G. Fay</strong>, S. Gaichas, R. Gamble, R. Girardin, C.H. Eide, T.F. Ihde, H. Morzaria-Luna, **K.F. Johnson, M. Savina-Rolland, H. Townsend, M. Weijerman, E.A. Fulton, J.S. Link. 2018. Ocean Futures Under Ocean Acidification, Marine Protection, and Changing Fishing Pressures Explored Using a Worldwide Suite of Ecosystem Models. Frontiers in Marine Science 5:64. doi: 10.3389/fmars.2018.00064</p>
+<p>**<strong>Wildermuth, R.P.</strong>, <strong>G. Fay</strong>, S.K. Gaichas. 2018. Structural uncertainty in qualitative models for ecosystem-based management of Georges Bank. Canadian Journal of Fisheries and Aquatic Sciences 75: 1635-1643.</p>
+<p>**<strong>Winton, M.V.</strong>, <strong>G. Fay</strong>, H.L. Haas, M. Arendt, S. Barco, M.C. James, C. Sasso, R. Smolowitz. 2018. Estimating the distribution and relative density of satellite-tagged loggerhead sea turtles in the western North Atlantic using geostatistical mixed effects models. Marine Ecology Progress Series 586: 217–232.</p>
+<p>Punt, A.E., J. Day, <strong>G. Fay</strong>, M. Haddon, N. Klaer, L.R. Little, **K.J. Privitera-Johnson, A.D.M. Smith, D.C. Smith, M. Sporcic, R.B. Thomson, G.N. Tuck, J. Upston, S.E. Wayte. 2018. Retrospective investigation of assessment uncertainty for fish stocks off southeast Australia. Fisheries Research 198: 117-128.</p>
+<p><strong>2017</strong></p>
+<p>Samhouri, J.F., K.S. Andrews, <strong>G. Fay</strong>, C.J. Harvey, E.L. Hazen, **S.M. Hennessey, K. Holsman, M.E. Hunsicker, S.I. Large, K.N. Marshall, A.C. Stier, *J.C. Tam, S.G. Zador. 2017. Defining ecosystem thresholds for human activities and environmental pressures in the California Current. Ecosphere 8(6):e01860. 10.1002/ecs2.1860.</p>
+<p>DePiper, G., S. Gaichas, S. Lucey, P.P. da Silva, M.R. Anderson, H. Breeze, A. Bundy, P.M. Clay, <strong>G. Fay</strong>, R. Gamble, R.S. Gregory, P. Fratantoni, C.L.L. Johnson, M. Koen-Alonso, K. Kleisner, J. Olson, *C.T. Perretti, P. Pepin, F. Phelan, V. Saba, L.A. Smith, J. Tam, N. Templeman, **<strong>R.P. Wildermuth</strong>. 2017. Operationalizing Integrated Ecosystem Assessments within a Multidisciplinary Team: Lessons Learned from a Worked Example. ICES Journal of Marine Science 74: 2076–2086.</p>
+<p>**<strong>Winton M.V.</strong>, C. Huntsberger, D. Rudders, G. DeCelles, K. Thompson, K. Goetting, R. Smolowitz. 2017. Spatiotemporal patterns of flatfish bycatch in two scallop access areas on Georges Bank. Journal of Northwest Atlantic Fishery Science 49: 23-37.</p>
+<p><strong>Fay, G.</strong>, J.S. Link, J.A. Hare. 2017. Assessing the effects of ocean acidification in the Northeast US using an end-to-end marine ecosystem model. Ecological Modelling 347: 1-10.</p>
+<p>Gaichas, S.K., M. Fogarty, G. DePiper, <strong>G. Fay</strong>, R. Gamble, S. Lucey, L. Smith. 2017. Combining stock, multispecies, and ecosystem level fishery objectives within an operational management procedure: simulations to start the conversation. ICES Journal of Marine Science 74: 552-565.</p>
+<p><strong>2016</strong></p>
+<p>Weijerman, M., J.S. Link, E.A. Fulton, E. Olsen, H. Townsend, S. Gaichas, C. Hansen, M. Skern-Mauritzen, I.C. Kaplan, R. Gamble, <strong>G. Fay</strong>, M. Savina, C. Ainsworth, I. van Putten, R. Gorton, R. Brainard, K. Larsen, T. Hutton. 2016. Atlantis Ecosystem Model Summit: Report from a workshop. Ecological Modelling 335: 35-38.</p>
+<p>Olsen, E., <strong>G. Fay</strong>, S. Gaichas, R. Gamble, S. Lucey, and J.S. Link. 2016. Ecosystem Model Skill Assessment. Yes We Can! PLoS ONE 11(1): e0146467. doi:10.1371/journal.pone.0146467</p>
+<p><strong>2015</strong></p>
+<p><strong>Fay, G.</strong>, J.S. Link, S.I. Large, and R.J. Gamble. 2015. Management performance of ecological indicators in the Georges Bank finfish fishery. ICES Journal of Marine Science 72: 1285-1296.</p>
+<p>Griffiths, S.P., and <strong>G. Fay</strong>. 2015. Including recreational fisheries data in stock assessment: implications for model performance and subsequent management strategies. Fisheries Management and Ecology 22: 192-212.</p>
+<p>Large, S.I., <strong>G. Fay</strong>, K.D. Friedland, and J.S. Link. 2015. Quantifying patterns of change in marine ecosystem response to multiple pressures. PLoS ONE.10.1371/journal.pone.0119922.</p>
+<p>Large, S.I., <strong>G. Fay</strong>, K.D. Friedland, and J.S. Link. 2015<em>.</em> Critical points in ecosystem responses to fishing and environmental pressures. Marine Ecology Progress Series 521: 1-17.</p>
+<p><strong>2014</strong></p>
+<p>Little, L.R., J. Parslow, <strong>G. Fay</strong>, A.D.M. Smith, R.Q. Grafton, A.E. Punt, and G.N. Tuck. 2014. Environmental derivatives, risk analysis and conservation management. Conservation Letters 7: 196-207.</p>
+<p><strong>2004 - 2013</strong></p>
+<p><strong>Fay, G.</strong>, and A.E. Punt. 2013. Methods for estimating spatial trends in Steller sea lion pup production using the Kalman filter. Ecological Applications 23: 1455-1474.</p>
+<p><strong>Fay, G.</strong>, S.I. Large, J.S. Link, and R.J. Gamble. 2013. Testing systemic fishing responses with ecosystem indicators. Ecological Modelling 265: 45-55.</p>
+<p>Large, S.I., <strong>G. Fay</strong>, K. Friedland, and J.S. Link. 2013. Defining trends and thresholds in responses of ecological indicators to fishing and environmental pressures. ICES Journal of Marine Science 70: 755-767.</p>
+<p>Klaer, N.L., S.E. Wayte, and <strong>G. Fay</strong>. 2012. An evaluation of the performance of a harvest strategy that uses an average-length-based assessment method. Fisheries Research 134-136: 42-51.</p>
+<p><strong>Fay, G.</strong>, A.E. Punt, and A.D.M. Smith. 2011. Impacts of spatial uncertainty on performance of age structure-based harvest strategies for blue eye trevalla (Hyperoglyphe antarctica). Fisheries Research 110: 391-407.</p>
+<p>Smith, A.D.M., D.C. Smith, G.N. Tuck, N. Klaer, A.E. Punt, I. Knuckey, J. Prince, A. Morison, R. Kloser, M. Haddon, S. Wayte, J. Day, <strong>G. Fay</strong>, F. Pribac, M. Fuller, B. Taylor, L.R. Little. 2008. Experience in implementing harvest strategies in Australia’s south-eastern fisheries. Fisheries Research 94: 373-379.</p>
+<p>Branch, T.A., R. Hilborn, A.C. Haynie, <strong>G. Fay</strong>, L. Flynn, J. Griffiths, K.N. Marshall, J.K. Randall, J.M. Scheuerell, E.J. Ward, M. Young. 2006. Fleet dynamics and fishermen behavior: lessons for fisheries managers. Canadian Journal of Fisheries and Aquatic Sciences 63: 1647-1668.</p>
+<p><strong>Fay, G.</strong> and A.E. Punt. 2006. Modeling spatial dynamics of Steller sea lions (Eumetopias jubatus) using Maximum Likelihood and Bayesian methods: evaluating causes for population decline. Pages 405-433 in: A.W. Trites, S. Atkinson, D.P. DeMaster, L.W. Fritz, T.S. Gelatt, L.D. Rea, and K. Wynne (eds.) Sea lions of the world. Alaska Sea Grant College Program, University of Alaska Fairbanks.</p>
+<p>Punt, A.E. and <strong>G. Fay</strong>. 2006. Can experimental manipulation be used to determine the cause of the decline of western stock of Steller sea lions (Eumetopias jubatus)? Pages 435-454 in: A.W. Trites, S. Atkinson, D.P. DeMaster, L.W. Fritz, T.S. Gelatt, L.D. Rea, and K. Wynne (eds.) Sea lions of the world. Alaska Sea Grant College Program, University of Alaska Fairbanks.</p>
+<p>Punt, A.E., C. Allison and <strong>G. Fay</strong>. 2004. An examination of assessment models for the Eastern North Pacific gray whale based on inertial dynamics. Journal of Cetacean Research and Management 6: 121-132.</p>
 </section>
-<section id="the-conversion" class="level3">
-<h3 class="anchored" data-anchor-id="the-conversion">The conversion</h3>
-<p>Here are the main steps to convert the Faylab Lab manual from Bookdown to Quarto.</p>
-<p>Create new empty file called <code>_quarto.yml</code> and add book metadata there. The screenshots below</p>
-<p>Set project type as <code>book</code>.</p>
-<p>Move metadata out of <code>index.qmd</code> and into <code>_quarto.yml</code>. Title, author, and publication date were in <code>index.qmd</code> with date set using <code>date: "Last updated:r Sys.Date()"</code>. Now these are in <code>_quarto.yml</code> with date set using <code>date: last-modified</code>. Note that having R code would require you to adjust code chunk options in the Quarto style (<code>#|</code>). This tripped us up a bit; see <a href="#github-actions">GitHub Actions</a>.</p>
-<p>Move chapters listing out of <code>_bookdown.yml</code> and into <code>_quarto.yml</code>.</p>
-<p>Add page footer to <code>_quarto.yml</code>.</p>
-<p>Here’s what ours looked like when we finished the steps above (<a href="https://github.com/thefaylab/lab-manual/blob/main/_quarto.yml"><code>_quarto.yml</code></a>).</p>
-<div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/faylab-manual-quarto-yml.png" class="img-fluid figure-img" style="width:45.0%" alt="_quarto.yml file contents"></p>
-<figcaption>_quarto.yml contents</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/faylab-manual.png" class="img-fluid figure-img" style="width:45.0%" alt="screenshot of Lab Manual book"></p>
-<figcaption>Faylab Lab Manual</figcaption>
-</figure>
-</div>
-</div>
-</div>
-</div>
-<p>Change insertion of images from html style to Quarto style. (Note Quarto calls them “figures”, not “images”.) The following snippet will insert the GitHub octocat logo in a page:</p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">![]</span><span class="er">(</span><span class="ex">https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png</span><span class="kw">)</span><span class="ex">{fig-align=</span><span class="st">"left"</span> width=<span class="st">"35px"</span>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>Change all filename extensions <code>.Rmd</code> -&gt; <code>.qmd</code> (you could Preview after this change and see that the book looks the same). Note that Quarto works with <code>.Rmd</code> files just as well as it does <code>.qmd</code>, so this change is not urgent. In fact, if you have a lot of R code in your .Rmds (unlike the Faylab Lab Manual), there will be additional tinkering needed to make the code chunks happy.</p>
-</section>
-<section id="citations" class="level3">
-<h3 class="anchored" data-anchor-id="citations">Citations</h3>
-<p>The Faylab Lab Manual cited two papers, presenting us with an opportunity to see how easy it is to add references to a Quarto book. Briefly, in the Visual Editor, Insert &gt; Citation &gt; DOI. Pasting the DOI or its full URL, we can insert the citation. This automatically creates a <code>references.bib</code> file and adds the full citations at the bottom of the chapter page (<a href="https://youtu.be/azVAl343CIU?t=2923">watch demo</a>). In July 2022, we had to manually add a <code>## References</code> heading, but this may not be necessary in future Quarto updates.</p>
-<div class="quarto-layout-panel" data-layout-ncol="2">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/rstudio-insert-citation.png" class="img-fluid figure-img" alt="RStudio Visual Editor Insert dropdown menu with Citation highlighted"></p>
-<figcaption>Insert citation via its DOI using RStudio Visual Editor</figcaption>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><img src="images/rstudio-insert-citation-doi.png" class="img-fluid"></p>
-</div>
-</div>
-</div>
-</section>
-<section id="publishing-notes" class="level3">
-<h3 class="anchored" data-anchor-id="publishing-notes">Publishing notes</h3>
-<p>If the book’s output is strictly html, there’s no need to specify <code>output-dir</code> in <code>_quarto.yml</code>. The output directory default is <code>_book/</code>, which is what we’d like. If we wanted other types of output like like PDF or EPUB, etc. those single file outputs are also written to the output-dir (<a href="https://quarto.org/docs/books/book-output.html#output-path">Quarto docs</a>).</p>
-<p>If you currently have a <code>docs/</code> folder, delete it.</p>
-<p>Update <a href="https://github.com/thefaylab/lab-manual/blob/main/.gitignore"><code>.gitignore</code></a> to ignore <code>_book/</code>. At the same time, we have it ignore caches and a .quarto file:</p>
-<div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">/.quarto/</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="ex">*_cache/</span></span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="ex">_book/</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p>Once all is settled, delete <code>_output.yml</code>.</p>
-<p>Once the Openscapes fork was fully reviewed, we made a pull request from that to the main branch of the book’s repo. Once that was merged, we set up GitHub Actions to render the book. (TODO: instructions for GitHub Actions)</p>
-</section>
-<section id="github-actions" class="level3">
-<h3 class="anchored" data-anchor-id="github-actions">GitHub Actions</h3>
-<p>This book was mostly prose and screenshots without any R code. This made the conversion from RMarkdown to Quarto likely more straightforward than if you also needed to adjust code chunk options in the quarto style (#|). Our initial GitHub Action to render the converted Faylab Lab Manual failed because we had a piece of R code - even though the code was commented out! This was resolved when we deleted the line.</p>
-</section>
-</section>
-<section id="distill-to-quarto" class="level2">
-<h2 class="anchored" data-anchor-id="distill-to-quarto">Distill to quarto</h2>
-<p>We transitioned our <a href="https://openscapes.org/events">events site</a> from distill to quarto in May 2022 (github view <a href="https://github.com/Openscapes/events/tree/13f95f507629eba5e6ed721d1902258dcbc421e6">before</a> and <a href="https://github.com/Openscapes/events/tree/237acd5144d810cb5465cc5616ee453f2e261fbc">after</a>). We followed excellent notes and examples from <a href="https://www.njtierney.com/post/2022/04/11/rmd-to-qmd/">Nick Tierney</a> and <a href="https://blog.djnavarro.net/posts/2022-04-20_porting-to-quarto/">Danielle Navarro</a>.</p>
-<p>After we had changed all the files, the Build tab in the RStudio IDE still showed “Build website” rather then “Render Website” and “Preview Website”, and would error when we pushed them (because that button was expecting a distill site, not a quarto site). To fix this, we updated the <code>.Rproj</code> file. Clicking on the <code>.Rproj</code> file in the RStudio IDE will open a dialog box where you can click things you want (you can also open these in a text editor or from the GitHub website to see the actual text). To fix this situation with the Build tab: Project Options &gt; Build Tools &gt; Project Build Tools &gt; <strong>None</strong>.</p>
-<p>Looking at files <a href="https://github.com/Openscapes/events/blob/main/posts/_metadata.yml"><code>/posts/_metadata.yml</code></a> and <a href="https://github.com/Openscapes/events/blob/main/_quarto.yml"><code>_quarto.yml</code></a> helps see where things are defined. For example, to make event post citations appear, we added <code>citation: true</code> to <a href="https://github.com/Openscapes/events/blob/main/posts/_metadata.yml"><code>/posts/_metadata.yml</code></a> and in <a href="https://github.com/Openscapes/events/blob/main/_quarto.yml"><code>_quarto.yml</code></a> under the <code>website</code> key we set <code>site-url: https://openscapes.github.io/events</code>. We deleted <code>footer.html</code> used with distill because footer is now defined in <code>quarto.yml</code>.</p>
-<section id="publishing-notes-1" class="level3">
-<h3 class="anchored" data-anchor-id="publishing-notes-1">Publishing notes</h3>
-<blockquote class="blockquote">
-<p><strong>Background</strong>: Our distill site had been set up to output to a <code>docs</code> folder, and had GitHub Settings &gt; Pages set to look there rather <code>gh-pages</code> branch. (Julie note: this was a new-to-me capability when we set up the events distill site in Spring 2021 so I had forgotten that was an option). We’ve inititally kept this same set-up for now with our events page in <code>_quarto.yml</code>: <a href="https://github.com/Openscapes/events/blob/237acd5144d810cb5465cc5616ee453f2e261fbc/_quarto.yml#L3"><code>output-dir: docs</code></a>. However, this is sub-optimal; better to not have to commit and push these files but to instead have a GitHub Action generate them upon a commit. So the following is what we did -</p>
-</blockquote>
-<p><strong>Don’t specify <code>output-dir</code> in <code>_quarto.yml</code></strong>. The output directory default is <code>_site/</code>, which is what we’d like.</p>
-<p>If you currently have a <code>docs/</code> folder (like we did as we were experimenting), delete it.</p>
-<p><strong>Update <code>.gitignore</code> to ignore <code>_site/</code></strong>. At the same time, we have it ignore caches and a .quarto file:</p>
-<div class="sourceCode" id="cb3"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="ex">/.quarto/</span></span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="ex">*_cache/</span></span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="ex">_site/</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<p><strong>Push these changes, merge into main.</strong></p>
-<p><strong>On GitHub.com, in your repo, set up GitHub publishing</strong></p>
-<p>Follow instructions from the <a href="https://openscapes.github.io/quarto-website-tutorial/explore.html#set-up-github-publishing">explore and setup chapter</a>.</p>
-</section>
-</section>
-<section id="troubleshooting" class="level2">
-<h2 class="anchored" data-anchor-id="troubleshooting">Troubleshooting</h2>
-<section id="github-action-fails-says-you-need-rmarkdown-but-you-dont-have-r-code" class="level3">
-<h3 class="anchored" data-anchor-id="github-action-fails-says-you-need-rmarkdown-but-you-dont-have-r-code">GitHub Action fails, says you need RMarkdown but you don’t have R code!</h3>
-<p>And you changed all .Rmds to .qmds!</p>
-<p>You likely have a few <code>setup</code> code chunks from RMarkdown, that look like this:</p>
-<p><code>{r setup, include=FALSE}</code></p>
-<p><code>knitr::opts_chunk$set(echo = FALSE)</code></p>
-<p>You can find them by opening each of your files and having a look, or use GitHub’s search for the keyword <code>knitr</code></p>
+<section id="section" class="level4">
+<h4 class="anchored" data-anchor-id="section"></h4>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -779,14 +683,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./learning-more.html" class="pagination-link" aria-label="Learning more">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Learning more</span>
+      <a href="./people.html" class="pagination-link" aria-label="People">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">People</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./people.html" class="pagination-link" aria-label="People">
-        <span class="nav-page-text">People</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
@@ -797,7 +698,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/openscapes/quarto-website-tutorial/edit/main/transition-from-rmarkdown.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/openscapes/quarto-website-tutorial/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/openscapes/quarto-website-tutorial/edit/main/publications.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/openscapes/quarto-website-tutorial/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
