@@ -42,6 +42,10 @@ website:
       - learning-more.qmd
       - href: transition-from-rmarkdown.qmd
         text: Transition from Rmd
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
 
 
 format:
