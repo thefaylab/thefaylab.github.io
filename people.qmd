@@ -4,11 +4,11 @@ title: "People"
 
 # People
 
-[Current Team](blob:http://webserver.smast.umassd.edu/4d718fe8-6bbf-48de-ab71-93f8c0c71f6c#gradstudent) / [Alumni](blob:http://webserver.smast.umassd.edu/4d718fe8-6bbf-48de-ab71-93f8c0c71f6c#alumni)
+[Current Team](#current) / [Alumni](#alumni)
 
 ------------------------------------------------------------------------
 
-### Current Team
+### Current Team {#current}
 
 ![](images/team/fay-simmonsmill.png){width="150"}
 
@@ -95,7 +95,7 @@ Sophie joined the Fay Lab in March of 2025. She grew up in Washington State but 
 
 ------------------------------------------------------------------------
 
-### Alumni
+### Alumni {#alumni}
 
 (*next and* *current positions in italics*)
 
