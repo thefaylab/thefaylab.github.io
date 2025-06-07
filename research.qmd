@@ -2,25 +2,22 @@
 title: "Research"
 ---
 
-## Research
-
 Our research focuses on developing and testing quantitative modeling tools used for assessment and management of living marine resources, working to advance sustainable decision-making for our oceans and the people who depend on them in a changing world. We focus on decision support tools applied to management of fish, marine mammal, and reptile populations, regionally in the Northeast and Mid-Atlantic of the USA, as well as elsewhere nationally and internationally. A central theme is considering the performance of methods used for management given an ecosystem and socio-ecological systems perspective. We use ecosystem and population modeling to test the performance of fishery- and ecosystem-based management strategies and evaluate the robustness of management options to a range of system uncertainty, including climate change. To achieve these goals, we make use of and develop methods for stock and ecosystem assessment, and employ simulation frameworks including Management Strategy Evaluation. To support Integrated Ecosystem Assessment, we are increasingly working across disciplines to integrate dynamics of the human dimension into evaluation of management consequences of choices for human uses of the marine ecosystem.
 
 We embrace principles and workflows from open data science to help make our work more shareable, accessible, and reproducible. Common to all our work is an applied approach to improve the advice for science-based decision-making by living resource management agencies; quantitative models and methods like MSE provide a transparent and explicit approach for quantifying tradeoffs among management objectives, often merely implicit in decision-making. Developing effective methods for visualizing and communicating these tradeoffs and management outcomes is an additional area of focus. We collaborate with scientists at state and federal agencies, international science organizations, and with regional fisheries management organizations. Graduate students in our lab all work closely with scientists at NOAA National Marine Fisheries Service, in Population Dynamics, Ecosystem Dynamics and Assessment, Surveys, and Protected Species.
 
 Current and recent research topics include:
-
-```         
-Using ecosystem models to test the performance of ecosystem-based fisheries management strategies in the Northeast US
-Developing methods for managing New England groundfish fisheries under a changing climate
-Assessing economic effects of fishing scenarios through ecological-economic model coupling
-Evaluating performance of adaptations to scientific surveys due to spatial overlap with offshore wind installation areas
-Ecosystem indicators as operational tools for fisheries management
-Management of recreational fishery for summer flounder
-Developing and testing spatial stock assessment models
-Integrating telemetry information into assessment models for highly migratory species
-Decision support tools for Integrated Ecosystem Assessment and Ecosystem-Based Management
-Multispecies stock assessment models
+     
+* Using ecosystem models to test the performance of ecosystem-based fisheries management strategies in the Northeast US
+* Developing methods for managing New England groundfish fisheries under a changing climate
+* Assessing economic effects of fishing scenarios through ecological-economic model coupling
+* Evaluating performance of adaptations to scientific surveys due to spatial overlap with offshore wind installation areas
+* Ecosystem indicators as operational tools for fisheries management
+* Management of recreational fishery for summer flounder
+* Developing and testing spatial stock assessment models
+* Integrating telemetry information into assessment models for highly migratory species
+* Decision support tools for Integrated Ecosystem Assessment and Ecosystem-Based Management
+* Multispecies stock assessment models
 ```
 
 ### Research themes 
@@ -43,36 +40,35 @@ Fisheries are rarely prosecuted on a species-by-species basis. However, examples
 
 ### Sources of funding (2014-present, including from GF private consulting)
 
-```         
-Atlantic States Marine Fisheries Commission
-Boston Scientific Foundation
-California Ocean Science Trust
-Cooperative Institute for the North Atlantic Region (CINAR)
-Department of Energy
-Gulf of Maine Research Institute
-International Council for the Exploration of the Sea (ICES)
-Massachusetts Clean Energy Center
-Massachusetts Division of Marine Fisheries
-Mid-Atlantic Fishery Management Council
-MIT Sea Grant
-National Center for Ecological Analysis & Synthesis, UC Santa Barbara
-National Science Foundation
-New England Fishery Management Council
-NOAA Climate Program Office
-NOAA Fisheries & the Environment (FATE)
-NOAA Fisheries Stock Assessment Analytical Methods
-NOAA Fisheries Office of Science and Technology
-NOAA Fisheries Quantitative Ecology and Socioeconomics Training Program (QUEST)
-NOAA Northeast Fisheries Science Center
-NOAA Office of National Marine Sanctuaries
-NOAA Saltonstall Kennedy
-NOAA Sea Grant
-Science Center for Marine Fisheries, University of Southern Mississippi
-Sound Resolutions LLC
-The Nature Conservancy
-University of Massachusetts Dartmouth Blue Economy
-University of Massachusetts Dartmouth Marine & Undersea Science Technology Program (MUST)
-Virginia Institute of Marine Sciences
-Virginia Polytechnic Institute & State University
-Woods Hole Sea Grant
-```
+      
+* Atlantic States Marine Fisheries Commission
+* Boston Scientific Foundation
+* California Ocean Science Trust
+* Cooperative Institute for the North Atlantic Region (CINAR)
+* Department of Energy
+* Gulf of Maine Research Institute
+* International Council for the Exploration of the Sea (ICES)
+* Massachusetts Clean Energy Center
+* Massachusetts Division of Marine Fisheries
+* Mid-Atlantic Fishery Management Council
+* MIT Sea Grant
+* National Center for Ecological Analysis & Synthesis, UC Santa Barbara
+* National Science Foundation
+* New England Fishery Management Council
+* NOAA Climate Program Office
+* NOAA Fisheries & the Environment (FATE)
+* NOAA Fisheries Stock Assessment Analytical Methods
+* NOAA Fisheries Office of Science and Technology
+* NOAA Fisheries Quantitative Ecology and Socioeconomics Training Program (QUEST)
+* NOAA Northeast Fisheries Science Center
+* NOAA Office of National Marine Sanctuaries
+* NOAA Saltonstall Kennedy
+* NOAA Sea Grant
+* Science Center for Marine Fisheries, University of Southern Mississippi
+* Sound Resolutions LLC
+* The Nature Conservancy
+* University of Massachusetts Dartmouth Blue Economy
+* University of Massachusetts Dartmouth Marine & Undersea Science Technology Program (MUST)
+* Virginia Institute of Marine Sciences
+* Virginia Polytechnic Institute & State University
+* Woods Hole Sea Grant
