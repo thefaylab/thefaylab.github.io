@@ -10,7 +10,7 @@ title: "People"
 
 ### Current Team
 
-![](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2022/09/fay-simmonsmill.png){alt="GFAY_simmonsmill" width="150"}
+![](images/team/fay-simmonsmill.png){width="150"}
 
 Dr. Gavin Fay (Lab PI)\
 Associate Professor\
@@ -20,7 +20,7 @@ Associate Professor\
 [Github](http://github.com/gavinfay)\
 [Google Scholar](http://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=en)
 
-[![](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2017/09/AHart-e1505904328300.jpg){alt="Hart" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2017/09/AHart-e1505904328300.jpg)
+![](images/team/AHart.jpg){width="150"}
 
 **Amanda Hart**\
 Ph.D. candidate\
