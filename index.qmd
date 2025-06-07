@@ -3,13 +3,11 @@ title: "The Fay Lab, Quantitative Fisheries & Ecosystem-Based Management"
 subtitle: "School for Marine Science and Technology, University of Massachusetts Dartmouth"
 ---
 
-\_"Quantitative science towards better decision-making for our oceans and the people who depend on them"\_
-
 Welcome to Gavin Fay’s lab at the University of Massachusetts Dartmouth.
 
 [Read about our lab culture & philosophy.](https://thefaylab.github.io/lab-manual/02-lab-culture-philosophy.html)
 
-Our research focuses on developing and testing quantitative modeling tools used for assessment and management of living marine resources, working to advance sustainable decision-making for our oceans and the people who depend on them in a changing world. We focus on decision support tools applied to management of fish, marine mammal, and reptile populations, regionally in the Northeast and Mid-Atlantic of the USA, as well as elsewhere nationally and internationally. A central theme is considering the performance of methods used for management given an ecosystem and socio-ecological systems perspective, including the robustness of policy alternatives to a range of system uncertainties, including climate change. To achieve these goals, we make use of and develop methods for stock and ecosystem assessment, and employ simulation frameworks including Management Strategy Evaluation. To support Integrated Ecosystem Assessment, we are increasingly working across disciplines to integrate dynamics of the human dimension into evaluation of management consequences of choices for human uses of the marine ecosystem.
+Our research focuses on developing and testing quantitative modeling tools used for assessment and management of living marine resources, working to advance sustainable decision-making for our oceans and the people who depend on them in a changing world. We focus on decision support tools applied to management of fish, marine mammal, and reptile populations, regionally in the Northeast and Mid-Atlantic of the USA, as well as elsewhere nationally and internationally. A central theme is considering the performance of methods used for management given an ecosystem and socio-ecological systems perspective, including the robustness of policy alternatives to a range of system uncertainties, including the impacts of climate change.
 
 We embrace principles and workflows from open data science to help make our work more shareable, accessible, and reproducible. Common to all our work is an applied approach to improve the advice for science-based decision-making by living resource management agencies, and we collaborate and partner with these institutions and engage in their public decision-making processes.
 
