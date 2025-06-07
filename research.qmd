@@ -18,7 +18,7 @@ Current and recent research topics include:
 * Integrating telemetry information into assessment models for highly migratory species
 * Decision support tools for Integrated Ecosystem Assessment and Ecosystem-Based Management
 * Multispecies stock assessment models
-```
+
 
 ### Research themes 
 
