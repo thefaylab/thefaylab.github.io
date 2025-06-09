@@ -34,10 +34,13 @@ website:
         text: People
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: publications.qmd
         text: Publications
-
-
+      - href: jointhelab.qmd
+        text: Opportunities
+        
 format:
   html:
     theme: cosmo

@@ -12,7 +12,7 @@ title: "People"
 
 ![](images/team/fay-simmonsmill.png){width="150"}
 
-Dr. Gavin Fay (Lab PI)\
+**Dr. Gavin Fay (Lab PI)**\
 Associate Professor\
 [gfay\@umassd.edu](mailto:gfay@umassd.edu)\
 +1 508 910 6363\
@@ -146,7 +146,8 @@ Emily's postdoc work in the lab focused on technical analyses for the New Englan
 
 **Ashleigh Novak**\
 Technical associate & lab manager (2019-2021)\
-Next/Now: *Atlantic White Shark Conservancy* [Personal website](#0), [Google Scholar](#0)
+Next/Now: *Atlantic White Shark Conservancy* \
+[Personal website](#0), [Google Scholar](#0)
 
 [![](images/team/Schilpp1.jpg){alt="Schilpp"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/Schilpp1.jpg)
 
@@ -168,7 +169,8 @@ Next/Now: *Research Marine Scientist, NOAA Stellwagen Bank National Marine Sanct
 
 **Dr. Vanessa Trijoulet, PhD**\
 Visiting Scholar UMassD / Postdoctoral researcher NOAA NEFSC 2016-2018\
-Next/Now: *Stock assessment scientist, Danish Technical University, Denmark* [Google Scholar](https://scholar.google.com/citations?user=aYB-z9QAAAAJ&hl=en&oi=ao)
+Next/Now: *Stock assessment scientist, Danish Technical University, Denmark* \
+[Google Scholar](https://scholar.google.com/citations?user=aYB-z9QAAAAJ&hl=en&oi=ao)
 
 Vanessa worked in collaboration with NOAA Fisheries (Northeast Fisheries Science Center, Woods Hole) and SMAST on the development of a multispecies state-space fisheries assessment model for the Georges Bank stocks. Vanessa's research focus is on marine ecosystem modelling, with interests in using modelling to study population-level interactions and improve conservation and management strategies. Vanessa obtained her PhD from the University of Strathclyde (Glasgow, UK) where she applied bioeconomic models of grey seal predation impacts on the West of Scotland fisheries. Vanessa has a Master’s degree in oceanography, specialized in marine biology from the Oceanographic Centre of Marseille, and a Bachelor’s degree in Sciences and technique specialized in life sciences and marine biology from the University of La Rochelle. *(Main collaborators: Dr. Kiersten Curti & Dr. Tim Miller, NOAA NEFSC)*
 
@@ -184,19 +186,25 @@ Next: *MS student, Georgia Southern University\
 
 **Ashley Weston**\
 M.S. 2018\
-Next: *Quantitative Fisheries Researcher, Gulf of Maine Research Institute* Now: *Statistician, NOAA Fisheries, Greater Atlantic Regional Fisheries Office*
+Next: *Quantitative Fisheries Researcher, Gulf of Maine Research Institute\
+*Now: *Statistician, NOAA Fisheries, Greater Atlantic Regional Fisheries Office*
 
-Ashley grew up fishing on the Chesapeake Bay. She attained a B.S. double major in Fisheries Conservation and Biological Sciences from Virginia Tech. For her MS thesis, Ashley worked with groundfish stock assessments in the Gulf of Alaska, focusing on developing models that account for the effects of environmental drivers on fisheries resources and discerning robust selection tools for these models. In addition, Ashley investigated subsequent implications of future climate change within these stock assessments on current management policies. *(Main collaborator: Dr. Carey McGilliard, NOAA AFSC)*
+Ashley grew up fishing on the Chesapeake Bay. She attained a B.S. double major in Fisheries Conservation and Biological Sciences from Virginia Tech. For her MS thesis, Ashley worked with groundfish stock assessments in the Gulf of Alaska, focusing on developing models that account for the effects of environmental drivers on fisheries resources and discerning robust selection tools for these models. In addition, Ashley investigated subsequent implications of future climate change within these stock assessments on current management policies. *(Main collaborator: Dr. Carey McGilliard, NOAA AFSC).*
 
 [![](images/team/Wildermuth.jpg){alt="Wildermuth"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/Wildermuth.jpg)
 
-**Robert Wildermuth** Ph.D. 2021 Next: *Postdoctoral Fellow, University of California Santa Cruz* Now: *Fishery Biologist, NOAA Fisheries Southwest Fisheries Science Center* [Google Scholar](https://scholar.google.com/citations?user=UhATj4oAAAAJ&hl=en)
+**Robert Wildermuth** \
+Ph.D. 2021 \
+Next: *Postdoctoral Fellow, University of California Santa Cruz* \
+Now: *Fishery Biologist, NOAA Fisheries Southwest Fisheries Science Center* \
+[Google Scholar](https://scholar.google.com/citations?user=UhATj4oAAAAJ&hl=en)
 
-Robert's research interests focus on how to use quantitative tools to make effective management decisions with uncertain and incomplete knowledge. As a 2018 NMFS-Sea Grant Population and Ecosystem Dynamics Fellow, his PhD work looked at how assumptions about the structure and function of marine social-ecological systems can affect decision-making. He applied both quantitative and qualitative models in Bayesian statistical frameworks to analyze decision-support tools for managing the social-ecological system on Georges Bank, USA, including objectives of fisheries sustainability and human wellbeing. Robert earned a B.S. in Zoology and Biological Sciences at Colorado State University and a M.S. in Biology at Arizona State. Research topics included demographic effects of California sea lion aggressive behavior, sexually selected traits in the Trinidadian guppy, and oil spill impacts on marine mammal and mollusk populations. *(Main PhD collaborator: Dr. Sarah Gaichas, NOAA NEFSC)*
+Robert's research interests focus on how to use quantitative tools to make effective management decisions with uncertain and incomplete knowledge. As a 2018 NMFS-Sea Grant Population and Ecosystem Dynamics Fellow, his PhD work looked at how assumptions about the structure and function of marine social-ecological systems can affect decision-making. He applied both quantitative and qualitative models in Bayesian statistical frameworks to analyze decision-support tools for managing the social-ecological system on Georges Bank, USA, including objectives of fisheries sustainability and human wellbeing. Robert earned a B.S. in Zoology and Biological Sciences at Colorado State University and a M.S. in Biology at Arizona State. Research topics included demographic effects of California sea lion aggressive behavior, sexually selected traits in the Trinidadian guppy, and oil spill impacts on marine mammal and mollusk populations. *(Main PhD collaborator: Dr. Sarah Gaichas, NOAA NEFSC).*
 
 [![](images/team/Winton-togzilla.jpg){alt="MWinton"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/togzilla.jpg)
 
-**Megan Winton** Ph.D. 2024\
+**Megan Winton** \
+Ph.D. 2024\
 Next/Now: *Lead Research Scientist, Atlantic White Shark Conservancy\
 *[Google Scholar](https://scholar.google.com/citations?user=s7FH69wAAAAJ&hl=en&oi=ao)
 
