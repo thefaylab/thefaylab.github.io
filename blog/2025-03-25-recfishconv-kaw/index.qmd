@@ -2,7 +2,7 @@
 title: "Conversations with recreational fishers about fisheries science"
 author: Kamran Walsh
 date: 2025-03-25
-slug: recfishconv-kw
+slug: recfishconv-kaw
 categories:
   - blog 
  # - community
