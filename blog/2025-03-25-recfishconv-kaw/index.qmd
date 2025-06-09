@@ -8,6 +8,7 @@ categories:
  # - community
   - communication
  #  - students
+image: recfishconv-yt-thumb-keb.png
 ---
 
 # Conversations with recreational fishers about fisheries science
