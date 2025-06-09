@@ -4,11 +4,11 @@ title: "Join the lab"
 
 ## Opportunities
 
-[Graduate students](http://webserver.smast.umassd.edu/lab_fay/?page_id=13#pgrads) \| [Undergraduate researchers](http://webserver.smast.umassd.edu/lab_fay/?page_id=13#pugrads) \| [Postdocs](http://webserver.smast.umassd.edu/lab_fay/?page_id=13#pposts)
+[Graduate students](#futuregrads) \| [Undergraduate researchers](#undergrads) \| [Postdocs](#postdocs)
 
 ------------------------------------------------------------------------
 
-### Prospective Graduate Students
+### Prospective Graduate Students {#futuregrads}
 
 Thanks for your interest in joining our team to improve ecosystem-based decision making for our oceans! I supervise students at the UMassD School for Marine Science and Technology pursuing graduate degrees (M.S. and Ph.D.) through the University of Massachusetts [Intercampus Marine Science Program (IMS), which offers MS, PhD, & PSM degrees in Marine Science and Technology](https://www.umassd.edu/smast/academics/). I am also able to supervise students in the UMassD College of Engineering’s [Engineering & Applied Science PhD Program](https://www.umassd.edu/programs/engineering-applied-science-phd/).
 
@@ -30,9 +30,7 @@ Interested applicants who fit the [prerequisites](https://www.umassd.edu/graduat
 
 5.  University transcripts (unofficial more than OK!)
 
-6.  A technical writing sample – this could be a publication, a research
-    proposal, a term paper, or some other piece that you are particularly
-    proud of.
+6.  A technical writing sample – this could be a publication, a research proposal, a term paper, or some other piece that you are particularly proud of.
 
 7.  Contact information for at least three references.
 
@@ -48,7 +46,7 @@ Complete information about graduate admissions to SMAST and IMS can be obtained 
 
 ------------------------------------------------------------------------
 
-### Undergraduate Researchers
+### Undergraduate Researchers {#undergrads}
 
 Paid undergraduate research technician opportunities in the lab, most often in marine data science and scientific communication, will be listed here when available and through CORSAIR JOBS.
 
@@ -56,6 +54,6 @@ Paid undergraduate research technician opportunities in the lab, most often in m
 
 ------------------------------------------------------------------------
 
-### Postdoctoral Researchers
+### Postdoctoral Researchers {#postdocs}
 
 Postdocs are a valuable part of our research and learning team. Please contact me if our research interests align and you are interested in collaborating on a research proposal together.

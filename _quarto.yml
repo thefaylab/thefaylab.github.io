@@ -38,6 +38,8 @@ website:
         text: Teaching
       - href: publications.qmd
         text: Publications
+      - href: blog.qmd
+        text: Blog
       - href: jointhelab.qmd
         text: Opportunities
         
