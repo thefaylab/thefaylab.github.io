@@ -1,0 +1,34 @@
+---
+title: "A new era for lab updates, and a look back on 2024"
+author: Kamran Walsh, Gavin Fay
+date: 2025-03-03
+slug: update2024
+categories:
+  - blog 
+  - community
+#  - training
+  - communication
+ #  - students
+image: ../../images/thefaylab_hex.png
+---
+
+## A new era for lab updates, and a look back on 2024
+
+*Kamran Walsh*, with contributions by *Gavin Fay*
+
+We’ve been doing some reflection during our lab meetings early this year, on many things, and including reflection on and revision to our lab values and how we express these and our culture in our lab manual (co-working on revising, affirming, and clarifying language describing our lab philosophy, with pushes to come). Part of these conversations included a group interest in being more intentional in making visible our lab activities via this blog on our website. Lab members have been drafting posts on things they have been doing that we hope to share out over the next few months. PhD student Kamran Walsh also put together a ‘2024 highlight reel’, some of which others will expand on but seems good for a (not exhaustive) winter warmer recap:
+
+Megan Winton (now Dr. Megan Winton) successfully defended her dissertation “Integrating telemetry data to improve abundance estimates and management advice for a highly migratory marine predator” in spring 2024. Megan’s defense was a fantastic culmination of her work which included her [2023 publication on an integrated population model for the Cape Cod white sharks](https://www.umassd.edu/news/2023/shark-study-published.html).
+
+Decision support specialist Madeleine Guyant started a full time Global Fisheries Specialist position at The Nature Conservancy (TNC) as part of [the Fishpath team](https://fishpath.org/about#core-team), and Master’s student Angelia Miller started a full time position at the [New England Fisheries Management Council (NEFMC)](https://www.nefmc.org/). We also welcomed Sarah Hope to the lab, a Master’s student who is investigating the intersection of supply chain and ecosystem dynamics to inform management decisions and improve access to local seafood in New England.
+
+Gavin [co-organized a session at the World Fisheries Congress ](https://wfc2024.fisheries.org/2023/02/07/onboarding-fisheries-scientists-to-open-science-integrating-collaborative-and-inclusive-principles-into-education-workforce-development-and-community-management/)in Seattle in March with [Julie Lowndes](https://jules32.github.io/) ([Openscapes](https://openscapes.org/)) and Eli Holmes (NOAA Fisheries, [NMFS Open Science](https://nmfs-opensci.github.io/)), which included a panel discussion and ‘unconference’ on “Onboarding Fisheries Scientists to Open Science”.
+
+PhD student Maria Cristina P**é**rez presented lab work on developing machine-learning emulators of complex marine ecosystem models to evaluate Ecosystem-Based Fisheries Management at the [annual UMassD Marine and UnderSea Technology (MUST) conference](https://www.umassd.edu/news/2024/marine-undersea-technology-must-technical-review.html?_gl=1*mba0hs*_gcl_au*ODI1MjQ2MTAwLjE3MzU5MTUzMjA.).
+
+Fay Lab members were also involved in numerous research projects and working groups in 2024 that supported decision-making for sustainable management of living marine resources on the US east coast. Gavin continued his service on the Mid-Atlantic Fishery Management Council’s Scientific and Statistical Committee, contributed to the Northeast state-space methods research track which passed peer review, and chaired the SouthEast Data, Assessment, and Review (SEDAR) Red Drum peer review. Kamran and Gavin led work on a Management Strategy Evaluation aimed at characterizing the predicted outcomes of different summer flounder recreational fishery management decisions in collaboration with
+the NOAA Northeast Fisheries Science Center, the Mid-Atlantic Fishery Management Council, and the Atlantic States Marine Fisheries Commission (ASMFC). Kamran also presented some of this work at the [2024 Intercampus Marine Science Research Symposium](https://imssymposium2024.sites.umassd.edu/). With collaborator Kate Masury ([Eating with the Ecosystem](https://www.eatingwiththeecosystem.org/)), Sarah and Gavin ran a “markets into models” workshop and interviews with our advisory board of seafood business representatives as part of NOAA Saltonstall-Kennedy funded work to understand seafood supply chains.
+
+The Fay Lab also engaged in work that contributed towards the UMass Dartmouth graduate student community, stakeholder involvement in research, visibility of women in STEM, and science education. Master’s student Luca McGinnis ([now at the Commercial Fisheries Research Foundation](http://www.cfrfoundation.org/)) operationalized the UMass graduate student union to advocate for fair working conditions and wages for the university’s graduate student workforce. Sarah led an “Into the Deep” workshop aimed at starting meaningful conversations between scientists, managers, fishers, and other stakeholders about contemporary issues and conflicts that New England’s fisheries face. PhD student Catalina Roman and Kamran continued the lab’s long ongoing QuantFish workshop series, a platform for sharing ongoing quantitative fisheries research to scientists of all career stages. 
+
+Overall, it was an exciting and productive year for the Fay Lab. Despite the challenges that fisheries are currently facing, we plan on diving headfirst into these challenges to provide innovative solutions for ensuring the long-term productivity of living marine resources and the communities that depend upon them. Keep your eyes peeled for more Fay Lab updates!
