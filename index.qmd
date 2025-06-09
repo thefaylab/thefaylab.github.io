@@ -27,9 +27,9 @@ We embrace [open data science approaches](https://openscapes.org/) to help make 
 
 [Lab Code of Conduct](https://thefaylab.github.io/lab-manual/03-code-of-conduct.html)
 
-[Prospective graduate students](#futuregrads) may contact Gavin about his availability as a faculty advisor.
+[Prospective graduate students](jointhelab.html#futuregrads) may contact Gavin about his availability as a faculty advisor.
 
-Current UMassD undergraduate students interested in working in the group should check [the opportunities section](#undergrads) for advertised marine data science research technician positions.
+Current UMassD undergraduate students interested in working in the group should check [the opportunities section](jointhelab.html#undergrads) for advertised marine data science research technician positions.
 
 <!---------------- START blog listing section (white div) ---------------->
 
