@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Teaching – The Fay Lab</title>
+<title>BLOG – The Fay Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,8 +29,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./publications.html" rel="next">
-<link href="./research.html" rel="prev">
+<link href="./jointhelab.html" rel="next">
+<link href="./publications.html" rel="prev">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -68,20 +70,84 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-</head>
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background: #F8D98F;
+      }
+</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="The Fay Lab" href="blog.xml" data-external="1"></head>
 
 <body class="nav-sidebar docked quarto-light">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./teaching.html">Teaching</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./blog.html">Blog</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -91,7 +157,23 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">BLOG</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-body">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
@@ -130,7 +212,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./teaching.html" class="sidebar-item-text sidebar-link active">
+  <a href="./teaching.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Teaching</span></a>
   </div>
 </li>
@@ -142,7 +224,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./blog.html" class="sidebar-item-text sidebar-link">
+  <a href="./blog.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Blog</span></a>
   </div>
 </li>
@@ -158,79 +240,64 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#courses" id="toc-courses" class="nav-link active" data-scroll-target="#courses">Courses</a></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/thefaylab/thefaylab.github.io/edit/main/teaching.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/thefaylab/thefaylab.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="YmxvZw==">blog <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Y29tbXVuaWNhdGlvbg==">communication <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-body" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Teaching</h1>
+
+
+
+
+<!-- ::: column-screen -->
+<!-- ![](images/banner_imgs/text_banners/blog_banner.png) -->
+<!-- ::: -->
+<!-- SC NOTE: adding banner image below hides categories, but also renders banner full-size (unlike `title-block-banner1) -->
+<!-- ::: column-screen -->
+<!-- ![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png) -->
+<!-- ::: -->
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="YmxvZyUyQ2NvbW11bmljYXRpb24=" data-listing-date-sort="1742860800000" data-listing-file-modified-sort="1749473219694" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="419">
+<div class="thumbnail"><a href="./blog/2025-03-25/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2025-03-25/index.html" class="no-external">Conversations with recreational fishers about fisheries science</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('YmxvZw=='); return false;">blog</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Y29tbXVuaWNhdGlvbg=='); return false;">communication</div>
+
 </div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="courses" class="level2">
-<h2 class="anchored" data-anchor-id="courses">Courses</h2>
-<p>This coming semester (fall 2025) Dr.&nbsp;Fay will be offering <strong>Advanced Population Modeling (MAR 580)</strong>.</p>
-<p>Students not at UMassD interested in taking MAR580 Advanced Population Modeling in fall 2025, either remotely or in-person, should email Dr.&nbsp;Fay ASAP.</p>
-<section id="section" class="level4">
-<h4 class="anchored" data-anchor-id="section"></h4>
-<p>MAR 530: Ecosystem-Based Fisheries Management</p>
-<p>This course highlights the theory, challenges, and approaches for implementing ecosystem-based fisheries management (EBFM). The course examines the history and background of fisheries management, leading to why more holistic approaches are being considered. A series of operational methods being used to implement EBFM, emphasizing technical efforts and models, are reviewed. The role of institutional structures and societal considerations in decision-making are explored to identify situations where EBFM can be successful. (<em>Spring semester, every other year, <a href="https://drive.google.com/file/d/16OVUzWxOGj1T-5zFYk4gA28o77SxsFCF/view?usp=sharing">2024 syllabus</a></em>) Next offered: Spring 2026</p>
-</section>
-<section id="mar-536-biological-statistics-ii" class="level4">
-<h4 class="anchored" data-anchor-id="mar-536-biological-statistics-ii">MAR 536: Biological Statistics II</h4>
-<p><a href="https://gavinfay.github.io/mar536-biolstats2-s23/">2025 Course Website</a><br>
-</p>
-<p>Student-led learning in statistical analysis of ecological data. This course provides guided learning in advanced statistical analysis, as applied to ecological research and other fields of marine science. Advanced concepts in probability, hypothesis testing, and estimation will be presented by students, including analyses of example data sets and problems. Students will be required to learn selected methods independently, present topics to the class that are relevant to their graduate research and complete a class project. A computer lab, focused on introductory and intermediate programming and analysis using R, will be held for the first half of the semester. (<em>Spring semester, odd years, <a href="http://www.smast.umassd.edu/lab_fay/wp-content/uploads/2020/05/BiolStats2_syllabus_SPR2020_20200316.pdf" title="Biological Staistics II Spring 2023">2025 syllabus</a></em>) Next offered: Spring 2025</p>
-</section>
-<section id="mar-522-science-communication-for-research-scientists-delivering-effective-messages-to-diverse-audiences" class="level4">
-<h4 class="anchored" data-anchor-id="mar-522-science-communication-for-research-scientists-delivering-effective-messages-to-diverse-audiences">MAR 522: Science Communication for Research Scientists: delivering effective messages to diverse audiences</h4>
-<p>Practice and development of skills for communicating scientific research to a diverse set of audiences is important for applications to fisheries management and policy. This course is for students in the sciences and focuses on the importance of defining the ‘so what’ of research and adapting messaging to specific audiences, using storytelling techniques to produce compelling presentations of scientific research. Drawing on communication case studies and their own academic interests as context, students practice delivering their message effectively for different audiences, including defining goals, identifying main points, explaining meaning and context, responding to questions, and using multimedia elements. Students develop and apply skills for communicating their research to scientific peers, the management community, stakeholders, and the general public. In-class activities and assignments emphasize presentation skills, writing, reflection, and constructive criticism through peer-review of classmates’ work. The role of the review process for how best available science is incorporated into policy and decision-making in the context of fisheries management is used as a case study during the course. Topics and activities have relevance for many disciplines at the science-management-policy interface. (<em>Fall semester, even years, <a href="http://www.smast.umassd.edu/lab_fay/wp-content/uploads/2020/05/MAR599_SciComm_syllabus_20200512.pdf" title="Science Communication 2022 syllabus">2024 syllabus</a></em>) Next offered: Fall 2026</p>
-</section>
-<section id="mar-580-advanced-population-modeling-for-management-of-living-marine-resources" class="level4">
-<h4 class="anchored" data-anchor-id="mar-580-advanced-population-modeling-for-management-of-living-marine-resources">MAR 580: Advanced Population Modeling for Management of Living Marine Resources</h4>
-<p>This course provides instruction, demonstration and exercises in advanced population modeling, as applied to fishery resources. A wide range of stock assessment methods will be developed through statistical programming to fit increasingly complex models to fishery data through estimation of parameters and their variance. Programming software, including Template Model Builder, will be used for class assignments. The course is designed to train students to “have the ability to conduct high-quality scientific research in stock assessment, fishery population dynamics and related fields” (U.S. Dept. Commerce and U.S. Dept. Education 2008 NOAA Tech. Mem. NMFS-F/SPO-91). (<em>Fall semester, odd years, <a href="https://drive.google.com/file/d/1Of57_FEEY5-Gi-VjlFN2aDORwR6DC26x/view?usp=sharing">2023 syllabus</a></em>) Next offered: Fall 2025</p>
-</section>
-<section id="mar-580-models-for-marine-ecosystem-based-management" class="level4">
-<h4 class="anchored" data-anchor-id="mar-580-models-for-marine-ecosystem-based-management">MAR 580: Models for Marine Ecosystem-Based Management</h4>
-<p><a href="https://gavinfay.github.io/mebm-models/">2022 Course Website</a><br>
-</p>
-<p>This course provides instruction, demonstration, and exercises in quantitative modeling tools used for Ecosystem Based Management (EBM) of living marine resources. There is an increasing need for fisheries and wildlife professionals to provide scientific advice for management in an ecosystem context. Part 1 of the course will provide students with hands on experience applying fisheries stock assessment and population models that include ecosystem effects, and consider the policy implications of including this information. Part 2 of the course will focus on broader multiple-use and human dimensions and include economic and behavioral models and models for marine spatial planning. The final section of the course will introduce whole-of-ecosystem models and demonstrate how these can be used to provide strategic advice for marine management and consider a broad suite of objectives. Although the examples used will be in a marine context, the types of models and methods discussed in the course have application in other systems. (occasional<em>, last offered fall 2022, <a href="https://gavinfay.github.io/mebm-models/">2022 website</a></em>) Next offered: TBD</p>
-</section>
-<section id="mar-595-bayesian-statistics-and-hierarchical-modeling-for-ecology" class="level4">
-<h4 class="anchored" data-anchor-id="mar-595-bayesian-statistics-and-hierarchical-modeling-for-ecology">MAR 595: Bayesian Statistics and Hierarchical Modeling for Ecology</h4>
-<p>Independent study in Bayesian statistics and hierarchical modeling with an emphasis on mathematical statistics. Bayesian modeling has become an indispensable tool for ecological research. This course provides an overview of the principles of Bayesian statistics and concepts. Students will work through the recent textbook by Hobbs &amp; Hooten (2015) with additional supplementary reading from the literature. A set of problems in the textbook are worked through using multiple methods, including writing out properly factored statistical expressions representing the Bayesian models, and implementation of models using current state-of-the art algorithms and software. Advanced topics in Bayesian methods will also be covered. Weekly meetings are used to review chapter readings, discuss additional key papers on weekly topics, and work through problems as a group. (<em>varies, last offered fall 2018, <a href="http://www.smast.umassd.edu/lab_fay/wp-content/uploads/2020/05/BayesianStats_syllabus_fall2018_20180906.pdf" title="Bayesian statistics fall 2018 syllabus">2018 syllabus</a></em>) Next offered: TBD</p>
-</section>
-<section id="mar-700-graduate-seminar-fisheries-oceanography" class="level4">
-<h4 class="anchored" data-anchor-id="mar-700-graduate-seminar-fisheries-oceanography">MAR 700: Graduate Seminar, Fisheries Oceanography</h4>
-<p>Weekly departmental seminar series.<br>
-(<em>GF organized Spring 2015, Fall 2016, Spring 2018, Fall 2020, Fall 2023</em>) <a href="https://thefaylab.github.io/dfo-seminar-f23">Schedule for Fall 2023.</a> Schedule for Fall 2020. <a href="http://www.smast.umassd.edu/lab_fay/wp-content/uploads/2018/05/DFO_Seminar_Poster_Spring2018.pdf">Schedule for Spring 2018.</a> <a href="http://www.smast.umassd.edu/lab_fay/wp-content/uploads/2015/09/DFO_Seminar_Poster_Fall2015.pdf">Poster for Fall 2015 schedule.</a> <a href="http://www.smast.umassd.edu/lab_fay/wp-content/uploads/2015/04/DFO_Seminar_Poster_Spring2015_Apr23.pdf">Poster for Spring 2015 schedule.</a> <a href="https://www.umassd.edu/media/umassdartmouth/smast/labpdffiles/archive_of_seminar_series.pdf">Links to video recordings of talks.</a></p>
-
-
-</section>
-</section>
-
-</main> <!-- /main -->
+<div class="delink listing-description"><a href="./blog/2025-03-25/index.html" class="no-external">
+Kamran Walsh<br>
+(March 25, 2025)
+</a></div>
+</div>
+<div class="metadata">
+<a href="./blog/2025-03-25/index.html" class="no-external">
+<div class="listing-date">
+Mar 25, 2025
+</div>
+<div class="listing-author">
+Kamran Walsh
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -630,15 +697,15 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-<nav class="page-navigation">
+<nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
-      <a href="./research.html" class="pagination-link" aria-label="Research">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Research</span>
+      <a href="./publications.html" class="pagination-link" aria-label="Publications">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Publications</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./publications.html" class="pagination-link" aria-label="Publications">
-        <span class="nav-page-text">Publications</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./jointhelab.html" class="pagination-link" aria-label="Opportunities">
+        <span class="nav-page-text">Opportunities</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -650,7 +717,7 @@ ul.task-list li input[type="checkbox"] {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/thefaylab/thefaylab.github.io/edit/main/teaching.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/thefaylab/thefaylab.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/thefaylab/thefaylab.github.io/edit/main/blog.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/thefaylab/thefaylab.github.io/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
