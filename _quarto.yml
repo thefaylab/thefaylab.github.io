@@ -13,7 +13,7 @@ website:
     left: "&copy; CC-By FayLab 2025, Openscapes 2024"
     
   sidebar:
-    logo: "images/openscapes_hex.png"
+    logo: "images/thefaylab_hex.png"
     pinned: true
     align: center
     tools: 
