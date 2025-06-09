@@ -1,5 +1,5 @@
 ---
-title: "The Fay Lab, Quantitative Fisheries & Ecosystem-Based Management"
+title: "The Fay Lab, Quantitative Fisheries & Ecosystem-Based Management Science"
 subtitle: "School for Marine Science and Technology, University of Massachusetts Dartmouth"
 
 listing:
