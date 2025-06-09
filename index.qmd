@@ -8,15 +8,16 @@ listing:
       - "blog/*/index.qmd"
     sort: "date desc"
     type: grid
-    max-items: 9
-    page-size: 3
+    max-items: 3
+    #page-size: 3
     categories: false
     sort-ui: false
     filter-ui: false
     fields: [title, image, date, categories]
 ---
 
-Welcome to Gavin Fay’s lab at the University of Massachusetts Dartmouth.
+:::::: white-div
+**Welcome** to Gavin Fay’s lab at the University of Massachusetts Dartmouth.
 
 [Read about our lab culture & philosophy.](https://thefaylab.github.io/lab-manual/02-lab-culture-philosophy.html)
 
@@ -31,21 +32,19 @@ We embrace principles and workflows from open data science to help make our work
 Current UMassD undergraduate students interested in working in the group should check [the opportunities section](http://webserver.smast.umassd.edu/lab_fay/?page_id=13#pugrads "Opportunities") for advertised marine data science research technician positions.
 
 <!---------------- START blog listing section (white div) ---------------->
-::: {.column-screen}
-::: {.white-div}
-::: {.blue-underline .center-text}
-## **FROM OUR BLOG**
-:::
-<br>
 
-Our blog shares stories from the community and documents our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd).
+::::: white-div
+:::: {.blue-underline .center-text}
+### **Lab News**
 
-<br>
+<br> Our blog shares stories from the lab community and documents our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd). <br>
 
 ::: {#recent-blog-listing}
 :::
+::::
+:::::
 
-::: 
-:::
 <!---------------- END blog listing section (white div) ---------------->
+
 <!---------------------------------------------------------------------->
+::::::
