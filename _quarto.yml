@@ -9,7 +9,7 @@ website:
   repo-actions: [edit, issue]
   
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: This website is built with {{< fa heart title="a heart" >}}, {{< fa cat title="cats" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/thefaylab/thefaylab.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}
     left: "&copy; CC-By FayLab 2025, Openscapes 2024"
     
   sidebar:
