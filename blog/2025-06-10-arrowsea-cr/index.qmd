@@ -1,7 +1,7 @@
 ---
 title: "ARROW - Summer Education Accelerator (SEA)"
 author: Catalina Roman
-date: 2025-06-11
+date: 2025-06-10
 slug: arrowsea
 categories:
   - blog 
