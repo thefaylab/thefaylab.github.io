@@ -10,7 +10,38 @@
 <atom:link href="https://thefaylab.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.7.31</generator>
-<lastBuildDate>Wed, 04 Jun 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 10 Jun 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>ARROW - Summer Education Accelerator (SEA)</title>
+  <dc:creator>Catalina Roman</dc:creator>
+  <link>https://thefaylab.com/blog/2025-06-10-arrowsea-cr/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="arrow---summer-education-accelerator-sea" class="level2">
+<h2 class="anchored" data-anchor-id="arrow---summer-education-accelerator-sea">ARROW - Summer Education Accelerator (SEA)</h2>
+<p><img src="https://thefaylab.com/blog/2025-06-10-arrowsea-cr/arrow_01.png" class="img-fluid"></p>
+<p>At the end of May, the Academic Center for Reliability and Resilience of Offshore Wind (<a href="https://arrowosw.org/">ARROW</a>) held its first <a href="https://arrowosw.org/empower/summer-education-accelerator-sea/">Summer Education Accelerator (SEA)</a> workshop at the University of Massachusetts Amherst. This event brought together faculty, students, lab researchers, and professionals from across industry, government, and academia to explore key topics shaping the future of offshore wind energy. The SEA workshop was designed not only to foster technical skills but also to promote cross-sector collaboration and systems thinking around the complex challenges and opportunities of offshore wind development. It was also a great opportunity to link students and faculty in person across the many ARROW <a href="https://arrowosw.org/about/">partner institutions</a>. A team of UMass Dartmouth faculty and six of UMassD’s 8 ARROW graduate student fellows (including our lab’s own Gavin Fay and Catalina Roman) took part in the workshop.&nbsp;</p>
+<p>One of the first themes of the workshop was offshore wind power systems and how they integrate with the regional electrical grid. Led by Professor <a href="https://scholar.google.com/citations?user=d9sp-qkAAAAJ&amp;hl=en&amp;inst=8491034277084204831">Golbon Zakeri</a>, participants used an ISO New England grid simulator to explore real-world challenges in balancing renewable energy inputs with grid stability. This hands-on activity was complemented by a field trip to the <a href="https://www.iso-ne.com/">ISO New England</a> control center and the <a href="https://www.hged.com/smart-energy/clean-energy/hydro/default.aspx">Holyoke Gas &amp; Electric Dam</a>, offering an up-close look at how energy is managed at the infrastructure level. On the engineering front, students examined the design and reliability of monopiles, which form the structural foundation of many offshore wind turbines. With guidance from <a href="https://www.linkedin.com/in/dennis-hindhede/">Dennis Hindhede</a> and Professor <a href="https://scholar.google.com/citations?user=TIEVrr8AAAAJ&amp;hl=es&amp;inst=8491034277084204831">Benjamin Schafer</a>, participants delved into engineering principles, structural dynamics, and common failure modes. This session emphasized the importance of long-term reliability and risk management in the harsh conditions of offshore environments. Rounding out the week, Professor <a href="https://scholar.google.com/citations?user=ApZKT_0AAAAJ&amp;hl=es&amp;inst=8491034277084204831">Gavin Fay</a> introduced a systems-thinking approach to marine spatial planning. In this session, participants engaged in participatory modeling exercises that simulated the tradeoffs involved in managing ocean space for multiple uses, including offshore wind, fisheries, and conservation. The activity emphasized the role of inclusive decision-making and ecosystem-based frameworks in supporting sustainable development.</p>
+<p>Throughout the week, the SEA workshop served as a collaborative space where technical knowledge, policy considerations, and environmental insights intersected. As the offshore wind sector continues to grow, programs like SEA play a vital role in equipping the next generation of scientists, engineers, and decision-makers to approach this transition with both innovation and resilience. What stood out to me most was the diversity of participants, not only in terms of academic backgrounds, but also cultural perspectives. It was exciting to meet people from across the country, including fellow Latin Americans and to have moments where I could share and connect over research in my first language. Coming from a biology background, I found some of the more technical engineering topics challenging at first, but the hands-on activities made them much more approachable and engaging. Visiting the ISO New England control room and the Holyoke Dam helped ground the grid integration concepts in the real world, and I particularly enjoyed the interactive experiments on monopile fatigue and structural resistance (turns out testing paper “piles” can be surprisingly fun). My favorite part, unsurprisingly, was exploring the tradeoffs in marine spatial planning, a topic close to my research and one that brought together ecological thinking with decision making. It was interesting to see how different groups prioritized things according to their previous knowledge. I left the workshop feeling inspired, more connected to this growing community and excited about the upcoming meeting and outputs.&nbsp;</p>
+<p><br>
+<img src="https://thefaylab.com/blog/2025-06-10-arrowsea-cr/arrow-sea-montage-cr.png" class="img-fluid"><em>Top left:</em> Keith Hankowsky, Ki-Hwan Kim, Alison Frey, Catalina Roman, Adriano Giangiardi and Andie Painten atop Mt. Sugerloaf; <em>Bottom left:</em> Holyoke Dam in the Connecticut River ; <em>Right:</em> Hands-on activity about managing ocean space for multiple uses.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>blog</category>
+  <category>training</category>
+  <category>offshore-wind</category>
+  <category>students</category>
+  <guid>https://thefaylab.com/blog/2025-06-10-arrowsea-cr/</guid>
+  <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://thefaylab.com/blog/2025-06-10-arrowsea-cr/ARROW-Final-Logo.png" medium="image" type="image/png" height="84" width="144"/>
+</item>
 <item>
   <title>Community engaged teaching and learning fellowship</title>
   <dc:creator>Gavin Fay</dc:creator>
