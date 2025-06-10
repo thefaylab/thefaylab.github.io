@@ -15,11 +15,11 @@ title: "People"
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/fay-simmonsmill.png){width="150"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/fay-simmonsmill.png)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Dr. Gavin Fay (Lab PI)** \
 Associate Professor\
 [gfay\@umassd.edu](mailto:gfay@umassd.edu)\
@@ -37,11 +37,11 @@ Associate Professor\
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/AHart.jpg){width="150"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/AHart.jpg)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Amanda Hart**\
 Ph.D. candidate\
 *ahart2\@umassd.edu\
@@ -58,11 +58,11 @@ Amanda grew up in New Mexico and attended the University of Miami where she majo
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/hope.png){width="224"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/hope.png)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Sarah Hope**\
 M.S. student\
 *shope\@umassd.edu*\
@@ -79,11 +79,11 @@ Sarah joined the Fay Lab in the Fall of 2024. She grew up in New Bedford, Massac
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/bsbmcginnis.jpeg){width="150"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/bsbmcginnis.jpeg)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Luca McGinnis**\
 M.S. student\
 *lmcginnis\@umassd.edu*\
@@ -99,11 +99,11 @@ Luca's M.S. research is focused on improving the use of fishery dependent data i
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/MillerAngelia.jpg){width="150"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/MillerAngelia.jpg)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Angelia Miller**\
 M.S. student\
 *amiller7\@umassd.edu*
@@ -119,11 +119,11 @@ Growing up in Frederick, Maryland, Angelia earned a B.A. in Environmental Scienc
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/macperez.jpeg){width="150"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/macperez.jpeg)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **María Cristina Pérez Cuesta**\
 Ph.D. student\
 *mperez12\@umassd.edu*
@@ -139,11 +139,11 @@ Cristina is a Marine Biologist with a Master degree in Fisheries Science from th
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/Roman.jpeg){width="150"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/Roman.jpeg)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Catalina Roman**\
 Ph.D. student\
 *croman1\@umassd.edu*
@@ -160,11 +160,11 @@ Catalina's PhD research is conducting simulation testing to assess the performan
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/Kelsey_labphoto.JPG){width="298"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/Kelsey_labphoto.JPG)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Dr. Kelsey Roberts**\
 Research Associate\
 *kroberts6\@umassd.edu*
@@ -180,11 +180,11 @@ Kelsey joined the Fay lab in March 2025 as a research associate. She holds a PhD
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/Walsh_fall2023.jpg){width="150"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/Walsh_fall2023.jpg)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Kamran Walsh\
 **Ph.D. student\
 *kwalsh13\@umassd.edu*
@@ -201,11 +201,11 @@ Kamran Walsh is a PhD student at the School of Marine Science and Technology who
 
 :::::: center-text
 ::::: grid
-::: {.g-col-12 .g-col-md-2}
-![](images/team/Sophie_profpoc.png){width="301"}
+::: {.g-col-12 .g-col-md-4}
+![](images/team/Sophie_profpoc.png)
 :::
 
-::: {.g-col-12 .g-col-md-10}
+::: {.g-col-12 .g-col-md-8}
 **Sophie Wulfing**\
 Research Associate\
 *swulfing\@umassd.edu*
