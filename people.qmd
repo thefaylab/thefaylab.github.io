@@ -1,5 +1,8 @@
 ---
 title: "People"
+filters:
+  - quarto
+  - fwrappe
 ---
 
 # People
@@ -10,88 +13,212 @@ title: "People"
 
 ### Current Team {#current}
 
-![](images/team/fay-simmonsmill.png){width="150"}
+<br>
+<!---------------- START G. Fay ---------------->
 
-**Dr. Gavin Fay (Lab PI)**\
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](images/team/fay-simmonsmill.png){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-10}
+**Dr. Gavin Fay (Lab PI)** \
 Associate Professor\
 [gfay\@umassd.edu](mailto:gfay@umassd.edu)\
 +1 508 910 6363\
 [Personal website](http://gavinfay.github.io)\
 [Github](http://github.com/gavinfay)\
-[Google Scholar](http://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=en)
+[Google Scholar](http://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=en)\
+:::
+:::::
+::::::
 
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
 ![](images/team/AHart.jpg){width="150"}
+:::
 
+::: {.g-col-12 .g-col-md-10}
 **Amanda Hart**\
 Ph.D. candidate\
 *ahart2\@umassd.edu\
 [Google Scholar](https://scholar.google.com/citations?user=9Ea9PWwAAAAJ&hl=en&oi=sra)*
 
 Amanda grew up in New Mexico and attended the University of Miami where she majored in Marine Science and Biology. She is currently a stock assessment Fish Biologist at NOAA Fisheries Northeast Fisheries Science Center in Woods Hole. Her PhD thesis work is centered around developing methods and communication tools for ecosystem-based fisheries Management Strategy Evaluation. In this work, Amanda is using models of New England fisheries that seek to include a broader range of environmental data, fishing fleet dynamics, and species interactions than current stock assessment models.
+:::
+:::::
+::::::
 
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
 ![](images/team/hope.png){width="224"}
+:::
 
+::: {.g-col-12 .g-col-md-10}
 **Sarah Hope**\
 M.S. student\
 *shope\@umassd.edu*\
 
 Sarah joined the Fay Lab in the Fall of 2024. She grew up in New Bedford, Massachusetts and completed her undergraduate studies in Writing and Journalism at Emerson College. When she decided to pursue her longtime passion for science, she started her journey at the University of Massachusetts, Amherst and earned a M.S. in Sustainability Science, specializing in climate impacts. She is now pursuing an advanced degree in Marine Science at SMAST, while combining her interdisciplinary background with a quantitative approach to fisheries. Her current research is focused on the intersection of supply chain and ecosystem dynamics, and how they can be used to inform sustainable management decisions and increase access to local seafood in New England.
 
-[![](images/team/bsbmcginnis.jpeg){alt="McGinnis" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2021/09/bsbmcginnis.jpeg)
+:::
+:::::
+::::::
 
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](images/team/bsbmcginnis.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-10}
 **Luca McGinnis**\
 M.S. student\
 *lmcginnis\@umassd.edu*\
 
 Luca's M.S. research is focused on improving the use of fishery dependent data in Northeast US fishery stock assessments, specifically through spatially explicit catch per unit effort (CPUE) standardization for US Atlantic cod. Luca holds a Bachelor's degree in Marine Science from Boston University, with undergraduate thesis research on using micro-CT imaging and modeling software to compare the morphology of sympatric sand lance species (genus Ammodytes) in the Gulf of Maine. In summer 2023 they started a full time position as a Research Biologist for the Commercial Fisheries Research Foundation.
+:::
+:::::
+::::::
 
-[![](images/team/MillerAngelia.jpg){alt="Miller" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2021/05/MillerAngelia-e1620400264382.jpg)
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
 
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](images/team/MillerAngelia.jpg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-10}
 **Angelia Miller**\
 M.S. student\
 *amiller7\@umassd.edu*
 
 Growing up in Frederick, Maryland, Angelia earned a B.A. in Environmental Science and Policy from Hood College. Since graduating, Angelia has been employed with Frederick County Government managing stormwater permit compliance activities, watershed restoration goals, and database tracking needs. Her research interests and thesis work focus on using quantitative and spatial tools to model and capture species interactions and movements to support current and future management decisions.
+:::
+:::::
+::::::
 
-[![](images/team/macperez.jpeg){alt="Pérez Cuesta" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2021/09/macperez-e1632855408959.jpeg)
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
 
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](images/team/macperez.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-10}
 **María Cristina Pérez Cuesta**\
 Ph.D. student\
 *mperez12\@umassd.edu*
 
 Cristina is a Marine Biologist with a Master degree in Fisheries Science from the University of Concepcion (UdeC-Chile), and has been working since 2016 at Instituto de Fomento Pesquero (IFOP-Chile) providing scientific advice for the yellownose skate and southern hake stock assessments and also participate as a researcher in the scientific committees for the demersal fisheries. Cristina's topics of interest are Management Strategy Evaluation (MSE), population rebuilding, ecosystem- based fisheries management, and sustainable fisheries.
+:::
+:::::
+::::::
 
-[![](images/team/Roman.jpeg){alt="Pérez Cuesta" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2021/09/Roman-e1632855455197.jpeg)
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
 
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](images/team/Roman.jpeg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-10}
 **Catalina Roman**\
 Ph.D. student\
 *croman1\@umassd.edu*
 
 Catalina's PhD research is conducting simulation testing to assess the performance of the NMFS NEFSC Bottom Trawl Survey in the presence of Offshore Wind, and potential survey mitigation strategies. Catalina holds a Master's in fisheries from Universidad de Concepción Chile. During her time as a student, she has worked on the standardization of a relative abundance index of a rock lobster species from Juan Fernandez Archipelago as her undergrad thesis and then, and for her master's thesis project, she studied the spatio-temporal migratory patterns of the same fishing resource using mark recapture data. In 2014, she joined the Fisheries Assessment Department of IFOP (Chilean Fisheries Development Institute), where she has been working as a researcher in the assessment of discard and incidental catch of demersal fisheries of Chile.
 
-![](images/team/Kelsey_labphoto.JPG){width="298"}
+:::
+:::::
+::::::
 
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](images/team/Kelsey_labphoto.JPG){width="298"}
+:::
+
+::: {.g-col-12 .g-col-md-10}
 **Dr. Kelsey Roberts**\
 Research Associate\
 *kroberts6\@umassd.edu*
 
 Kelsey joined the Fay lab in March 2025 as a research associate. She holds a PhD in Marine Science from Monash University in Melbourne, Australia, where she evaluated the effectiveness of Australia’s marine protected area network in safeguarding biodiversity. She has previously completed postdoctoral projects at Louisiana State University, Stony Brook University, and the US Geological Survey Wetland and Aquatic Research Center. Her research in the Fay lab will focus on integrating climate forecasting data products into stock assessment and management procedures in collaboration with the Northeast Climate Integrated Modeling Initiative (NCLIM).
+:::
+:::::
+::::::
 
-[![](images/team/Walsh_fall2023.jpg){alt="KWalsh" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2023/11/Walsh_fall2023.jpg)
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
 
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](images/team/Walsh_fall2023.jpg){width="150"}
+:::
+
+::: {.g-col-12 .g-col-md-10}
 **Kamran Walsh\
 **Ph.D. student\
 *kwalsh13\@umassd.edu*
 
 Kamran Walsh is a PhD student at the School of Marine Science and Technology who joined the Fay Lab in the fall of 2023. He previously attended the Scripps Institution of Oceanography as an undergraduate and Master’s student, where his research centered around interdisciplinary studies of larval fishes in the California Current Ecosystem. While living on the West Coast, he was also involved in the California Cooperative Fisheries Research Program (CCFRP), a statewide program that intersects Marine Protected Area research with stakeholder involvement, as well as work ranging from bluefin tuna aquaculture to four years in the fishing industry. For his PhD, he is interested in building strength in quantitative techniques that address contemporary issues of fisheries and ecosystem management in the New England area and beyond.
 
-![](images/team/Sophie_profpoc.png){width="301"}
+:::
+:::::
+::::::
 
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-2}
+![](images/team/Sophie_profpoc.png){width="301"}
+:::
+
+::: {.g-col-12 .g-col-md-10}
 **Sophie Wulfing**\
 Research Associate\
 *swulfing\@umassd.edu*
 
 Sophie joined the Fay Lab in March of 2025. She grew up in Washington State but got her masters degree at the University of New Hampshire. After her masters, she completed a Fulbright Student Research Grant in Makassar, Indonesia studying the affects of mangrove replanting efforts on local fish abundance and biodiversity. Her current research in the Lab focuses on how incorporating different environmental projections affects management decisions and is using yellowtail flounder as an example species.
+:::
+:::::
+::::::
+
+<!---------------- END G. FAY ---------------->
 
 ------------------------------------------------------------------------
 
@@ -146,7 +273,7 @@ Emily's postdoc work in the lab focused on technical analyses for the New Englan
 
 **Ashleigh Novak**\
 Technical associate & lab manager (2019-2021)\
-Next/Now: *Atlantic White Shark Conservancy* \
+Next/Now: *Atlantic White Shark Conservancy*\
 [Personal website](#0), [Google Scholar](#0)
 
 [![](images/team/Schilpp1.jpg){alt="Schilpp"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/Schilpp1.jpg)
@@ -169,7 +296,7 @@ Next/Now: *Research Marine Scientist, NOAA Stellwagen Bank National Marine Sanct
 
 **Dr. Vanessa Trijoulet, PhD**\
 Visiting Scholar UMassD / Postdoctoral researcher NOAA NEFSC 2016-2018\
-Next/Now: *Stock assessment scientist, Danish Technical University, Denmark* \
+Next/Now: *Stock assessment scientist, Danish Technical University, Denmark*\
 [Google Scholar](https://scholar.google.com/citations?user=aYB-z9QAAAAJ&hl=en&oi=ao)
 
 Vanessa worked in collaboration with NOAA Fisheries (Northeast Fisheries Science Center, Woods Hole) and SMAST on the development of a multispecies state-space fisheries assessment model for the Georges Bank stocks. Vanessa's research focus is on marine ecosystem modelling, with interests in using modelling to study population-level interactions and improve conservation and management strategies. Vanessa obtained her PhD from the University of Strathclyde (Glasgow, UK) where she applied bioeconomic models of grey seal predation impacts on the West of Scotland fisheries. Vanessa has a Master’s degree in oceanography, specialized in marine biology from the Oceanographic Centre of Marseille, and a Bachelor’s degree in Sciences and technique specialized in life sciences and marine biology from the University of La Rochelle. *(Main collaborators: Dr. Kiersten Curti & Dr. Tim Miller, NOAA NEFSC)*
@@ -193,17 +320,17 @@ Ashley grew up fishing on the Chesapeake Bay. She attained a B.S. double major i
 
 [![](images/team/Wildermuth.jpg){alt="Wildermuth"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/Wildermuth.jpg)
 
-**Robert Wildermuth** \
-Ph.D. 2021 \
-Next: *Postdoctoral Fellow, University of California Santa Cruz* \
-Now: *Fishery Biologist, NOAA Fisheries Southwest Fisheries Science Center* \
+**Robert Wildermuth**\
+Ph.D. 2021\
+Next: *Postdoctoral Fellow, University of California Santa Cruz*\
+Now: *Fishery Biologist, NOAA Fisheries Southwest Fisheries Science Center*\
 [Google Scholar](https://scholar.google.com/citations?user=UhATj4oAAAAJ&hl=en)
 
 Robert's research interests focus on how to use quantitative tools to make effective management decisions with uncertain and incomplete knowledge. As a 2018 NMFS-Sea Grant Population and Ecosystem Dynamics Fellow, his PhD work looked at how assumptions about the structure and function of marine social-ecological systems can affect decision-making. He applied both quantitative and qualitative models in Bayesian statistical frameworks to analyze decision-support tools for managing the social-ecological system on Georges Bank, USA, including objectives of fisheries sustainability and human wellbeing. Robert earned a B.S. in Zoology and Biological Sciences at Colorado State University and a M.S. in Biology at Arizona State. Research topics included demographic effects of California sea lion aggressive behavior, sexually selected traits in the Trinidadian guppy, and oil spill impacts on marine mammal and mollusk populations. *(Main PhD collaborator: Dr. Sarah Gaichas, NOAA NEFSC).*
 
 [![](images/team/Winton-togzilla.jpg){alt="MWinton"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/togzilla.jpg)
 
-**Megan Winton** \
+**Megan Winton**\
 Ph.D. 2024\
 Next/Now: *Lead Research Scientist, Atlantic White Shark Conservancy\
 *[Google Scholar](https://scholar.google.com/citations?user=s7FH69wAAAAJ&hl=en&oi=ao)

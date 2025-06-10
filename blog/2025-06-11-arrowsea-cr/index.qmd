@@ -1,0 +1,27 @@
+---
+title: "ARROW - Summer Education Accelerator (SEA)"
+author: Catalina Roman
+date: 2025-06-11
+slug: arrowsea
+categories:
+  - blog 
+#  - community
+  - training
+#  - communication
+  - offshore-wind
+  - students
+image: ARROW-Final-Logo.png
+---
+
+## ARROW - Summer Education Accelerator (SEA)
+
+![](arrow_01.png)
+
+At the end of May, the Academic Center for Reliability and Resilience of Offshore Wind ([ARROW](https://arrowosw.org/)) held its first [Summer Education Accelerator (SEA)](https://arrowosw.org/empower/summer-education-accelerator-sea/) workshop at the University of Massachusetts Amherst. This event brought together faculty, students, lab researchers, and professionals from across industry, government, and academia to explore key topics shaping the future of offshore wind energy. The SEA workshop was designed not only to foster technical skills but also to promote cross-sector collaboration and systems thinking around the complex challenges and opportunities of offshore wind development. It was also a great opportunity to link students and faculty in person across the many ARROW [partner institutions](https://arrowosw.org/about/). A team of UMass Dartmouth faculty and six of UMassD’s 8 ARROW graduate student fellows (including our lab’s own Gavin Fay and Catalina Roman) took part in the workshop. 
+
+One of the first themes of the workshop was offshore wind power systems and how they integrate with the regional electrical grid. Led by Professor [Golbon Zakeri](https://scholar.google.com/citations?user=d9sp-qkAAAAJ&hl=en&inst=8491034277084204831), participants used an ISO New England grid simulator to explore real-world challenges in balancing renewable energy inputs with grid stability. This hands-on activity was complemented by a field trip to the [ISO New England](https://www.iso-ne.com/) control center and the [Holyoke Gas & Electric Dam](https://www.hged.com/smart-energy/clean-energy/hydro/default.aspx), offering an up-close look at how energy is managed at the infrastructure level. On the engineering front, students examined the design and reliability of monopiles, which form the structural foundation of many offshore wind turbines. With guidance from [Dennis Hindhede](https://www.linkedin.com/in/dennis-hindhede/) and Professor [Benjamin Schafer](https://scholar.google.com/citations?user=TIEVrr8AAAAJ&hl=es&inst=8491034277084204831), participants delved into engineering principles, structural dynamics, and common failure modes. This session emphasized the importance of long-term reliability and risk management in the harsh conditions of offshore environments. Rounding out the week, Professor [Gavin Fay](https://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=es&inst=8491034277084204831) introduced a systems-thinking approach to marine spatial planning. In this session, participants engaged in participatory modeling exercises that simulated the tradeoffs involved in managing ocean space for multiple uses, including offshore wind, fisheries, and conservation. The activity emphasized the role of inclusive decision-making and ecosystem-based frameworks in supporting sustainable development.
+
+Throughout the week, the SEA workshop served as a collaborative space where technical knowledge, policy considerations, and environmental insights intersected. As the offshore wind sector continues to grow, programs like SEA play a vital role in equipping the next generation of scientists, engineers, and decision-makers to approach this transition with both innovation and resilience. What stood out to me most was the diversity of participants, not only in terms of academic backgrounds, but also cultural perspectives. It was exciting to meet people from across the country, including fellow Latin Americans and to have moments where I could share and connect over research in my first language. Coming from a biology background, I found some of the more technical engineering topics challenging at first, but the hands-on activities made them much more approachable and engaging. Visiting the ISO New England control room and the Holyoke Dam helped ground the grid integration concepts in the real world, and I particularly enjoyed the interactive experiments on monopile fatigue and structural resistance (turns out testing paper “piles” can be surprisingly fun). My favorite part, unsurprisingly, was exploring the tradeoffs in marine spatial planning, a topic close to my research and one that brought together ecological thinking with decision making. It was interesting to see how different groups prioritized things according to their previous knowledge. I left the workshop feeling inspired, more connected to this growing community and excited about the upcoming meeting and outputs. 
+
+\
+![](arrow-sea-montage-cr.png)*Top left:* Keith Hankowsky, Ki-Hwan Kim, Alison Frey, Catalina Roman, Adriano Giangiardi and Andie Painten atop Mt. Sugerloaf; *Bottom left:* Holyoke Dam in the Connecticut River ; *Right:* Hands-on activity about managing ocean space for multiple uses.
