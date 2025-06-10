@@ -1,8 +1,5 @@
 ---
 title: "People"
-filters:
-  - quarto
-  - fwrappe
 ---
 
 # People
