@@ -260,8 +260,8 @@ Madeleine's work with the lab focused on the New England & Mid-Atlantic Fishery 
 
 ![](images/team/Liljestrand.jpg){alt="Liljestrand" width="150"}
 
-**Dr. Emily Liljestrand\
-PhD** Postdoctoral researcher 2023\
+**Dr. Emily Liljestrand, PhD**\
+Postdoctoral researcher 2023\
 Next/Now: *Stock assessment scientist, NOAA Fisheries Northeast Fisheries Science Center*
 
 Emily's postdoc work in the lab focused on technical analyses for the New England Fishery Management Council's prototype Management Strategy Evaluation for Ecosystem-Based Fisheries Management of Georges Bank. This included developing modules for a multispecies MSE, including stock complex-based control rules, and working with a multispecies length-based operating model, Hydra. Emily received her Ph.D. from Michigan State University where her research focused on the performance of state-space stock assessment models. Emily was also a 2019 recipient of the NMFS-SeaGrant Population and Ecosystem Dynamics Fellowship.
