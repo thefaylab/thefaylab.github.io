@@ -80,6 +80,26 @@ Sarah joined the Fay Lab in the Fall of 2024. She grew up in New Bedford, Massac
 :::::: center-text
 ::::: grid
 ::: {.g-col-12 .g-col-md-4}
+![](images/team/garrett-klee.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Garrett Klee**\
+M.S. student\
+*gklee\@umassd.edu*\
+
+Garrett is a Master’s student that joined the Fay lab in Summer of 2025. He grew up in Seattle, Washington and completed his undergraduate in Environmental Science with a Marine Science emphasis at Western Washington University where he conducted research with Pacific herring. Garrett continued his fisheries work with the Alaskan Observer program before transitioning to working with the Pacific States Marine Fisheries Commission participating in anadromous work. His research in the Fay lab will focus on the performance of stock assessment models and harvest strategies given uncertainties in fishing fleet responses to regulation changes. He is excited to work and be involved in the quantitative research happening in our commercial and recreational fisheries.  
+:::
+:::::
+::::::
+
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
 ![](images/team/bsbmcginnis.jpeg)
 :::
 
@@ -89,6 +109,26 @@ M.S. student\
 *lmcginnis\@umassd.edu*\
 
 Luca's M.S. research is focused on improving the use of fishery dependent data in Northeast US fishery stock assessments, specifically through spatially explicit catch per unit effort (CPUE) standardization for US Atlantic cod. Luca holds a Bachelor's degree in Marine Science from Boston University, with undergraduate thesis research on using micro-CT imaging and modeling software to compare the morphology of sympatric sand lance species (genus Ammodytes) in the Gulf of Maine. In summer 2023 they started a full time position as a Research Biologist for the Commercial Fisheries Research Foundation.
+:::
+:::::
+::::::
+
+<!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START G. Fay ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/ophelia-mcgrail.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Ophelia McGrail**\
+Ph.D. student\
+*omcgrail\@umassd.edu*
+
+Ophelia grew up in north shore Massachusetts and earned their undergraduate degree in Biology & Environmental Studies from Wheaton College, Massachusetts. Their senior thesis work centered on using DNA barcoding to elucidate the genetic identities of morphologically similar marine worms. After Wheaton, they interned at the Rhode Island Division of Marine Fisheries and joined The Nature Conservancy Rhode Island as the Coastal Restoration Program Assistant. They will start their PhD studies in the Fay Lab in fall 2025.
 :::
 :::::
 ::::::
