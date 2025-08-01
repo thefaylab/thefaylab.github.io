@@ -16,7 +16,7 @@ title: "People"
 :::::: center-text
 ::::: grid
 ::: {.g-col-12 .g-col-md-4}
-![](images/team/fay-simmonsmill.png)
+![](images/team/fay-profilepic.png)
 :::
 
 ::: {.g-col-12 .g-col-md-8}
