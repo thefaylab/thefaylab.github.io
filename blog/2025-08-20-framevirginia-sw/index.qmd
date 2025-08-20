@@ -11,7 +11,7 @@ categories:
 #  - communication
 #  - offshore-wind
 #  - students
-image: frame-logo.png
+image: frame-logo.jpg
 ---
 
 ## Floundering around in Virginia - DISES annual project meeting
