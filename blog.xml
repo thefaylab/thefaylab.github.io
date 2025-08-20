@@ -9,8 +9,42 @@
 <link>https://thefaylab.com/blog.html</link>
 <atom:link href="https://thefaylab.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.7.32</generator>
-<lastBuildDate>Tue, 10 Jun 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.33</generator>
+<lastBuildDate>Wed, 20 Aug 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Floundering around in Virginia - DISES annual project meeting</title>
+  <dc:creator>Sophie Wulfing</dc:creator>
+  <link>https://thefaylab.com/blog/2025-08-20-framevirginia-sw/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="floundering-around-in-virginia---dises-annual-project-meeting" class="level2">
+<h2 class="anchored" data-anchor-id="floundering-around-in-virginia---dises-annual-project-meeting">Floundering around in Virginia - DISES annual project meeting</h2>
+<p>Gavin, Kam, and I (Sophie) traveled to Hampton, VA in May to join the first annual project team meeting for our NSF Dynamics of Integrated Socio-Environment Systems (DISES) award: <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2408987"><em>Dynamics of socio-environmental factors driving resilience of coastal fisheries: integrating feedbacks between livelihoods, human behavior, climate, and fish ecology</em></a>. As climate change has been shown to shift the distribution of summer flounder, this project aims at using stakeholder input and interviews to understand the socio-ecological dynamics of the summer flounder fishery in the US Atlantic Coast. The ultimate goal of this interdisciplinary group (led by PI Dr.&nbsp;Holly Kindsvater at Virginia Tech) is to understand the factors that influence human decision-making, including when people choose to fish for flounder, where they choose to fish, and their understanding and compliance with local regulations. At the two-day meeting, we discussed strategies for finding and interviewing fluke anglers, identified relevant stakeholders, and set up logistics and goals for this 5 year project. We also set our working group name to be <strong>Flounder Research for Actionable Management and Engagement</strong>, or <strong>FRAME</strong>. During the meeting, Kam gave a presentation to the group on the predicted outcomes of different management strategies on summer flounder stocks and fishery productivity. In our free time, we enjoyed lots and lots of seafood and checked out the Air and Space Museum. Also walking along the beach after the meeting, we saw a large colony of Black Skimmers. According to a very enthusiastic passerby, this was the largest colony of skimmers that the area had seen in years. Overall, it was a great trip that set the groundwork for some very interesting research.</p>
+<p><img src="https://thefaylab.com/blog/2025-08-20-framevirginia-sw/frame-hampton-2025.jpg" class="img-fluid" alt="FRAME project team at the May 8-9 2025 meeting in Hampton Virginia. Back row (left to right): Mike Sorice, Craig Ramseyer (co-PI), Holly Kindsvater (PI), Willa Chaves (co-PI), Fernando Goncalves (co-PI), Kam Walsh. Front row (left to right): Jonathan van Senten, Akea Cader, Sophie Wulfing, Hailey Conrad, Mary Adebote, Gavin Fay (co-PI)"> <img src="https://thefaylab.com/blog/2025-08-20-framevirginia-sw/conrad-talk.jpg" class="img-fluid" alt="PhD candidate Hailey Conrad (VT) presents her research during the May 2025 FRAME meeting"> <img src="https://thefaylab.com/blog/2025-08-20-framevirginia-sw/skimmers.jpg" class="img-fluid" alt="The black skimmers!"></p>
+<p>In early July, Kam and I also joined Akea Cader, a graduate student from Virginia Tech, for two weeks of interviewing summer flounder anglers in Massachusetts. We interviewed anglers in Plymouth, Cape Cod, and locations around Buzzards Bay (including here in New Bedford) to better understand the recreational fishing culture of Massachusetts, the popularity of summer flounder as a target catch, and peoples’ motivations for fishing. As a data scientist, it was really interesting to see how more qualitative data is collected and analyzed and I got to visit many wonderful beaches and shorelines around Massachusetts. A huge thank you to Akea for showing us around and best of luck on your research!</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://thefaylab.com/blog/2025-08-20-framevirginia-sw/fluke-research-akea-july2025.png" class="img-fluid figure-img"></p>
+<figcaption>Sophie Wulfing and Kam Walsh assist VT PhD student Akea Cader conduct angler interviews in coastal Massachusetts. Photo credits: Akea Cader and Kam Walsh (top-right)</figcaption>
+</figure>
+</div>
+<p>(This project is NSF Award # 2408987. <a href="https://thefaylab.githubio/frame">Visit the FRAME project website here</a>).</p>
+
+
+</section>
+
+ ]]></description>
+  <category>blog</category>
+  <category>community</category>
+  <category>research</category>
+  <guid>https://thefaylab.com/blog/2025-08-20-framevirginia-sw/</guid>
+  <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://thefaylab.com/blog/2025-08-20-framevirginia-sw/frame-logo.png" medium="image" type="image/png"/>
+</item>
 <item>
   <title>ARROW - Summer Education Accelerator (SEA)</title>
   <dc:creator>Catalina Roman</dc:creator>
