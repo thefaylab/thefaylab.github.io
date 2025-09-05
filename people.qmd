@@ -56,6 +56,26 @@ Amanda grew up in New Mexico and attended the University of Miami where she majo
 
 <!---------------- END A. Hart ---------------->
 <br>
+<!---------------- START L. Hohne ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/Picture_fieldwork_Leander.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Dr. Leander Höhne**\
+Research Associate\
+*lhohne\@umassd.edu*\
+
+Leander entered the world of fisheries through his M.Sc. studies at the Humboldt University of Berlin and Leibniz Institute of Freshwater Ecology and Inland Fisheries, focusing on recreational fisheries topics such as the impacts of catch-and-release angling on nest-guarding pikeperch. With a developing interest in population dynamics and spatial behavior of fishes, he moved on to do his PhD at the Thünen Institute of Fisheries Ecology in Bremerhaven, Germany. There he delved deep into the stock assessment, management and migration ecology of the panmictic European eel. More recently, Leander has worked on stock assessment and management strategy evaluation for the European eel stock in the Mediterranean at the FAO General Fisheries Commission of the Mediterranean and University of Rome Tor Vergata, specializing in Bayesian hierarchical and integrated ecological-economic modeling approaches. His research in the Fay lab will concentrate on evaluating the integration of environmental variation into stock assessment and economic models and management procedures across different contexts, towards an improved reliability of forecasting results and management advice.  
+:::
+:::::
+::::::
+
+<!---------------- END L. Hohne ---------------->
+<br>
 <!---------------- START G. Fay ---------------->
 
 :::::: center-text
