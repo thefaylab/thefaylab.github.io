@@ -187,7 +187,7 @@ Cristina is a Marine Biologist with a Master degree in Fisheries Science from th
 
 ::: {.g-col-12 .g-col-md-8}
 **Catalina Roman**\
-Ph.D. student\
+Ph.D. candidate\
 *croman1\@umassd.edu*
 
 Catalina's PhD research is conducting simulation testing to assess the performance of the NMFS NEFSC Bottom Trawl Survey in the presence of Offshore Wind, and potential survey mitigation strategies. Catalina holds a Master's in fisheries from Universidad de Concepción Chile. During her time as a student, she has worked on the standardization of a relative abundance index of a rock lobster species from Juan Fernandez Archipelago as her undergrad thesis and then, and for her master's thesis project, she studied the spatio-temporal migratory patterns of the same fishing resource using mark recapture data. In 2014, she joined the Fisheries Assessment Department of IFOP (Chilean Fisheries Development Institute), where she has been working as a researcher in the assessment of discard and incidental catch of demersal fisheries of Chile.
@@ -324,7 +324,7 @@ Next: *Fishery Analyst, New England Fishery Management Council*\
 Now: *Owner and Principal Consultant, Maris Collaborative LLC.*\
 [Personal website](https://angeliamiller.github.io/), [LinkedIn](https://www.linkedin.com/in/angeliamarie4/)
 
-Angelia's thesis work focused on evaluating the impact of offshore wind impacts to the NOAA Northeast Fisheries Science Cneter's Northeast Bottom Trawl Survey using empirical and simulation modeling tools. During her time in the lab, Lia also ran open science trainings, supported regional stock assessment model development and scenario planning for Sustainable Regional Systems network and community of practice. She is a certified Carpentries Instructor.
+Angelia's thesis work focused on evaluating the impact of offshore wind impacts to the NOAA Northeast Fisheries Science Center's Northeast Bottom Trawl Survey using empirical and simulation modeling tools. During her time in the lab, Lia also ran open science trainings, supported regional stock assessment model development and scenario planning for Sustainable Regional Systems network and community of practice. She is a certified Carpentries Instructor.
 :::
 :::::
 ::::::
