@@ -1,5 +1,5 @@
 ---
-title: "Summer interns"
+title: "Learning from our summer interns"
 author: Sophie Wulfing and Kamran Walsh
 date: 2025-09-12
 slug: interns2025
