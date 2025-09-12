@@ -162,26 +162,6 @@ Ophelia grew up in north shore Massachusetts and earned their undergraduate degr
 :::::: center-text
 ::::: grid
 ::: {.g-col-12 .g-col-md-4}
-![](images/team/MillerAngelia.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Angelia Miller**\
-M.S. student\
-*amiller7\@umassd.edu*
-
-Growing up in Frederick, Maryland, Angelia earned a B.A. in Environmental Science and Policy from Hood College. Since graduating, Angelia has been employed with Frederick County Government managing stormwater permit compliance activities, watershed restoration goals, and database tracking needs. Her research interests and thesis work focus on using quantitative and spatial tools to model and capture species interactions and movements to support current and future management decisions.
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
 ![](images/team/macperez.jpeg)
 :::
 
@@ -327,6 +307,29 @@ Postdoctoral researcher 2023\
 Next/Now: *Stock assessment scientist, NOAA Fisheries Northeast Fisheries Science Center*
 
 Emily's postdoc work in the lab focused on technical analyses for the New England Fishery Management Council's prototype Management Strategy Evaluation for Ecosystem-Based Fisheries Management of Georges Bank. This included developing modules for a multispecies MSE, including stock complex-based control rules, and working with a multispecies length-based operating model, Hydra. Emily received her Ph.D. from Michigan State University where her research focused on the performance of state-space stock assessment models. Emily was also a 2019 recipient of the NMFS-SeaGrant Population and Ecosystem Dynamics Fellowship.
+
+
+<!---------------- START A. MILLER ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/MillerAngelia.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Angelia Miller**\
+M.S. 2025
+Next: *Fishery Analyst, New England Fishery Management Council*
+Now: *Owner and Independent Consultant, Maris Collaborative LLC.*
+
+Angelia's thesis work focused on evaluating the impact of offshore wind impacts to the NOAA Northeast Fisheries Science Cneter's Northeast Bottom Trawl Survey using empirical and simulation modeling tools. During her time in the lab, Lia also ran open science trainings, supported regional stock assessment model development and scenario planning for Sustainable Regional Systems network and community of practice. She is a certified Carpentries Instructor.
+:::
+:::::
+::::::
+
+<!---------------- END A. MILLER ---------------->
+<br>
 
 [![](images/team/Novak_scallop-dredge.jpg){alt="Novak"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2019/05/Novak_scallop-dredge-2013-e1559156364406.jpg)
 
