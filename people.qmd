@@ -35,6 +35,26 @@ Associate Professor\
 
 <!---------------- END G. FAY ---------------->
 <br>
+<!---------------- START A. Abbas ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/ajmal-abbas.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Ajmal Abbas**\
+Graduate research assistant\
+*aabbas1\@umassd.edu*\
+
+Ajmal is currently pursuing a master's degree in data science at the University of Massachusetts Dartmouth. Originally from India, he brings a strong academic and research background in data-driven problem solving, with a foundation in Machine Learning, Deep Learning, and Artificial Intelligence built through both coursework and hands-on projects. He has completed projects across cybersecurity, agriculture, high-performance scientific computing, and material science prediction, applying advanced ML and DL pipelines to solve domain-specific problems. In the lab, Ajmal is developing ML/DL-based emulators to support ecosystem modeling and decision-making, merging data science foundation with environmental applications.
+:::
+:::::
+::::::
+
+<!---------------- END A. Abbas ---------------->
+<br>
 <!---------------- START A. Hart ---------------->
 
 :::::: center-text
