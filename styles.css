@@ -1,0 +1,26 @@
+
+.quarto-container{
+    display: flex !important;
+    padding: 40px !important;
+}
+
+#quarto-document-content{
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+.navbar {
+  background-color: #000 !important;
+  position: sticky !important;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar a, .navbar-nav .nav-link {
+  color: #fff !important;  
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+.navbar a:hover {
+  color: #f39c12 !important; 
+}

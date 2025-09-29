@@ -1,0 +1,93 @@
+/* ---------------- COLUMNS ---------------- */
+.columns {
+  display: flex;
+  gap: 2rem;
+  border-left: none;
+  border-right: none;
+  padding: 1rem 0;
+  position: relative;
+}
+
+.sidebar-news {
+ background-color: aliceblue;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 2rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.sidebar-news h3 {
+  border-bottom: 2px solid black;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+/* ---------------- Welcome---------------- */
+
+#welcome{
+    font-size: 1.1rem;
+    text-align: justify;   
+    margin-right: 40px;
+}
+
+/* ---------------- BLOG CARDS ---------------- */
+#listing-recent-blog-listing .quarto-listing .quarto-listing-container-default {
+  margin-right: 0 !important;
+}
+
+#listing-recent-blog-listing .quarto-post {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border-bottom: 1px solid gray;
+  padding: 1rem 0;
+  transition: background 0.25s ease, transform 0.25s ease;
+}
+
+#listing-recent-blog-listing .quarto-post:hover {
+  background: #f8f9fa;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+/* Post images */
+#listing-recent-blog-listing .quarto-post .body {
+    font-size: 1.1rem;
+    margin-bottom: 0.3rem;
+}
+
+#listing-recent-blog-listing .quarto-post img {
+  width: 100%;
+  height: 90px;
+  object-fit: cover;
+  border: 1px solid black;
+  border-radius: 8px;
+  flex-shrink: 0;
+}
+
+#listing-recent-blog-listing .quarto-post:last-child {
+  border-bottom: none;
+  margin-bottom: 0 !important;
+  padding-bottom: 0.5rem !important; /* keep it neat */
+}
+
+/* Post text */
+#listing-recent-blog-listing .quarto-post .listing-title {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.3;
+}
+
+#listing-recent-blog-listing .quarto-post .listing-date {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.3rem;
+}
+
+/* Ensure text area flexes properly */
+#listing-recent-blog-listing .quarto-post .metadata,
+#listing-recent-blog-listing .quarto-post .listing-title {
+  flex: 1;
+}

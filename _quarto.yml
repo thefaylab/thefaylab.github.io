@@ -1,35 +1,22 @@
-project: 
+project:
   type: website
-  
-website: 
-  page-navigation: true
-  title: "The Fay Lab" 
-  site-url: "https://thefaylab.com" 
-  repo-url: https://github.com/thefaylab/thefaylab.github.io
-  repo-actions: [edit, issue]
-  
-  page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By FayLab 2025, Openscapes 2024"
+  resources:
+    - images/team/**
     
-  sidebar:
-    logo: "images/thefaylab_hex.png"
-    pinned: true
-    align: center
-    tools: 
-      - icon: globe
-        href: https://thefaylab.com
-        text: "thefaylab.com"
-      - icon: github
-        href: https://github.com/thefaylab
-        text: "FayLab Github"
+website:
+  title: "The Fay Lab"
+  site-url: "https://thefaylab.com"
+  repo-url: "https://github.com/thefaylab/thefaylab.github.io"
+  repo-actions: [edit, issue]
 
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
+  navbar:
+    background: dark
+    foreground: light
+    pinned: true
+    logo: images/thefaylab_hex.png
+    left:
       - href: index.qmd
-        text: Welcome
+        text: Home
       - href: people.qmd
         text: People
       - href: research.qmd
@@ -42,11 +29,18 @@ website:
         text: Blog
       - href: jointhelab.qmd
         text: Opportunities
-        
+    right:
+      - icon: github
+        href: https://github.com/thefaylab
+      - icon: globe
+        href: https://thefaylab.com
+      - icon: search
+
+
 format:
   html:
-    theme: cosmo
-    code-copy: true
+    theme: flatly
+    css: styles.css
     code-overflow: wrap
     toc: true
 
@@ -54,5 +48,3 @@ format:
 filters:
   - include-files.lua
   - quarto
-
-  

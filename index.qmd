@@ -2,21 +2,28 @@
 title: "The Fay Lab, Quantitative Fisheries & Ecosystem-Based Management Science"
 subtitle: "School for Marine Science and Technology, University of Massachusetts Dartmouth"
 
+# Blog listing config (embedded by id below)
 listing:
   - id: recent-blog-listing
     contents:
       - "blog/*/index.qmd"
     sort: "date desc"
-    type: grid
+    type: default 
     max-items: 3
-    #page-size: 3
     categories: false
     sort-ui: false
     filter-ui: false
-    fields: [title, image, date, categories]
----
+    fields: [image, title, date]
 
-:::::: white-div
+format:
+  html:
+    toc: false
+    css: /styles/index.css
+---
+::: {.columns }
+
+::: {.column width="60%"}
+### Welcome
 **Welcome** to Gavin Fay’s lab at the University of Massachusetts Dartmouth.
 
 [Read about our lab culture & philosophy.](https://thefaylab.github.io/lab-manual/02-lab-culture-philosophy.html)
@@ -31,20 +38,19 @@ We embrace [open data science approaches](https://openscapes.org/) to help make 
 
 Current UMassD undergraduate students interested in working in the group should check [the opportunities section](jointhelab.html#undergrads) for advertised marine data science research technician positions.
 
-<!---------------- START blog listing section (white div) ---------------->
+:::
 
-::::: white-div
-:::: {.blue-underline .center-text}
-### **Lab News**
+::: {.column width="40%"}
+<div class="sidebar-news">
 
-<br> Our blog shares stories from the lab community and documents our learning openly. See the recent posts below or browse our [full blog listing](blog.qmd). <br>
+### Lab News
+Our blog shares stories from the lab community and documents our learning openly.  
+See the recent posts below or browse our **[full blog listing](blog.qmd)**.
 
 ::: {#recent-blog-listing}
 :::
-::::
-:::::
 
-<!---------------- END blog listing section (white div) ---------------->
+</div>
+:::
 
-<!---------------------------------------------------------------------->
-::::::
+:::

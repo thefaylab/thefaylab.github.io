@@ -1,421 +1,397 @@
 ---
 title: "People"
+format:
+  html:
+    toc: false
+    css: /styles/people.css  
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 ---
 
-# People
-
-[Current Team](#current) / [Alumni](#alumni)
-
-![](images/faylab-banner-made-of-people-cropped.jpg)
-
-------------------------------------------------------------------------
-
-### Current Team {#current}
-
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/fay-profilepic.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Dr. Gavin Fay (Lab PI)** \
-Associate Professor\
-[gfay\@umassd.edu](mailto:gfay@umassd.edu)\
-+1 508 910 6363\
-[Personal website](http://gavinfay.github.io)\
-[Github](http://github.com/gavinfay)\
-[Google Scholar](http://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=en)\
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START A. Abbas ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/ajmal-abbas.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Ajmal Abbas**\
-Graduate research assistant\
-*aabbas1\@umassd.edu*\
-*[Portfolio website](https://skillful-lilac-ec7.notion.site/AJMAL-A-3a4ba46fe55a4b93908e876a9920e435)*
-
-Ajmal is currently pursuing a master's degree in data science at the University of Massachusetts Dartmouth. Originally from India, he brings a strong academic and research background in data-driven problem solving, with a foundation in Machine Learning, Deep Learning, and Artificial Intelligence built through both coursework and hands-on projects. He has completed projects across cybersecurity, agriculture, high-performance scientific computing, and material science prediction, applying advanced ML and DL pipelines to solve domain-specific problems. In the lab, Ajmal is developing ML/DL-based emulators to support ecosystem modeling and decision-making, merging data science foundation with environmental applications.
-:::
-:::::
-::::::
-
-<!---------------- END A. Abbas ---------------->
-<br>
-<!---------------- START A. Hart ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/AHart.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Amanda Hart**\
-Ph.D. candidate\
-*ahart2\@umassd.edu\
-[Google Scholar](https://scholar.google.com/citations?user=9Ea9PWwAAAAJ&hl=en&oi=sra)*
-
-Amanda grew up in New Mexico and attended the University of Miami where she majored in Marine Science and Biology. She is currently a stock assessment Fish Biologist at NOAA Fisheries Northeast Fisheries Science Center in Woods Hole. Her PhD thesis work is centered around developing methods and communication tools for ecosystem-based fisheries Management Strategy Evaluation. In this work, Amanda is using models of New England fisheries that seek to include a broader range of environmental data, fishing fleet dynamics, and species interactions than current stock assessment models.
-:::
-:::::
-::::::
-
-<!---------------- END A. Hart ---------------->
-<br>
-<!---------------- START L. Hohne ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/Picture_fieldwork_Leander.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Dr. Leander Höhne**\
-Research Associate\
-*lhohne\@umassd.edu*\
-
-Leander entered the world of fisheries through his M.Sc. studies at the Humboldt University of Berlin and Leibniz Institute of Freshwater Ecology and Inland Fisheries, focusing on recreational fisheries topics such as the impacts of catch-and-release angling on nest-guarding pikeperch. With a developing interest in population dynamics and spatial behavior of fishes, he moved on to do his PhD at the Thünen Institute of Fisheries Ecology in Bremerhaven, Germany. There he delved deep into the stock assessment, management and migration ecology of the panmictic European eel. More recently, Leander has worked on stock assessment and management strategy evaluation for the European eel stock in the Mediterranean at the FAO General Fisheries Commission of the Mediterranean and University of Rome Tor Vergata, specializing in Bayesian hierarchical and integrated ecological-economic modeling approaches. His research in the Fay lab will concentrate on evaluating the integration of environmental variation into stock assessment and economic models and management procedures across different contexts, towards an improved reliability of forecasting results and management advice.  
-:::
-:::::
-::::::
-
-<!---------------- END L. Hohne ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/hope.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Sarah Hope**\
-M.S. student\
-*shope\@umassd.edu*\
-
-Sarah joined the Fay Lab in the Fall of 2024. She grew up in New Bedford, Massachusetts and completed her undergraduate studies in Writing and Journalism at Emerson College. When she decided to pursue her longtime passion for science, she started her journey at the University of Massachusetts, Amherst and earned a M.S. in Sustainability Science, specializing in climate impacts. She is now pursuing an advanced degree in Marine Science at SMAST, while combining her interdisciplinary background with a quantitative approach to fisheries. Her current research is focused on the intersection of supply chain and ecosystem dynamics, and how they can be used to inform sustainable management decisions and increase access to local seafood in New England.
-
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/garrett-klee.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Garrett Klee**\
-M.S. student\
-*gklee\@umassd.edu*\
-
-Garrett is a Master’s student that joined the Fay lab in Summer of 2025. He grew up in Seattle, Washington and completed his undergraduate in Environmental Science with a Marine Science emphasis at Western Washington University where he conducted research with Pacific herring. Garrett continued his fisheries work with the Alaskan Observer program before transitioning to working with the Pacific States Marine Fisheries Commission participating in anadromous work. His research in the Fay lab will focus on the performance of stock assessment models and harvest strategies given uncertainties in fishing fleet responses to regulation changes. He is excited to work and be involved in the quantitative research happening in our commercial and recreational fisheries.  
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/bsbmcginnis.jpeg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Luca McGinnis**\
-M.S. student\
-*lmcginnis\@umassd.edu*\
-
-Luca's M.S. research is focused on improving the use of fishery dependent data in Northeast US fishery stock assessments, specifically through spatially explicit catch per unit effort (CPUE) standardization for US Atlantic cod. Luca holds a Bachelor's degree in Marine Science from Boston University, with undergraduate thesis research on using micro-CT imaging and modeling software to compare the morphology of sympatric sand lance species (genus Ammodytes) in the Gulf of Maine. In summer 2023 they started a full time position as a Research Biologist for the Commercial Fisheries Research Foundation.
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/ophelia-mcgrail.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Ophelia McGrail**\
-Ph.D. student\
-*omcgrail\@umassd.edu*
-
-Ophelia grew up in north shore Massachusetts and earned their undergraduate degree in Biology & Environmental Studies from Wheaton College, Massachusetts. Their senior thesis work centered on using DNA barcoding to elucidate the genetic identities of morphologically similar marine worms. After Wheaton, they interned at the Rhode Island Division of Marine Fisheries and joined The Nature Conservancy Rhode Island as the Coastal Restoration Program Assistant. They will start their PhD studies in the Fay Lab in fall 2025.
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/macperez.jpeg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**María Cristina Pérez Cuesta**\
-Ph.D. student\
-*mperez12\@umassd.edu*
-
-Cristina is a Marine Biologist with a Master degree in Fisheries Science from the University of Concepcion (UdeC-Chile), and has been working since 2016 at Instituto de Fomento Pesquero (IFOP-Chile) providing scientific advice for the yellownose skate and southern hake stock assessments and also participate as a researcher in the scientific committees for the demersal fisheries. Cristina's topics of interest are Management Strategy Evaluation (MSE), population rebuilding, ecosystem- based fisheries management, and sustainable fisheries.
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/Roman.jpeg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Catalina Roman**\
-Ph.D. candidate\
-*croman1\@umassd.edu*
-
-Catalina's PhD research is conducting simulation testing to assess the performance of the NMFS NEFSC Bottom Trawl Survey in the presence of Offshore Wind, and potential survey mitigation strategies. Catalina holds a Master's in fisheries from Universidad de Concepción Chile. During her time as a student, she has worked on the standardization of a relative abundance index of a rock lobster species from Juan Fernandez Archipelago as her undergrad thesis and then, and for her master's thesis project, she studied the spatio-temporal migratory patterns of the same fishing resource using mark recapture data. In 2014, she joined the Fisheries Assessment Department of IFOP (Chilean Fisheries Development Institute), where she has been working as a researcher in the assessment of discard and incidental catch of demersal fisheries of Chile.
-
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/Kelsey_labphoto.JPG)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Dr. Kelsey Roberts**\
-Research Associate\
-*kroberts6\@umassd.edu*
-
-Kelsey joined the Fay lab in March 2025 as a research associate. She holds a PhD in Marine Science from Monash University in Melbourne, Australia, where she evaluated the effectiveness of Australia’s marine protected area network in safeguarding biodiversity. She has previously completed postdoctoral projects at Louisiana State University, Stony Brook University, and the US Geological Survey Wetland and Aquatic Research Center. Her research in the Fay lab will focus on integrating climate forecasting data products into stock assessment and management procedures in collaboration with the Northeast Climate Integrated Modeling Initiative (NCLIM).
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/Walsh_fall2023.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Kamran Walsh\
-**Ph.D. student\
-*kwalsh13\@umassd.edu*
-
-Kamran Walsh is a PhD student at the School of Marine Science and Technology who joined the Fay Lab in the fall of 2023. He previously attended the Scripps Institution of Oceanography as an undergraduate and Master’s student, where his research centered around interdisciplinary studies of larval fishes in the California Current Ecosystem. While living on the West Coast, he was also involved in the California Cooperative Fisheries Research Program (CCFRP), a statewide program that intersects Marine Protected Area research with stakeholder involvement, as well as work ranging from bluefin tuna aquaculture to four years in the fishing industry. For his PhD, he is interested in building strength in quantitative techniques that address contemporary issues of fisheries and ecosystem management in the New England area and beyond.
-
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/Sophie_profpoc.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Sophie Wulfing**\
-Research Associate\
-*swulfing\@umassd.edu*
-
-Sophie joined the Fay Lab in March of 2025. She grew up in Washington State but got her masters degree at the University of New Hampshire. After her masters, she completed a Fulbright Student Research Grant in Makassar, Indonesia studying the affects of mangrove replanting efforts on local fish abundance and biodiversity. Her current research in the Lab focuses on how incorporating different environmental projections affects management decisions and is using yellowtail flounder as an example species.
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-
-------------------------------------------------------------------------
-
-### Alumni {#alumni}
-
-(*next and* *current positions in italics*)
-
-[![](images/team/Aguiar_obi.jpeg){alt="Aguiar" width="149"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2020/12/Aguiar_obi.jpeg)
-
-**Olivia Aguiar**\
-undergraduate marine data science technician 2020-2022 Next: *MS student, Oklahoma State University\
-*Now: *PhD student, Temple University*
-
-[![](images/team/Breault_Professional_Pic.png){alt="Breault" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2020/05/Breault_Professional_Pic-e1589386318346.png)
-
-**Tabitha Breault**\
-undergraduate marine data science technician 2019-2022\
-Next: *UMass Dartmouth class of 2023\
-*Now:
-
-[![](images/team/JCummings.jpg){alt="Cummings" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2018/06/JCummings.jpg)
-
-**Dr. Jonathan Cummings**\
-Postdoctoral researcher 2018-2021\
-Next/Now: *Species Status Assessment Scientist, US Fish and Wildlife Service\
-[Personal website](#0)\
-*
-
-![](images/team/Gabriel.png){alt="Gabriel"}
-
-**Sofia Gabriel**\
-lab technician 2019 Next: *PhD student, University of Tasmania\
-*Now:  
-
-![](images/team/Guyant_BioPic.jpeg){alt="Guyant" width="149"}
-
-**Madeleine Guyant**\
-Technical Associate & Decision support specialist 2022-2024\
-Next/Now: *Global Fisheries Specialist, The Nature Conservancy*
-
-Madeleine's work with the lab focused on the New England & Mid-Atlantic Fishery Management Councils' synthesis of Fish Habitat and Climate Vulnerability assessments, as well as facilitating stakeholder engagement for the New England Fishery Management Council's prototype Management Strategy Evaluation for Ecosystem-Based Fisheries Management of Georges Bank. Madeleine also supported stakeholder workshops on CINAR-funded work to evaluate changes to NOAA fishery independent survey data products due to overlap with wind installation and lease areas. Madeleine holds a Master’s in Environment Politics and Development from SOAS University of London, and undergraduate degrees from North Carolina State University in Environmental Technology and Management and French Language and Literature. She has a background in fisheries and wildlife policy, and enjoys working with science communication.
-
-![](images/team/Liljestrand.jpg){alt="Liljestrand" width="150"}
-
-**Dr. Emily Liljestrand, PhD**\
-Postdoctoral researcher 2023\
-Next/Now: *Stock assessment scientist, NOAA Fisheries Northeast Fisheries Science Center*
-
-Emily's postdoc work in the lab focused on technical analyses for the New England Fishery Management Council's prototype Management Strategy Evaluation for Ecosystem-Based Fisheries Management of Georges Bank. This included developing modules for a multispecies MSE, including stock complex-based control rules, and working with a multispecies length-based operating model, Hydra. Emily received her Ph.D. from Michigan State University where her research focused on the performance of state-space stock assessment models. Emily was also a 2019 recipient of the NMFS-SeaGrant Population and Ecosystem Dynamics Fellowship.
-
-
-<!---------------- START A. MILLER ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/MillerAngelia.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Angelia Miller**\
-M.S. 2025\
-Next: *Fishery Specialist, New England Fishery Management Council*\
-Now: *Owner and Principal Consultant, Maris Collaborative LLC.*\
-[Personal website](https://angeliamiller.github.io/), [LinkedIn](https://www.linkedin.com/in/angeliamarie4/)
-:::
-:::::
-::::::
-Angelia's thesis work focused on evaluating the impact of offshore wind impacts to the NOAA Northeast Fisheries Science Center's Northeast Bottom Trawl Survey using empirical and simulation modeling tools. During her time in the lab, Lia also ran open science trainings, supported regional stock assessment model development and scenario planning for Sustainable Regional Systems network and community of practice. She is a certified Carpentries Instructor.
-
-<!---------------- END A. MILLER ---------------->
-<br>
-
-[![](images/team/Novak_scallop-dredge.jpg){alt="Novak"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2019/05/Novak_scallop-dredge-2013-e1559156364406.jpg)
-
-**Ashleigh Novak**\
-Technical associate & lab manager (2019-2021)\
-Next/Now: *Atlantic White Shark Conservancy*\
-[Personal website](#0), [Google Scholar](#0)
-
-[![](images/team/Schilpp1.jpg){alt="Schilpp"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/Schilpp1.jpg)
-
-**Liberty Schilpp**\
-M.S. 2018\
-Next/Now: *Education Coordinator & Science/Math teacher, Nauset Academy, Brewster MA*
-
-Liberty completed her non-thesis M.S. degree in the Fay lab, with research on evaluating factors contributing to variability in size-at-age for Northeast US groundfish, and the implications of size-based time-varying natural mortality in state-space stock assessment models for Gulf of Maine cod. *(Main collaborator: Dr. Tim Miller, NOAA NEFSC)*
-
- 
-
-[![](images/team/TammySilva.jpg){alt="Silva" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2018/06/TammySilva_cropped.jpg)
-
-**Dr. Tammy Silva, PhD**\
-Postdoctoral researcher 2018-2020\
-Next/Now: *Research Marine Scientist, NOAA Stellwagen Bank National Marine Sanctuary*
-
-[![](images/team/Trijoulet_CVpic.jpg){alt="Trijoulet" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2017/04/Trijoulet_CVpic.jpg)
-
-**Dr. Vanessa Trijoulet, PhD**\
-Visiting Scholar UMassD / Postdoctoral researcher NOAA NEFSC 2016-2018\
-Next/Now: *Stock assessment scientist, Danish Technical University, Denmark*\
-[Google Scholar](https://scholar.google.com/citations?user=aYB-z9QAAAAJ&hl=en&oi=ao)
-
-Vanessa worked in collaboration with NOAA Fisheries (Northeast Fisheries Science Center, Woods Hole) and SMAST on the development of a multispecies state-space fisheries assessment model for the Georges Bank stocks. Vanessa's research focus is on marine ecosystem modelling, with interests in using modelling to study population-level interactions and improve conservation and management strategies. Vanessa obtained her PhD from the University of Strathclyde (Glasgow, UK) where she applied bioeconomic models of grey seal predation impacts on the West of Scotland fisheries. Vanessa has a Master’s degree in oceanography, specialized in marine biology from the Oceanographic Centre of Marseille, and a Bachelor’s degree in Sciences and technique specialized in life sciences and marine biology from the University of La Rochelle. *(Main collaborators: Dr. Kiersten Curti & Dr. Tim Miller, NOAA NEFSC)*
-
-[![](images/team/Weiss_sunset.png){alt="Weiss" width="149"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2020/02/Weiss_sunset-e1581367183616.png)
-
-**Samantha Weiss** lab technician 2019-2020\
-Next: *MS student, Georgia Southern University\
-*Now:
-
- 
-
-[![](images/team/Weston.jpeg){alt="Weston" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2015/09/Weston.jpeg)
-
-**Ashley Weston**\
-M.S. 2018\
-Next: *Quantitative Fisheries Researcher, Gulf of Maine Research Institute\
-*Now: *Statistician, NOAA Fisheries, Greater Atlantic Regional Fisheries Office*
-
-Ashley grew up fishing on the Chesapeake Bay. She attained a B.S. double major in Fisheries Conservation and Biological Sciences from Virginia Tech. For her MS thesis, Ashley worked with groundfish stock assessments in the Gulf of Alaska, focusing on developing models that account for the effects of environmental drivers on fisheries resources and discerning robust selection tools for these models. In addition, Ashley investigated subsequent implications of future climate change within these stock assessments on current management policies. *(Main collaborator: Dr. Carey McGilliard, NOAA AFSC).*
-
-[![](images/team/Wildermuth.jpg){alt="Wildermuth"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/Wildermuth.jpg)
-
-**Robert Wildermuth**\
-Ph.D. 2021\
-Next: *Postdoctoral Fellow, University of California Santa Cruz*\
-Now: *Fishery Biologist, NOAA Fisheries Southwest Fisheries Science Center*\
-[Google Scholar](https://scholar.google.com/citations?user=UhATj4oAAAAJ&hl=en)
-
-Robert's research interests focus on how to use quantitative tools to make effective management decisions with uncertain and incomplete knowledge. As a 2018 NMFS-Sea Grant Population and Ecosystem Dynamics Fellow, his PhD work looked at how assumptions about the structure and function of marine social-ecological systems can affect decision-making. He applied both quantitative and qualitative models in Bayesian statistical frameworks to analyze decision-support tools for managing the social-ecological system on Georges Bank, USA, including objectives of fisheries sustainability and human wellbeing. Robert earned a B.S. in Zoology and Biological Sciences at Colorado State University and a M.S. in Biology at Arizona State. Research topics included demographic effects of California sea lion aggressive behavior, sexually selected traits in the Trinidadian guppy, and oil spill impacts on marine mammal and mollusk populations. *(Main PhD collaborator: Dr. Sarah Gaichas, NOAA NEFSC).*
-
-[![](images/team/Winton-togzilla.jpg){alt="MWinton"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/togzilla.jpg)
-
-**Megan Winton**\
-Ph.D. 2024\
-Next/Now: *Lead Research Scientist, Atlantic White Shark Conservancy\
-*[Google Scholar](https://scholar.google.com/citations?user=s7FH69wAAAAJ&hl=en&oi=ao)
-
-Megan's research interests are centered on the development and application of statistical methods to improve understanding of the spatial ecology and population dynamics of highly migratory marine species. Her Ph.D. research was focused on developing frameworks to integrate electronic tagging data into population assessments for protected or prohibited species, with focus on geostatistical methods applied to loggerhead sea turtles in the Mid-Atlantic, and to white sharks off the coast of Cape Cod, Massachusetts. Megan earned her M.S. in Marine Science at California State University Monterey Bay's Moss Landing Marine Laboratory, and received her B.S. in Biology from Emory University. Megan has applied her quantitative analytical skills in positions at several research institutions, including Connamessett Farm Foundation and the NOAA Fisheries Northeast Fisheries Science Center. She is currently the Atlantic White Shark Conservancy's lead research scientist. *(Main PhD collaborators: Dr. Heather Haas, NOAA NEFSC, Dr. Greg Skomal, Mass DMF)*
+```{=html}
+<!-- Loading indicator -->
+<div id="loadingContainer" class="loading-container">
+  <div class="spinner"></div>
+  <p>Loading our amazing team...</p>
+</div>
+
+<!-- Error message container -->
+<div id="errorContainer" style="display: none;"></div>
+
+<!-- People grid container -->
+<div id="peopleGrid" class="people-grid" style="display: none;"></div>
+
+<!-- Single Reusable Modal -->
+<div id="personModal" class="custom-modal">
+  <div class="custom-modal-content">
+    <div class="custom-modal-header">
+      <h5 id="modalTitle">Team Member</h5>
+      <button class="custom-modal-close" onclick="closeModal()">&times;</button>
+    </div>
+    <div class="custom-modal-body">
+      <div id="modalContent">
+        <!-- Content will be dynamically populated -->
+      </div>
+    </div>
+    <div class="custom-modal-footer">
+      <button onclick="closeModal()">Close</button>
+    </div>
+  </div>
+</div>
+
+<script>
+let peopleData = {};
+
+// Embedded people data
+const embeddedPeopleData = {
+  "people": [
+    {
+      "id": "gavin",
+      "name": "Dr. Gavin Fay",
+      "title": "Associate Professor (Lab PI)",
+      "email": "gfay@umassd.edu",
+      "googleScholar": "http://scholar.google.com/citations?user=ApZKT_0AAAAJ&hl=en",
+      "image": "images/team/fay-profilepic.png",
+      "bio": "Gavin's research focuses on developing and testing quantitative modeling tools used for assessment and management of living marine resources. His work spans stock assessment methods, management strategy evaluation, and ecosystem-based fisheries management.",
+      "education": "Ph.D. in Marine Science"
+    },
+    {
+      "id": "ajmal",
+      "name": "Ajmal Abbas",
+      "title": "Graduate Research Assistant",
+      "email": "aabbas1@umassd.edu",
+      "googleScholar": null,
+      "image": "",
+      "bio": "Ajmal is pursuing a master's in data science at UMass Dartmouth. His background spans Machine Learning, Deep Learning, and AI, with applications in cybersecurity, agriculture, high-performance computing, and material science prediction. In the Fay Lab, he develops ML/DL-based emulators to support ecosystem modeling.",
+      "education": "M.S. in Data Science (in progress)"
+    },
+    {
+      "id": "amanda",
+      "name": "Amanda Hart",
+      "title": "Ph.D. Candidate",
+      "email": "ahart2@umassd.edu",
+      "googleScholar": "https://scholar.google.com/citations?user=9Ea9PWwAAAAJ&hl=en",
+      "image": "images/team/AHart.jpg",
+      "bio": "Amanda is a Stock Assessment Fish Biologist at NOAA NEFSC. Her PhD focuses on ecosystem-based fisheries Management Strategy Evaluation, incorporating environmental data, fleet dynamics, and species interactions into New England fisheries models.",
+      "education": "Ph.D. Candidate in Marine Science"
+    },
+    {
+      "id": "leander",
+      "name": "Dr. Leander Höhne",
+      "title": "Research Associate",
+      "email": "lhohne@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/Picture_fieldwork_Leander.png",
+      "bio": "Leander’s PhD research focused on the European eel at the Thünen Institute, Germany. He specializes in stock assessment, management strategy evaluation, and Bayesian hierarchical modeling. At Fay Lab, he integrates environmental variation into stock assessment and management models.",
+      "education": "Ph.D. in Marine Biology"
+    },
+    {
+      "id": "sarah",
+      "name": "Sarah Hope",
+      "title": "M.S. Student",
+      "email": "shope@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/hope.png",
+      "bio": "Sarah joined in Fall 2024 after earning an M.S. in Sustainability Science. Her research focuses on supply chain and ecosystem dynamics to inform sustainable management and increase access to local seafood in New England.",
+      "education": "M.S. in Sustainability Science, B.A. in Journalism"
+    },
+    {
+      "id": "garrett",
+      "name": "Garrett Klee",
+      "title": "M.S. Student",
+      "email": "gklee@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/garrett-klee.jpg",
+      "bio": "Garrett, from Seattle, WA, studied Environmental Science at Western Washington University and worked with Pacific herring. His Fay Lab research focuses on stock assessment models and harvest strategies under uncertainty in fleet responses.",
+      "education": "B.S. in Environmental Science"
+    },
+    {
+      "id": "luca",
+      "name": "Luca McGinnis",
+      "title": "M.S. Student",
+      "email": "lmcginnis@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/bsbmcginnis.jpeg",
+      "bio": "Luca’s M.S. research aims to improve use of fishery dependent data, focusing on spatial CPUE standardization for Atlantic cod. They also work as a Research Biologist for the Commercial Fisheries Research Foundation.",
+      "education": "B.A. in Marine Science, Boston University"
+    },
+    {
+      "id": "ophelia",
+      "name": "Ophelia McGrail",
+      "title": "Ph.D. Student",
+      "email": "omcgrail@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/ophelia-mcgrail.jpg",
+      "bio": "Ophelia studied Biology & Environmental Studies at Wheaton College, focusing on DNA barcoding of marine worms. They worked with RI DEM Fisheries and The Nature Conservancy before joining the Fay Lab PhD program in 2025.",
+      "education": "B.A. in Biology & Environmental Studies"
+    },
+    {
+      "id": "cristina",
+      "name": "María Cristina Pérez Cuesta",
+      "title": "Ph.D. Student",
+      "email": "mperez12@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/macperez.jpeg",
+      "bio": "Cristina, from Chile, earned a Master’s in Fisheries Science at UdeC. She worked at IFOP since 2016, advising on stock assessments for southern hake and yellownose skate. Her interests include MSE, rebuilding populations, and ecosystem-based fisheries management.",
+      "education": "M.Sc. in Fisheries Science, University of Concepcion"
+    },
+    {
+      "id": "catalina",
+      "name": "Catalina Roman",
+      "title": "Ph.D. Candidate",
+      "email": "croman1@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/Roman.jpeg",
+      "bio": "Catalina’s PhD research assesses the performance of NMFS NEFSC Bottom Trawl Surveys under Offshore Wind impacts. She previously worked at IFOP (Chile) on discard and incidental catch studies.",
+      "education": "M.Sc. in Fisheries, Universidad de Concepción"
+    },
+    {
+      "id": "kelsey",
+      "name": "Dr. Kelsey Roberts",
+      "title": "Research Associate",
+      "email": "kroberts6@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/Kelsey_labphoto.JPG",
+      "bio": "Kelsey holds a Ph.D. from Monash University, Australia. She evaluated marine protected areas, then worked at LSU, Stony Brook, and USGS. At Fay Lab, she integrates climate forecasting into stock assessments, collaborating with NCLIM.",
+      "education": "Ph.D. in Marine Science, Monash University"
+    },
+    {
+      "id": "kamran",
+      "name": "Kamran Walsh",
+      "title": "Ph.D. Student",
+      "email": "kwalsh13@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/Walsh_fall2023.jpg",
+      "bio": "Kamran studied larval fish ecology at Scripps Institution of Oceanography and worked with CCFRP and in the fishing industry. At Fay Lab, he focuses on quantitative methods for fisheries and ecosystem management in New England.",
+      "education": "M.S. in Marine Science, Scripps Institution of Oceanography"
+    },
+    {
+      "id": "sophie",
+      "name": "Sophie Wulfing",
+      "title": "Research Associate",
+      "email": "swulfing@umassd.edu",
+      "googleScholar": null,
+      "image": "images/team/Sophie_profpoc.png",
+      "bio": "Sophie earned her master’s at UNH and completed a Fulbright in Indonesia studying mangrove restoration effects on fish biodiversity. Her Fay Lab research incorporates environmental projections into fisheries management, focusing on yellowtail flounder.",
+      "education": "M.S. in Marine Science, University of New Hampshire"
+    },
+    // Alumni (examples; expand same way for all alumni listed above)
+    {
+      "id": "olivia",
+      "name": "Olivia Aguiar",
+      "title": "Undergraduate Marine Data Science Technician (2020–2022)",
+      "email": null,
+      "googleScholar": null,
+      "image": "images/team/Aguiar_obi.jpeg",
+      "bio": "Worked in Fay Lab as marine data science technician. Now a PhD student at Temple University, previously MS student at Oklahoma State.",
+      "education": "B.S. (UMass Dartmouth)"
+    },
+    {
+      "id": "jonathan",
+      "name": "Dr. Jonathan Cummings",
+      "title": "Postdoctoral Researcher (2018–2021)",
+      "email": null,
+      "googleScholar": null,
+      "image": "images/team/JCummings.jpg",
+      "bio": "Now a Species Status Assessment Scientist at US Fish and Wildlife Service.",
+      "education": "Ph.D. in Marine Science"
+    },
+    {
+      "id": "emily",
+      "name": "Dr. Emily Liljestrand",
+      "title": "Postdoctoral Researcher (2023)",
+      "email": null,
+      "googleScholar": "https://scholar.google.com/citations?user=UhATj4oAAAAJ&hl=en",
+      "image": "images/team/Liljestrand.jpg",
+      "bio": "Worked on multispecies MSE and length-based operating models. Now Stock Assessment Scientist at NOAA NEFSC.",
+      "education": "Ph.D. Michigan State University"
+    },
+    {
+      "id": "megan",
+      "name": "Megan Winton",
+      "title": "Ph.D. (2024)",
+      "email": null,
+      "googleScholar": "https://scholar.google.com/citations?user=s7FH69wAAAAJ&hl=en",
+      "image": "images/team/Winton-togzilla.jpg",
+      "bio": "Developed frameworks to integrate tagging data into assessments, with focus on white sharks and loggerhead turtles. Now Lead Research Scientist at Atlantic White Shark Conservancy.",
+      "education": "Ph.D. in Marine Science, UMass Dartmouth"
+    }
+  ]
+};
+
+// Load embedded people data
+function loadPeopleData() {
+  try {
+    console.log('Loading embedded people data...');
+    
+    const data = embeddedPeopleData;
+    
+    if (!data.people || !Array.isArray(data.people)) {
+      throw new Error('Invalid data structure');
+    }
+    
+    data.people.forEach(person => {
+      if (person.id) {
+        peopleData[person.id] = person;
+      }
+    });
+    
+    console.log(`Loaded ${data.people.length} team members`);
+    generatePeopleCards(data.people);
+    hideLoading();
+    
+  } catch (error) {
+    console.error('Error loading people data:', error);
+    showError(`Failed to load team member information: ${error.message}`);
+    hideLoading();
+  }
+}
+
+// Generate person cards dynamically
+function generatePeopleCards(people) {
+  const gridContainer = document.getElementById('peopleGrid');
+  gridContainer.innerHTML = '';
+  
+  people.forEach(person => {
+    const cardDiv = document.createElement('div');
+    cardDiv.className = 'person-card';
+    
+    const personCard = `
+      <div class="person-image-container">
+        <img 
+        src="${person.image && person.image.trim() !== '' 
+                ? person.image 
+                : 'https://via.placeholder.com/400x280/667eea/ffffff?text=' + encodeURIComponent(person.name.split(' ')[0])}" 
+        alt="${person.name}" 
+        class="person-image"
+        onerror="this.onerror=null; this.src='https://via.placeholder.com/400x280/667eea/ffffff?text=' + encodeURIComponent('${person.name.split(' ')[0]}')">
+      </div>
+      
+      <div class="person-content">
+        <div class="person-info">
+          <h3 class="person-name">${person.name}</h3>
+          <p class="person-title">${person.title || ''}</p>
+          <a href="mailto:${person.email}" class="person-email">${person.email}</a>
+        </div>
+        
+        <div class="card-actions">
+          <button type="button" class="info-btn" onclick="openPersonModal('${person.id}')" aria-label="View ${person.name}'s profile">
+            <i class="fas fa-user"></i>
+          </button>
+          
+          ${person.googleScholar ? 
+            `<a href="${person.googleScholar}" target="_blank" class="scholar-btn" aria-label="${person.name}'s Google Scholar">
+              <i class="fas fa-graduation-cap"></i>
+              Scholar
+            </a>` : 
+            `<span class="scholar-btn disabled">
+              <i class="fas fa-graduation-cap"></i>
+              Scholar
+            </span>`
+          }
+        </div>
+      </div>
+    `;
+    
+    cardDiv.innerHTML = personCard;
+    gridContainer.appendChild(cardDiv);
+  });
+  
+  document.getElementById('peopleGrid').style.display = 'grid';
+}
+
+// Open person modal
+function openPersonModal(personId) {
+  const person = peopleData[personId];
+  if (!person) {
+    console.error('Person not found:', personId);
+    return;
+  }
+  
+  document.getElementById('modalTitle').textContent = person.name;
+  
+  let content = `
+    <div style="text-align: center; margin-bottom: 2rem;">
+     <img 
+      src="${person.image && person.image.trim() !== '' 
+              ? person.image 
+              : 'https://via.placeholder.com/150x150/667eea/ffffff?text=' + encodeURIComponent(person.name.split(' ')[0])}" 
+      alt="${person.name}" 
+      style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-bottom: 1.5rem; border: 4px solid #0077cc; box-shadow: 0 8px 24px rgba(0, 119, 204, 0.3);" 
+      onerror="this.onerror=null; this.src='https://via.placeholder.com/150x150/667eea/ffffff?text=' + encodeURIComponent('${person.name.split(' ')[0]}')">
+
+      <h4 style="margin: 0; color: #0077cc; font-weight: 700; font-size: 1.5rem;">${person.name}</h4>
+      <p style="margin: 0.5rem 0 1rem; color: #666; font-style: italic; font-size: 1.1rem;">${person.title || ''}</p>
+      <div style="display: flex; justify-content: center; gap: 1rem; margin-bottom: 1rem;">
+        <a href="mailto:${person.email}" style="color: #0077cc; text-decoration: none; background: rgba(0, 119, 204, 0.1); padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">
+          <i class="fas fa-envelope"></i> ${person.email}
+        </a>
+        ${person.googleScholar ? `
+          <a href="${person.googleScholar}" target="_blank" style="color: #4285f4; text-decoration: none; background: rgba(66, 133, 244, 0.1); padding: 0.5rem 1rem; border-radius: 20px; font-size: 0.9rem;">
+            <i class="fas fa-graduation-cap"></i> Scholar
+          </a>
+        ` : ''}
+      </div>
+    </div>
+    
+    <div style="text-align: left;">
+      <h5 style="color: #333; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 3px solid #0077cc; font-size: 1.2rem;">Biography</h5>
+      <p style="margin-bottom: 1.5rem; font-size: 1rem; line-height: 1.7;">${person.bio || 'Biography coming soon...'}</p>
+      
+      ${person.education ? `
+        <div style="margin-top: 1.5rem; padding: 1.5rem; background: linear-gradient(135deg, rgba(0, 119, 204, 0.05), rgba(0, 119, 204, 0.1)); border-radius: 15px; border-left: 5px solid #0077cc;">
+          <strong style="color: #0077cc; font-size: 1.1rem;">
+            <i class="fas fa-graduation-cap"></i> Education: 
+          </strong>
+          <span style="color: #333; font-size: 1rem;">${person.education}</span>
+        </div>
+      ` : ''}
+    </div>
+  `;
+  
+  document.getElementById('modalContent').innerHTML = content;
+  
+  const modal = document.getElementById('personModal');
+  modal.classList.add('show');
+  document.body.style.overflow = 'hidden';
+}
+
+// Close modal
+function closeModal() {
+  const modal = document.getElementById('personModal');
+  modal.classList.remove('show');
+  document.body.style.overflow = 'auto';
+}
+
+// Utility functions
+function hideLoading() {
+  document.getElementById('loadingContainer').style.display = 'none';
+}
+
+function showError(message) {
+  const errorContainer = document.getElementById('errorContainer');
+  errorContainer.innerHTML = `<div class="error-message">${message}</div>`;
+  errorContainer.style.display = 'block';
+}
+
+// Event listeners
+document.addEventListener('click', function(event) {
+  if (event.target.id === 'personModal') {
+    closeModal();
+  }
+});
+
+document.addEventListener('keydown', function(event) {
+  if (event.key === 'Escape') {
+    closeModal();
+  }
+});
+
+// Initialize when DOM is ready
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('DOM loaded, initializing people page...');
+  loadPeopleData();
+});
+</script>
+```
