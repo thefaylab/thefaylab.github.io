@@ -20,9 +20,11 @@ format:
     toc: false
     css: /styles/index.css
 ---
-::: {.columns }
 
-::: {.column width="60%"}
+<div class="lab-card">
+
+<div class="welcome">
+
 ### Welcome
 **Welcome** to Gavin Fay’s lab at the University of Massachusetts Dartmouth.
 
@@ -38,10 +40,9 @@ We embrace [open data science approaches](https://openscapes.org/) to help make 
 
 Current UMassD undergraduate students interested in working in the group should check [the opportunities section](jointhelab.html#undergrads) for advertised marine data science research technician positions.
 
-:::
+</div>
 
-::: {.column width="40%"}
-<div class="sidebar-news">
+<div class="lab-news">
 
 ### Lab News
 Our blog shares stories from the lab community and documents our learning openly.  
@@ -51,6 +52,5 @@ See the recent posts below or browse our **[full blog listing](blog.qmd)**.
 :::
 
 </div>
-:::
 
-:::
+</div>
