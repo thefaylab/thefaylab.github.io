@@ -1,0 +1,124 @@
+#quarto-document-content {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.title {
+  color: black;
+  font-size: 2rem;
+}
+/* --- Tabset container --- */
+
+/* Base nav tabs container */
+.panel-tabset > ul.nav-tabs {
+  border-bottom: 1px solid rgba(0, 64, 128, 0.2);
+  background: #ffffff;
+  border-radius: 12px 12px 0 0;
+  overflow: hidden;
+  box-shadow: inset 0 -1px 4px rgba(0, 0, 0, 0.06);
+  border: 1px solid rgba(0, 119, 204, 0.3);
+}
+
+/* Tab links default (inactive) */
+.panel-tabset .nav-tabs .nav-link {
+  flex: 1 1 0;
+  text-align: center;
+  padding: 0.85rem 1rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+  background: #ffffff;
+  color: #000;
+  border: none;
+  border-right: 1px solid rgba(0, 64, 128, 0.2);
+  transition: all 0.3s ease;
+}
+
+.panel-tabset .nav-tabs .nav-link:last-child {
+  border-right: none;
+}
+
+/* Hover effect for inactive */
+.panel-tabset .nav-tabs .nav-link:hover {
+  background: #f0f4f9;
+  color: #004080;
+}
+
+/* Active tab */
+.panel-tabset .nav-tabs .nav-link.active {
+  background: #004080;
+  color: #ffffff;
+  border: none;
+  box-shadow: inset 0 -3px 6px rgba(0, 0, 0, 0.15);
+  z-index: 2;
+  
+}
+
+/* Tab content area */
+.panel-tabset .tab-content {
+  padding: 0.5rem 2rem;
+  background: #ffffff;
+  border-radius: 0 0 12px 12px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  animation: fadeIn 0.3s ease;
+  border: 1px solid rgba(0, 119, 204, 0.3);
+}
+
+/* Fade animation */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+
+/* --- Card blocks (topics, funding) --- */
+.card {
+  background: #ffffff;
+  border: 1px solid rgba(0, 119, 204, 0.3);
+  border-radius: 18px;
+  padding: 1.5rem;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+  margin-top: 1.5rem;
+  margin-bottom: 2rem;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0, 119, 204, 0.15);
+}
+
+.card ul {
+  padding-left: 1.25rem;
+  margin: 0;
+}
+
+.card li + li {
+  margin-top: 0.5rem;
+}
+
+/* --- Typography --- */
+h1, h2 {
+  color: #004080;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+h3, h4 {
+  color: #0077cc;
+  margin-top: 1.5rem;
+}
+
+#overview p {
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: #2c3e50;
+  text-align: justify;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+  .panel-tabset button[role="tab"] {
+    font-size: 0.9rem;
+    padding: 0.75rem;
+  }
+}
