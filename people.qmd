@@ -358,7 +358,7 @@ Kelsey joined the Fay lab in March 2025 as a research associate. She holds a PhD
 :::::: center-text
 ::::: grid
 ::: {.g-col-12 .g-col-md-4}
-![](images/team/vishnu-selvaraj.PNG)
+![](images/team/vishnu-selvaraj.png)
 :::
 
 ::: {.g-col-12 .g-col-md-8}
