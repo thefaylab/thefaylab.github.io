@@ -239,6 +239,30 @@ Kelsey joined the Fay lab in March 2025 as a research associate. She holds a PhD
 
 <!---------------- END G. FAY ---------------->
 <br>
+
+
+I am 
+<!---------------- START V. SELVARAJ ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/vishnu-selvaraj.PNG)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Vishnu Selvaraj**\
+Graduate research assistant\
+*vselvaraj\@umassd.edu*
+
+Vishnu is a Master’s student in Data Science at the University of Massachusetts Dartmouth, originally from India, with extensive academic and research experience in machine learning, deep learning, and data-driven cybersecurity applications. His previous work includes developing hybrid models that integrate CodeBERT, AST stylometry, and deep learning architectures for software vulnerability detection, as well as designing Graph Neural Network–based intrusion detection systems to strengthen network security. Beyond cybersecurity, he has applied CNNs for medical imaging in pneumonia detection, computer vision for pothole classification, and NLP-based sentiment analysis during industry projects. Skilled in Python, R, SQL, TensorFlow, PyTorch, and modern visualization tools, Vishnu is currently expanding his expertise into marine science, building ML/DL-based statistical emulators to support large-scale ecosystem modeling and decision-making.
+:::
+:::::
+::::::
+
+<!---------------- END V. SELVARAJ ---------------->
+<br>
+
 <!---------------- START G. Fay ---------------->
 
 :::::: center-text
