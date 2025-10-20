@@ -56,6 +56,24 @@ Ajmal is currently pursuing a master's degree in data science at the University 
 
 <!---------------- END A. Abbas ---------------->
 <br>
+<!---------------- START K. FURTADO ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Kaz Furtado**\
+Undergraduate student intern\
+
+:::
+:::::
+::::::
+
+<!---------------- END R. IGNATIUS ---------------->
+<br>
 <!---------------- START A. Hart ---------------->
 
 :::::: center-text
@@ -76,6 +94,24 @@ Amanda grew up in New Mexico and attended the University of Miami where she majo
 ::::::
 
 <!---------------- END A. Hart ---------------->
+<br>
+<!---------------- START S. HILEMARIAME ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Separa Hilemariame**\
+Undergraduate student intern\
+
+:::
+:::::
+::::::
+
+<!---------------- END S. HILEMARIAME ---------------->
 <br>
 <!---------------- START L. Hohne ---------------->
 
@@ -117,6 +153,44 @@ Sarah joined the Fay Lab in the Fall of 2024. She grew up in New Bedford, Massac
 ::::::
 
 <!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START R. IGNATIUS ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Rowan Ignatius**\
+MS student, Data Science\
+*rignatius\@umassd.edu*\
+
+:::
+:::::
+::::::
+
+<!---------------- END R. IGNATIUS ---------------->
+<br>
+<!---------------- START J. JUBA ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Janel Juba**\
+Offshore Wind Certificate Program Coordinator\
+*jjuba1\@umassd.edu*\
+
+:::
+:::::
+::::::
+
+<!---------------- END J. JUBA ---------------->
 <br>
 <!---------------- START G. Fay ---------------->
 
@@ -218,6 +292,25 @@ Cristina is a Marine Biologist with a Master degree in Fisheries Science from th
 ::::::
 
 <!---------------- END G. FAY ---------------->
+<br>
+<!---------------- START S. RANGOLE ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Sneha Rangole**\
+Graduate research assistant\
+*srangole\@umassd.edu*\
+
+:::
+:::::
+::::::
+
+<!---------------- END S. RANGOLE ---------------->
 <br>
 <!---------------- START G. Fay ---------------->
 
