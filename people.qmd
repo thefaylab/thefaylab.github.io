@@ -178,6 +178,27 @@ Ophelia grew up in north shore Massachusetts and earned their undergraduate degr
 
 <!---------------- END G. FAY ---------------->
 <br>
+
+<!---------------- START V. PATEL ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/vraj-patel.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Vraj Patel**\
+undergraduate student intern\
+
+Vraj is a Courage Builder intern working in the lab for the fall 2025 semester. He is an undergraduate at UMass Dartmouth studying computer science. An international student from India, Vraj is currently working on improving the computational efficiency of simulation code in SSEEP, to enable more rapid implementation of varying scenarios for modeling survey effort and species distribution change.
+:::
+:::::
+::::::
+
+<!---------------- END V. PATEL ---------------->
+<br>
+ 
 <!---------------- START G. Fay ---------------->
 
 :::::: center-text
@@ -239,9 +260,6 @@ Kelsey joined the Fay lab in March 2025 as a research associate. She holds a PhD
 
 <!---------------- END G. FAY ---------------->
 <br>
-
-
-I am 
 <!---------------- START V. SELVARAJ ---------------->
 
 :::::: center-text
