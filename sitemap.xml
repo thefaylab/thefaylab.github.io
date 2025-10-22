@@ -1,83 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://thefaylab.com/learning-more.html</loc>
-    <lastmod>2025-10-20T16:52:34.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/publications.html</loc>
-    <lastmod>2025-10-20T16:52:34.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/research.html</loc>
-    <lastmod>2025-10-20T16:52:34.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/blog/2025-06-10-arrowsea-cr/index.html</loc>
-    <lastmod>2025-10-20T16:52:34.701Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/blog/2025-09-12-nbhsinterns-sw/index.html</loc>
-    <lastmod>2025-10-20T16:52:34.718Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/blog/2025-08-20-framevirginia-sw/index.html</loc>
-    <lastmod>2025-10-20T16:52:34.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/teaching.html</loc>
-    <lastmod>2025-10-20T16:52:34.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/quarto-workflows/index.html</loc>
-    <lastmod>2025-10-20T16:52:34.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/quarto-workflows/jupyter.html</loc>
-    <lastmod>2025-10-20T16:52:34.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/blog.html</loc>
-    <lastmod>2025-10-20T16:52:34.694Z</lastmod>
-  </url>
-  <url>
     <loc>https://thefaylab.com/people.html</loc>
-    <lastmod>2025-10-20T16:52:34.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/jointhelab.html</loc>
-    <lastmod>2025-10-20T16:52:34.812Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/quarto-workflows/rstudio.html</loc>
-    <lastmod>2025-10-20T16:52:34.839Z</lastmod>
-  </url>
-  <url>
-    <loc>https://thefaylab.com/quarto-workflows/browser.html</loc>
-    <lastmod>2025-10-20T16:52:34.812Z</lastmod>
+    <lastmod>2025-10-22T11:26:57.906Z</lastmod>
   </url>
   <url>
     <loc>https://thefaylab.com/blog/2025-03-25-recfishconv-kaw/index.html</loc>
-    <lastmod>2025-10-20T16:52:34.695Z</lastmod>
+    <lastmod>2025-10-22T11:26:57.770Z</lastmod>
   </url>
   <url>
-    <loc>https://thefaylab.com/blog/2025-06-04-engagedteaching-gf/index.html</loc>
-    <lastmod>2025-10-20T16:52:34.698Z</lastmod>
+    <loc>https://thefaylab.com/blog/2025-06-10-arrowsea-cr/index.html</loc>
+    <lastmod>2025-10-22T11:26:57.778Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/blog/2025-10-22-ices-asc-2025-kawsw/index.html</loc>
+    <lastmod>2025-10-22T11:26:57.797Z</lastmod>
   </url>
   <url>
     <loc>https://thefaylab.com/blog/2025-03-03-update2024-kaw/index.html</loc>
-    <lastmod>2025-10-20T16:52:34.695Z</lastmod>
+    <lastmod>2025-10-22T11:26:57.770Z</lastmod>
   </url>
   <url>
     <loc>https://thefaylab.com/transition-from-rmarkdown.html</loc>
-    <lastmod>2025-10-20T16:52:34.839Z</lastmod>
+    <lastmod>2025-10-22T11:26:57.932Z</lastmod>
   </url>
   <url>
-    <loc>https://thefaylab.com/explore.html</loc>
-    <lastmod>2025-10-20T16:52:34.721Z</lastmod>
+    <loc>https://thefaylab.com/publications.html</loc>
+    <lastmod>2025-10-22T11:26:57.906Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/jointhelab.html</loc>
+    <lastmod>2025-10-22T11:26:57.905Z</lastmod>
   </url>
   <url>
     <loc>https://thefaylab.com/index.html</loc>
-    <lastmod>2025-10-20T16:52:34.812Z</lastmod>
+    <lastmod>2025-10-22T11:26:57.905Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/quarto-workflows/browser.html</loc>
+    <lastmod>2025-10-22T11:26:57.906Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/quarto-workflows/index.html</loc>
+    <lastmod>2025-10-22T11:26:57.932Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/quarto-workflows/rstudio.html</loc>
+    <lastmod>2025-10-22T11:26:57.932Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/quarto-workflows/jupyter.html</loc>
+    <lastmod>2025-10-22T11:26:57.932Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/teaching.html</loc>
+    <lastmod>2025-10-22T11:26:57.932Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/blog.html</loc>
+    <lastmod>2025-10-22T11:26:57.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/explore.html</loc>
+    <lastmod>2025-10-22T11:26:57.815Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/research.html</loc>
+    <lastmod>2025-10-22T11:26:57.932Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/blog/2025-06-04-engagedteaching-gf/index.html</loc>
+    <lastmod>2025-10-22T11:26:57.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/blog/2025-09-12-nbhsinterns-sw/index.html</loc>
+    <lastmod>2025-10-22T11:26:57.794Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/blog/2025-08-20-framevirginia-sw/index.html</loc>
+    <lastmod>2025-10-22T11:26:57.791Z</lastmod>
+  </url>
+  <url>
+    <loc>https://thefaylab.com/learning-more.html</loc>
+    <lastmod>2025-10-22T11:26:57.905Z</lastmod>
   </url>
 </urlset>
