@@ -1,0 +1,50 @@
+---
+title: "2025 ICES Annual Science Conference, Klaipėda"
+author: Kamran Walsh and Sophie Wulfing
+date: 2025-10-22
+slug: ices2025
+categories:
+  - blog 
+  - research
+  - students
+  - travel
+image: smastklaipeda.jpg
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## 2025 ICES Annual Science Conference, Klaipėda
+
+Between September 15-18, Gavin, Kam and Sophie attended the
+[International Council for the Exploration of the Seas
+(ICES)](www.ices.dk) 2025 Annual Science Conference in Klaipėda,
+Lithuania. Here, we were joined by other SMAST faculty, staff, students,
+and alumni and learned all about the fascinating fisheries research
+happening around the world. It was very inspiring to meet brilliant
+marine scientists from all over the world and learn about their exciting
+ongoing work. Kam presented a talk on the Summer Flounder recreational
+fishery Management Strategy Evaluation, and Sophie was asked last-minute
+to give a lightning talk on my poster about different treatments of
+environmental covariates in yellowtail flounder stock assessment
+projections. SMAST student Sierra Richardson and recent alum Cole
+Carrano also presented posters on Monkfish catch-per-unit-effort (CPUE)
+standardization and incorporating environmental effects in Atlantic
+Bluefin Tuna Stock Assessment. It was our first time in Eastern Europe,
+and some of our favorite parts of the conference were learning about
+Baltic food, music, and history, exploring the Curonian Spit on the
+coast, and walking through an underwater tunnel surrounded by giant
+Sturgeon at the Lithuanian Sea Museum.
+
+![UMass and SMAST students, staff, faculty, and alumni at ICES ASC
+2025](smastklaipeda.jpg){fig-align="left"}
+
+![Kam giving a talk on summer flounder
+MSE.](kamtalk.png){fig-align="left"}
+
+![Sophie giving a lightning talk on decision making in projecting
+environmental covariates for yellowtail
+flounder.](sophietalk.png){fig-align="left"}
+
+![Kam becoming one with the fishes at the Lithuanian Sea
+Museum.](kamaquarium.png){fig-align="left" width="300"}
