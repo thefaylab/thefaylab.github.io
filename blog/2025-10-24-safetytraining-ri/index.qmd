@@ -1,0 +1,35 @@
+---
+title: "Safety and Survival Training by Fishing Partnership at SMAST"
+author: Rowan Ignatius
+date: 2025-10-24
+slug: fsspfall25
+categories:
+  - blog 
+  - students
+  - training
+image: tank1.jpg
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Safety and Survival Training at SMAST
+
+::: {style="float: right; position: relative; top: 0px; padding: 10px;"}
+![](flares.png)
+:::
+
+On Thursday, October 16, 2025, I attended the Fishing Partnership Support Services (FPSS) at SMAST conducted Safety and Survival Training at New Bedford's waterfront. The workshop convened researchers, commercial fishermen, and recreational anglers for essential emergency preparedness instruction. Offered at no cost to participants, this reflects FPSS's sustained commitment to advancing safety standards.
+
+Fishing, whether commercial or recreational, remains one of the most perilous professions and pastimes. The industry's inherent risks underscore the importance of comprehensive safety training. The workshop provided participants with practical, hands-on experience in critical survival techniques, including accessing Emergency Position Indicating Radio Beacons, Signal Flares, MAYDAY Calls, Man Overboard Recovery, Firefighting, Flooding & Damage Control, Opioid Overdose Response, Survival suits and distress signaling techniques.
+As several fishermen shared stories of life-threatening situations they had faced at sea, including man-overboard (MOB) incidents. Hearing these firsthand accounts really made me realize the critical importance of this training.
+
+Russell Kingman and Nathan Winterson, my instructors for the day, made the class engaging, funny, and interesting, while still effectively teaching essential life-saving skills, making it easier to absorb critical information that could one day save lives. In addition, FPSS provided all participants with Narcan opioid overdose sprays, further supporting preparedness for emergencies both at sea and ashore.
+
+I am looking forward to the CPR and First Aid training that will be hosted by FPSS on January 13, 2026, at Fort Tabor Community Center, New Bedford, MA.
+
+::: {layout-ncol=2}
+![](tank1.jpg)
+
+![](tank2.jpg)
+:::
