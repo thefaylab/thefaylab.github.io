@@ -1,142 +1,257 @@
 ---
 title: "Publications"
+format:
+  html:
+    toc: false
+    css: /styles/publications.css
 ---
 
-#### Refereed Publications
-
-(bold = lab member; \*postdoc, \*\*grad student, §undergrad)
-
-**2023**
-
-Vicarelli, M., R. DeConto, D. Connor Maresca, …, **G. Fay**, et al. 2023. Climate resilience in coastal Massachusetts: a survey of municipal challenges, plans, and needs. Mass Benchmarks - Journal of the Massachusetts Economy 25(2): 22-34.
-
-\*Maltby, KM, JG Mason, \*\*H Cheng, **G Fay**, RL Selden, L Williams, CL Alves. 2023. Navigating concepts of social-ecological resilience in marine fisheries under climate change: shared challenges and recommendations from the northeast United States, ICES Journal of Marine Science, 2023; fsad151, <https://doi.org/10.1093/icesjms/fsad151>
-
-**\*\*Winton, M.V., G. Fay**, G. Skomal. 2023. An open spatial capture-recapture framework for estimating the abundance and seasonal dynamics of white sharks at aggregation sites. Marine Ecology Progress Series 715:1-25. <https://doi.org/10.3354/meps14371>
-
-\*Perryman, H., IC Kaplan, JL Blanchard, **G Fay**, SK Gaichas, VL McGregor, HN Morzaria-Luna, J Porobic, H Townsend, EA Fulton. 2023. Atlantis Ecosystem Model Summit 2022: report from a workshop. Ecological Modelling 483: 110442. <https://doi.org/10.1016/j.ecolmodel.2023.110442>
-
-**\*Silva, T, §T Breault**, TM Lowery, \*\*NM Calabrese, KDE Stokesbury, DN Wiley, **G Fay**. 2023. Investigating spatial overlap between northern sand lance (*Ammodytes dubius*) and Atlantic cod (*Gadus morhua*) with video trawl technology. Fisheries Research 265: 106746. <https://doi.org/10.1016/j.fishres.2023.106746>
-
-Karp, MA, JS Link, \*\*Max Grezlik, S Cadrin, **G Fay**, P Lynch, et al. 2023. Increasing the uptake of multispecies models in fisheries management. ICES Journal of Marine Science. <https://doi.org/10.1093/icesjms/fsad001>
-
-**2022**
-
-\*\*Tran, M, **G Fay**, BD Stewart, KDE Stokesbury. 2022. Resiliency of marine benthic communities in sea scallop rotational management areas on Georges Bank. Journal of Shellfish Research 41:1-9.
-
-Legault, CM., J Wiedenmann, J Deroba, **G Fay**, TJ Miller, E Brooks, R Bell, \*\*J Langan, J Cournane, A Jones, B Muffley. 2022. Data Rich but Model Resistant: An Evaluation of Data-Limited Methods to Manage Fisheries with Failed Age-based Stock Assessments. Canadian Journal of Fisheries and Aquatic Sciences. [https://doi.org/10.1139/cjfas-2022-0045](#0)
-
-\*\*Danaher-Garcia, NK, R Connor, **G Fay**, K Melillo-Sweeting, KM Dudzinski. 2022. The Partial Merger of Two Dolphin Societies. Royal Society Open Science 9(8), p.211963. <https://doi.org/10.1098/rsos.211963>
-
-**\*\*Danaher-Garcia, NK, R Connor, G Fay, K Melillo-Sweeting, KM Dudzinski. 2022*.* Using Social Network Analysis to Confirm the 'Gambit of the Group' Hypothesis for a Small Cetacean. Behavioral Processes 200, p.104694. <https://doi.org/10.1016/j.beproc.2022.104694>**
-
-**Stokesbury, KDE, G Fay, R Griffin. 2022. A framework for categorizing the interactions of offshore windfarms and fisheries. ICES Journal of Marine Science. <https://doi.org/10.1093/icesjms/fsac118>**
-
-**2021**
-
-**\*Silva, T.L.**, DN Wiley, **G Fay**. 2021. A hierarchical modelling approach to estimating humpback whale abundance from sand lance abundance. Ecological Modelling 456, 109662. <https://doi.org/10.1016/j.ecolmodel.2021.109662>
-
-Patel, S.H., **\*\*MV Winton**, JM Hatch, HL Haas, VS Saba, **G Fay**, RJ Smolowitz. 2021. Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change.
-Scientific Reports 11, 8850. <https://doi.org/10.1038/s41598-021-88290-9>
-
-Froehlich, H. E., R Gentry, SE Lester, RS Cottrell, **G Fay,** TA Branch, J Gephart, E White, JK Baum. 2021. Securing a sustainable future for US seafood in the wake of a global crisis. Marine Policy 124: 104328.
-
-\*\*Lucey, SM, KY Aydin, SK Gaichas, SX Cadrin, **G Fay**, MJ Fogarty, AE Punt. 2021. Evaluating fishery management strategies using an ecosystem model as an operating model. Fisheries Research 234: 105780.
-
-\*\*Hansell, A., T.H. Curtis, J Carlson, E Cortés, **G. Fay**, S.X. Cadrin. 2021. Stock Assessment of the Lemon Shark (*Negaprion brevirostris*) off the Southeast United States. North American Journal of Fisheries Management 41: 35–48.
-
-**2020**
-
-\*\*Silva, E.N.S., A. Gangopadhyay, **G. Fay**, M.K.V. Welandawe, G. Gawarkiewicz, \*\*A.M. Silver, M. Monim, J. Clark. 2020. A survival analysis of the Gulf Stream warm core rings. Journal of Geophysical Research: Oceans 125: [10. e2020JC016507.](https://doi.org/10.1029/2020JC016507)
-
-**\*T.L. Silva**, M Thompson, P Hong, D Wiley, H Baumann, L Kaufman, J Llopiz, J Suca, **G Fay**. 2020. High collocation between sand lance and top predators in the southwestern Gulf of Maine. Conservation Science and Practice 3: [2.e274](http://dx.doi.org/10.1111/csp2.274).
-
-\*\***Hart, A.R.**, **G. Fay**. 2020. Applying tree analysis to assess combinations of ecosystem-based fisheries management actions in Management Strategy Evaluation. Fisheries Research 225:105466.
-
-\***Trijoulet, V.**, **G. Fay**, T.J. Miller. 2020. Performance of a state‐space multispecies model: What are the consequences of ignoring predation and process errors in stock assessments? Journal of Applied Ecology 57:121-135.
-
-**2019**
-
-\*Tam, J.C., **G. Fay**, J.S. Link. 2019. Better Together: the uses of ecological and socio-economic indicators with end-to-end models in marine ecosystem based management. Frontiers in Marine Science. 6:560. doi: 10.3389/fmars.2019.00560.
-
-Pethybridge, H.R., M. Weijerman, \*H. Perrymann,  A. Audzijonyte, J. Porobic, V. McGregor, R. Girardin, C. Bulman, \*K. Ortega-Cisneros, M. Sinerchia, T. Hutton, H. Lozano-Montes, M. Mori, C. Novaglio, **G. Fay**, R. Gorton, E. Fulton. 2019. Calibrating process-based marine ecosystem models: An example case using Atlantis. Ecological Modelling 412. 108822.
-
-\***Trijoulet, V.**, **G. Fay**, K. Curti, B. Smith, T.J. Miller. 2019. Performance of multispecies assessment models: insights on the influence of diet data. ICES Journal of Marine Science 76: 1464-1476.
-
-**Fay, G.**, G. DePiper, S. Steinback, R.J. Gamble, J.S. Link. 2019. Economic and ecosystem effects of fishing on the Northeast US shelf. Frontiers in Marine Science. 6:133. doi: 10.3389/fmars.2019.00133
-
-\*\*Liu, C., G.W. Cowles, D.R. Zemeckis, **G. Fay**, A. Le Bris, S.X. Cadrin. 2019. A hardware-accelerated particle filter for the geolocation of demersal fishes. Fisheries Research 213: 160-171.
-
-\***Silva, T.L.**, **G. Fay**, T.A. Mooney, J. Robbins, M.T. Weinrich, C.D. Carson, T.V.N. Cole, M.A. Thompson, D.N. Wiley. 2019. Toothed whale habitat use in a marine protected area using point process models. Marine Ecology Progress Series 609: 239-256.
-
-Cadrin, S.X., D.R. Goethel, \*\*M.R. Morse, **G. Fay**, L.A. Kerr. 2019. "So, where do you come from?" The impact of assumed spatial population structure on estimates of recruitment. Fisheries Research 217: 156-168.
-
-**2018**
-
-Kneebone, J., \*\***M.V. Winton**, A. Danylchuk, J. Chisholm, G.B. Skomal. 2018. An assessment of juvenile sand tiger (*Carcharias taurus*) activity patterns in a seasonal nursery using accelerometer transmitters. Environmental Biology of Fishes 101: 1739-1756.
-
-\*\***Winton, M.V.**, J. Kneebone, D. Zemeckis, **G. Fay**. 2018. A spatial point process model to estimate individual centers of activity from passive acoustic telemetry data. Methods in Ecology and Evolution 9: 2262-2272.
-
-Olsen, E., I.C. Kaplan, C. Ainsworth, **G. Fay**, S. Gaichas, R. Gamble, R. Girardin, C.H. Eide, T.F. Ihde, H. Morzaria-Luna, \*\*K.F. Johnson, M. Savina-Rolland, H. Townsend, M. Weijerman, E.A. Fulton, J.S. Link. 2018. Ocean Futures Under Ocean Acidification, Marine Protection, and Changing Fishing Pressures Explored Using a Worldwide Suite of Ecosystem Models. Frontiers in Marine Science 5:64. doi: 10.3389/fmars.2018.00064
-
-\*\***Wildermuth, R.P.**, **G. Fay**, S.K. Gaichas. 2018. Structural uncertainty in qualitative models for ecosystem-based management of Georges Bank. Canadian Journal of Fisheries and Aquatic Sciences 75: 1635-1643.
-
-\*\***Winton, M.V.**, **G. Fay**, H.L. Haas, M. Arendt, S. Barco, M.C. James, C. Sasso, R. Smolowitz. 2018. Estimating the distribution and relative density of satellite-tagged loggerhead sea turtles in the western North Atlantic using geostatistical mixed effects models. Marine Ecology Progress Series 586: 217–232.
-
-Punt, A.E., J. Day, **G. Fay**, M. Haddon, N. Klaer, L.R. Little, \*\*K.J. Privitera-Johnson, A.D.M. Smith, D.C. Smith, M. Sporcic, R.B. Thomson, G.N. Tuck, J. Upston, S.E. Wayte. 2018. Retrospective investigation of assessment uncertainty for fish stocks off southeast Australia. Fisheries Research 198: 117-128.
-
-**2017**
-
-Samhouri, J.F., K.S. Andrews, **G. Fay**, C.J. Harvey, E.L. Hazen, \*\*S.M. Hennessey, K. Holsman, M.E. Hunsicker, S.I. Large, K.N. Marshall, A.C. Stier, \*J.C. Tam, S.G. Zador. 2017. Defining ecosystem thresholds for human activities and environmental pressures in the California Current. Ecosphere 8(6):e01860. 10.1002/ecs2.1860.
-
-DePiper, G., S. Gaichas, S. Lucey, P.P. da Silva, M.R. Anderson, H. Breeze, A. Bundy, P.M. Clay, **G. Fay**, R. Gamble, R.S. Gregory, P. Fratantoni, C.L.L. Johnson, M. Koen-Alonso, K. Kleisner, J. Olson, \*C.T. Perretti, P. Pepin, F. Phelan, V. Saba, L.A. Smith, J. Tam, N. Templeman, \*\***R.P. Wildermuth**. 2017. Operationalizing Integrated Ecosystem Assessments within a Multidisciplinary Team: Lessons Learned from a Worked Example. ICES Journal of Marine Science 74: 2076–2086.
-
-\*\***Winton M.V.**, C. Huntsberger, D. Rudders, G. DeCelles, K. Thompson, K. Goetting, R. Smolowitz. 2017. Spatiotemporal patterns of flatfish bycatch in two scallop access areas on Georges Bank. Journal of Northwest Atlantic Fishery Science 49: 23-37.
-
-**Fay, G.**, J.S. Link, J.A. Hare. 2017. Assessing the effects of ocean acidification in the Northeast US using an end-to-end marine ecosystem model. Ecological Modelling 347: 1-10.
-
-Gaichas, S.K., M. Fogarty, G. DePiper, **G. Fay**, R. Gamble, S. Lucey, L. Smith. 2017. Combining stock, multispecies, and ecosystem level fishery objectives within an operational management procedure: simulations to start the conversation. ICES Journal of Marine Science 74: 552-565.
-
-**2016**
-
-Weijerman, M., J.S. Link, E.A. Fulton, E. Olsen, H. Townsend, S. Gaichas, C. Hansen, M. Skern-Mauritzen, I.C. Kaplan, R. Gamble, **G. Fay**, M. Savina, C. Ainsworth, I. van Putten, R. Gorton, R. Brainard, K. Larsen, T. Hutton. 2016. Atlantis Ecosystem Model Summit: Report from a workshop. Ecological Modelling 335: 35-38.
-
-Olsen, E., **G. Fay**, S. Gaichas, R. Gamble, S. Lucey, and J.S. Link. 2016. Ecosystem Model Skill Assessment. Yes We Can! PLoS ONE 11(1): e0146467. doi:10.1371/journal.pone.0146467
-
-**2015**
-
-**Fay, G.**, J.S. Link, S.I. Large, and R.J. Gamble. 2015. Management performance of ecological indicators in the Georges Bank finfish fishery. ICES Journal of Marine Science 72: 1285-1296.
-
-Griffiths, S.P., and **G. Fay**. 2015. Including recreational fisheries data in stock assessment: implications for model performance and subsequent management strategies. Fisheries Management and Ecology 22: 192-212.
-
-Large, S.I., **G. Fay**, K.D. Friedland, and J.S. Link. 2015. Quantifying patterns of change in marine ecosystem response to multiple pressures. PLoS ONE.10.1371/journal.pone.0119922.
-
-Large, S.I., **G. Fay**, K.D. Friedland, and J.S. Link. 2015*.* Critical points in ecosystem responses to fishing and environmental pressures. Marine Ecology Progress Series 521: 1-17.
-
-**2014**
-
-Little, L.R., J. Parslow, **G. Fay**, A.D.M. Smith, R.Q. Grafton, A.E. Punt, and G.N. Tuck. 2014. Environmental derivatives, risk analysis and conservation management. Conservation Letters 7: 196-207.
-
-**2004 - 2013**
-
-**Fay, G.**, and A.E. Punt. 2013. Methods for estimating spatial trends in Steller sea lion pup production using the Kalman filter. Ecological Applications 23: 1455-1474.
-
-**Fay, G.**, S.I. Large, J.S. Link, and R.J. Gamble. 2013. Testing systemic fishing responses with ecosystem indicators. Ecological Modelling 265: 45-55.
-
-Large, S.I., **G. Fay**, K. Friedland, and J.S. Link. 2013. Defining trends and thresholds in responses of ecological indicators to fishing and environmental pressures. ICES Journal of Marine Science 70: 755-767.
-
-Klaer, N.L., S.E. Wayte, and **G. Fay**. 2012. An evaluation of the performance of a harvest strategy that uses an average-length-based assessment method. Fisheries Research 134-136: 42-51.
-
-**Fay, G.**, A.E. Punt, and A.D.M. Smith. 2011. Impacts of spatial uncertainty on performance of age structure-based harvest strategies for blue eye trevalla (Hyperoglyphe antarctica). Fisheries Research 110: 391-407.
-
-Smith, A.D.M., D.C. Smith, G.N. Tuck, N. Klaer, A.E. Punt, I. Knuckey, J. Prince, A. Morison, R. Kloser, M. Haddon, S. Wayte, J. Day, **G. Fay**, F. Pribac, M. Fuller, B. Taylor, L.R. Little. 2008. Experience in implementing harvest strategies in Australia's south-eastern fisheries. Fisheries Research 94: 373-379.
-
-Branch, T.A., R. Hilborn, A.C. Haynie, **G. Fay**, L. Flynn, J. Griffiths, K.N. Marshall, J.K. Randall, J.M. Scheuerell, E.J. Ward, M. Young. 2006. Fleet dynamics and fishermen behavior: lessons for fisheries managers. Canadian Journal of Fisheries and Aquatic Sciences 63: 1647-1668.
-
-**Fay, G.** and A.E. Punt. 2006. Modeling spatial dynamics of Steller sea lions (Eumetopias jubatus) using Maximum Likelihood and Bayesian methods: evaluating causes for population decline. Pages 405-433 in: A.W. Trites, S. Atkinson, D.P. DeMaster, L.W. Fritz, T.S. Gelatt, L.D. Rea, and K. Wynne (eds.) Sea lions of the world. Alaska Sea Grant College Program, University of Alaska Fairbanks.
-
-Punt, A.E. and **G. Fay**. 2006. Can experimental manipulation be used to determine the cause of the decline of western stock of Steller sea lions (Eumetopias jubatus)? Pages 435-454 in: A.W. Trites, S. Atkinson, D.P. DeMaster, L.W. Fritz, T.S. Gelatt, L.D. Rea, and K. Wynne (eds.) Sea lions of the world. Alaska Sea Grant College Program, University of Alaska Fairbanks.
-
-Punt, A.E., C. Allison and **G. Fay**. 2004. An examination of assessment models for the Eastern North Pacific gray whale based on inertial dynamics. Journal of Cetacean Research and Management 6: 121-132.
-
-#### 
+<div class="pub-header">
+  <h2>Refereed Publications</h2>
+  <p class="legend">
+    (<strong>bold</strong> = lab member; <span class="indicator">*</span>postdoc, <span class="indicator">**</span>grad student, <span class="indicator">§</span>undergrad)
+  </p>
+</div>
+
+<div class="pub-container">
+
+<details open class="pub-year">
+  <summary>2023</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Graduate Students (**)</h3>
+    <ul>
+      <li><strong>**Winton, M.V.**, G. Fay, G. Skomal.</strong> (2023). <em>An open spatial capture-recapture framework for estimating the abundance and seasonal dynamics of white sharks at aggregation sites.</em> <span class="journal">Marine Ecology Progress Series</span> 715:1–25. <a href="https://doi.org/10.3354/meps14371" target="_blank">DOI</a></li>
+
+      <li><strong>**Calabrese, N.M.**,</strong> T. Silva, §T. Breault, T.M. Lowery, K.D.E. Stokesbury, D.N. Wiley, G. Fay. (2023). <em>Investigating spatial overlap between northern sand lance (Ammodytes dubius) and Atlantic cod (Gadus morhua) with video trawl technology.</em> <span class="journal">Fisheries Research</span> 265:106746. <a href="https://doi.org/10.1016/j.fishres.2023.106746" target="_blank">DOI</a></li>
+
+      <li>Karp, M.A., J.S. Link, <strong>**Grezlik, M.**</strong>, S. Cadrin, G. Fay, P. Lynch, et al. (2023). <em>Increasing the uptake of multispecies models in fisheries management.</em> <span class="journal">ICES Journal of Marine Science</span>. <a href="https://doi.org/10.1093/icesjms/fsad001" target="_blank">DOI</a></li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Postdocs (*)</h3>
+    <ul>
+      <li>*Maltby, K.M.*, J.G. Mason, **Cheng, H.**, G. Fay, R.L. Selden, L. Williams, C.L. Alves. (2023). <em>Navigating concepts of social-ecological resilience in marine fisheries under climate change.</em> <span class="journal">ICES Journal of Marine Science</span>. <a href="https://doi.org/10.1093/icesjms/fsad151" target="_blank">DOI</a></li>
+
+      <li>*Perryman, H.*, I.C. Kaplan, J.L. Blanchard, G. Fay, et al. (2023). <em>Atlantis Ecosystem Model Summit 2022: report from a workshop.</em> <span class="journal">Ecological Modelling</span> 483:110442. <a href="https://doi.org/10.1016/j.ecolmodel.2023.110442" target="_blank">DOI</a></li>
+
+      <li>*Silva, T.*, §T. Breault, **N.M. Calabrese**, K.D.E. Stokesbury, D.N. Wiley, G. Fay. (2023). <em>Investigating spatial overlap between northern sand lance and Atlantic cod.</em> <span class="journal">Fisheries Research</span> 265:106746. <a href="https://doi.org/10.1016/j.fishres.2023.106746" target="_blank">DOI</a></li>
+    </ul>
+  </section>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>Vicarelli, M., R. DeConto, D. Connor Maresca, …, <strong>G. Fay</strong>, et al. (2023). <em>Climate resilience in coastal Massachusetts: a survey of municipal challenges, plans, and needs.</em> <span class="journal">Mass Benchmarks</span> 25(2): 22–34.</li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2022</summary>
+
+  <section class="pub-group">
+    <h3 class="group-title">Graduate Students (**)</h3>
+    <ul>
+      <li><strong>**Danaher-Garcia, N.K.**</strong>, R. Connor, G. Fay, K. Melillo-Sweeting, K.M. Dudzinski. (2022). <em>The Partial Merger of Two Dolphin Societies.</em> <span class="journal">Royal Society Open Science</span> 9(8):211963. <a href="https://doi.org/10.1098/rsos.211963" target="_blank">DOI</a></li>
+
+      <li><strong>**Danaher-Garcia, N.K.**</strong>, R. Connor, G. Fay, et al. (2022). <em>Using Social Network Analysis to Confirm the ‘Gambit of the Group’ Hypothesis for a Small Cetacean.</em> <span class="journal">Behavioral Processes</span> 200:104694. <a href="https://doi.org/10.1016/j.beproc.2022.104694" target="_blank">DOI</a></li>
+
+      <li><strong>**Tran, M.**, G. Fay, B.D. Stewart, K.D.E. Stokesbury.</strong> (2022). <em>Resiliency of marine benthic communities in sea scallop rotational management areas on Georges Bank.</em> <span class="journal">Journal of Shellfish Research</span> 41:1–9.</li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>Legault, C.M., J. Wiedenmann, J. Deroba, <strong>G. Fay</strong>, et al. (2022). <em>Data Rich but Model Resistant...</em> <span class="journal">Canadian Journal of Fisheries and Aquatic Sciences</span>. <a href="https://doi.org/10.1139/cjfas-2022-0045" target="_blank">DOI</a></li>
+
+      <li>Stokesbury, K.D.E., <strong>G. Fay</strong>, R. Griffin. (2022). <em>A framework for categorizing the interactions of offshore windfarms and fisheries.</em> <span class="journal">ICES Journal of Marine Science</span>. <a href="https://doi.org/10.1093/icesjms/fsac118" target="_blank">DOI</a></li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2021</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Postdocs (*)</h3>
+    <ul>
+      <li><strong>*Silva, T.L.*</strong>, DN Wiley, <strong>G Fay</strong>. (2021). <em>A hierarchical modelling approach to estimating humpback whale abundance from sand lance abundance.</em> <span class="journal">Ecological Modelling</span> 456, 109662. <a href="https://doi.org/10.1016/j.ecolmodel.2021.109662" target="_blank">DOI</a></li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Graduate Students (**)</h3>
+    <ul>
+      <li>Patel, S.H., <strong>**Winton, M.V.**</strong>, JM Hatch, HL Haas, VS Saba, <strong>G Fay</strong>, RJ Smolowitz. (2021). <em>Projected shifts in loggerhead sea turtle thermal habitat in the Northwest Atlantic Ocean due to climate change.</em> <span class="journal">Scientific Reports</span> 11, 8850. <a href="https://doi.org/10.1038/s41598-021-88290-9" target="_blank">DOI</a></li>
+      <li>**Lucey, S.M.**, KY Aydin, SK Gaichas, SX Cadrin, **G Fay**, MJ Fogarty, AE Punt. (2021). <em>Evaluating fishery management strategies using an ecosystem model as an operating model.</em> <span class="journal">Fisheries Research</span> 234: 105780.</li>
+      <li>**Hansell, A.**, T.H. Curtis, J Carlson, E Cortés, **G. Fay**, S.X. Cadrin. (2021). <em>Stock Assessment of the Lemon Shark (*Negaprion brevirostris*) off the Southeast United States.</em> <span class="journal">North American Journal of Fisheries Management</span> 41: 35–48.</li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>Froehlich, H. E., R Gentry, SE Lester, RS Cottrell, <strong>G Fay</strong>, TA Branch, J Gephart, E White, JK Baum. (2021). <em>Securing a sustainable future for US seafood in the wake of a global crisis.</em> <span class="journal">Marine Policy</span> 124: 104328.</li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2020</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Postdocs (*)</h3>
+    <ul>
+      <li><strong>*Silva, T.L.*</strong>, M Thompson, P Hong, D Wiley, H Baumann, L Kaufman, J Llopiz, J Suca, **G Fay**. (2020). <em>High collocation between sand lance and top predators in the southwestern Gulf of Maine.</em> <span class="journal">Conservation Science and Practice</span> 3: 2.e274. <a href="http://dx.doi.org/10.1111/csp2.274" target="_blank">DOI</a></li>
+      <li><strong>*Trijoulet, V.*, G. Fay</strong>, T.J. Miller. (2020). <em>Performance of a state‐space multispecies model: What are the consequences of ignoring predation and process errors in stock assessments?</em> <span class="journal">Journal of Applied Ecology</span> 57:121-135.</li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Graduate Students (**)</h3>
+    <ul>
+      <li>**Silva, E.N.S.**, A. Gangopadhyay, **G. Fay**, M.K.V. Welandawe, G. Gawarkiewicz, **A.M. Silver**, M. Monim, J. Clark. (2020). <em>A survival analysis of the Gulf Stream warm core rings.</em> <span class="journal">Journal of Geophysical Research: Oceans</span> 125. <a href="https://doi.org/10.1029/2020JC016507" target="_blank">DOI</a></li>
+      <li>**Hart, A.R., G. Fay**. (2020). <em>Applying tree analysis to assess combinations of ecosystem-based fisheries management actions in Management Strategy Evaluation.</em> <span class="journal">Fisheries Research</span> 225:105466.</li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2019</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Postdocs (*)</h3>
+    <ul>
+      <li>*Tam, J.C.*, <strong>G. Fay</strong>, J.S. Link. (2019). <em>Better Together: the uses of ecological and socio-economic indicators with end-to-end models in marine ecosystem based management.</em> <span class="journal">Frontiers in Marine Science</span>. <a href="https://doi.org/10.3389/fmars.2019.00560" target="_blank">DOI</a></li>
+      <li>*Pethybridge, H.R.*, M. Weijerman, *H. Perrymann*, A. Audzijonyte, J. Porobic, V. McGregor, R. Girardin, C. Bulman, *K. Ortega-Cisneros*, M. Sinerchia, T. Hutton, H. Lozano-Montes, M. Mori, C. Novaglio, **G. Fay**, R. Gorton, E. Fulton. (2019). <em>Calibrating process-based marine ecosystem models: An example case using Atlantis.</em> <span class="journal">Ecological Modelling</span> 412. 108822.</li>
+      <li><strong>*Trijoulet, V.*, G. Fay</strong>, K. Curti, B. Smith, T.J. Miller. (2019). <em>Performance of multispecies assessment models: insights on the influence of diet data.</em> <span class="journal">ICES Journal of Marine Science</span> 76: 1464-1476.</li>
+      <li><strong>*Silva, T.L.*, G. Fay</strong>, T.A. Mooney, J. Robbins, M.T. Weinrich, C.D. Carson, T.V.N. Cole, M.A. Thompson, D.N. Wiley. (2019). <em>Toothed whale habitat use in a marine protected area using point process models.</em> <span class="journal">Marine Ecology Progress Series</span> 609: 239-256.</li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Graduate Students (**)</h3>
+    <ul>
+      <li>**Liu, C.**, G.W. Cowles, D.R. Zemeckis, **G. Fay**, A. Le Bris, S.X. Cadrin. (2019). <em>A hardware-accelerated particle filter for the geolocation of demersal fishes.</em> <span class="journal">Fisheries Research</span> 213: 160-171.</li>
+      <li>Cadrin, S.X., D.R. Goethel, **Morse, M.R.**, **G. Fay**, L.A. Kerr. (2019). <em>"So, where do you come from?" The impact of assumed spatial population structure on estimates of recruitment.</em> <span class="journal">Fisheries Research</span> 217: 156-168.</li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>**Fay, G.**, G. DePiper, S. Steinback, R.J. Gamble, J.S. Link. (2019). <em>Economic and ecosystem effects of fishing on the Northeast US shelf.</em> <span class="journal">Frontiers in Marine Science</span>. <a href="https://doi.org/10.3389/fmars.2019.00133" target="_blank">DOI</a></li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2018</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Graduate Students (**)</h3>
+    <ul>
+      <li>Kneebone, J., <strong>**Winton, M.V.**</strong>, A. Danylchuk, J. Chisholm, G.B. Skomal. (2018). <em>An assessment of juvenile sand tiger (*Carcharias taurus*) activity patterns in a seasonal nursery using accelerometer transmitters.</em> <span class="journal">Environmental Biology of Fishes</span> 101: 1739-1756.</li>
+      <li><strong>**Winton, M.V.**</strong>, J. Kneebone, D. Zemeckis, **G. Fay**. (2018). <em>A spatial point process model to estimate individual centers of activity from passive acoustic telemetry data.</em> <span class="journal">Methods in Ecology and Evolution</span> 9: 2262-2272.</li>
+      <li>**Wildermuth, R.P.**, **G. Fay**, S.K. Gaichas. (2018). <em>Structural uncertainty in qualitative models for ecosystem-based management of Georges Bank.</em> <span class="journal">Canadian Journal of Fisheries and Aquatic Sciences</span> 75: 1635-1643.</li>
+      <li><strong>**Winton, M.V.**, G. Fay</strong>, H.L. Haas, M. Arendt, S. Barco, M.C. James, C. Sasso, R. Smolowitz. (2018). <em>Estimating the distribution and relative density of satellite-tagged loggerhead sea turtles in the western North Atlantic using geostatistical mixed effects models.</em> <span class="journal">Marine Ecology Progress Series</span> 586: 217–232.</li>
+      <li>Punt, A.E., J. Day, **G. Fay**, M. Haddon, N. Klaer, L.R. Little, **Privitera-Johnson, K.J.**, A.D.M. Smith, D.C. Smith, M. Sporcic, R.B. Thomson, G.N. Tuck, J. Upston, S.E. Wayte. (2018). <em>Retrospective investigation of assessment uncertainty for fish stocks off southeast Australia.</em> <span class="journal">Fisheries Research</span> 198: 117-128.</li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>Olsen, E., I.C. Kaplan, C. Ainsworth, **G. Fay**, S. Gaichas, R. Gamble, R. Girardin, C.H. Eide, T.F. Ihde, H. Morzaria-Luna, **K.F. Johnson**, M. Savina-Rolland, H. Townsend, M. Weijerman, E.A. Fulton, J.S. Link. (2018). <em>Ocean Futures Under Ocean Acidification, Marine Protection, and Changing Fishing Pressures Explored Using a Worldwide Suite of Ecosystem Models.</em> <span class="journal">Frontiers in Marine Science</span> 5:64. <a href="https://doi.org/10.3389/fmars.2018.00064" target="_blank">DOI</a></li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2017</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Postdocs (*)</h3>
+    <ul>
+      <li>Samhouri, J.F., K.S. Andrews, **G. Fay**, C.J. Harvey, E.L. Hazen, **S.M. Hennessey**, K. Holsman, M.E. Hunsicker, S.I. Large, K.N. Marshall, A.C. Stier, **J.C. Tam***, S.G. Zador. (2017). <em>Defining ecosystem thresholds for human activities and environmental pressures in the California Current.</em> <span class="journal">Ecosphere</span> 8(6):e01860. <a href="https://doi.org/10.1002/ecs2.1860" target="_blank">DOI</a>.</li>
+      <li>DePiper, G., S. Gaichas, S. Lucey, P.P. da Silva, M.R. Anderson, H. Breeze, A. Bundy, P.M. Clay, **G. Fay**, R. Gamble, R.S. Gregory, P. Fratantoni, C.L.L. Johnson, M. Koen-Alonso, K. Kleisner, J. Olson, **C.T. Perretti***, P. Pepin, F. Phelan, V. Saba, L.A. Smith, J. Tam, N. Templeman, **R.P. Wildermuth**. (2017). <em>Operationalizing Integrated Ecosystem Assessments within a Multidisciplinary Team: Lessons Learned from a Worked Example.</em> <span class="journal">ICES Journal of Marine Science</span> 74: 2076–2086.</li>
+    </ul>
+  </section>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>**Fay, G.**, J.S. Link, J.A. Hare. (2017). <em>Assessing the effects of ocean acidification in the Northeast US using an end-to-end marine ecosystem model.</em> <span class="journal">Ecological Modelling</span> 347: 1-10.</li>
+      <li>Gaichas, S.K., M. Fogarty, G. DePiper, **G. Fay**, R. Gamble, S. Lucey, L. Smith. (2017). <em>Combining stock, multispecies, and ecosystem level fishery objectives within an operational management procedure: simulations to start the conversation.</em> <span class="journal">ICES Journal of Marine Science</span> 74: 552-565.</li>
+    </ul>
+  </section>
+
+  <section class="pub-group">
+    <h3 class="group-title">Graduate Students (**)</h3>
+    <ul>
+      <li>**Winton M.V.**, C. Huntsberger, D. Rudders, G. DeCelles, K. Thompson, K. Goetting, R. Smolowitz. (2017). <em>Spatiotemporal patterns of flatfish bycatch in two scallop access areas on Georges Bank.</em> <span class="journal">Journal of Northwest Atlantic Fishery Science</span> 49: 23-37.</li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2016</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>Weijerman, M., J.S. Link, E.A. Fulton, E. Olsen, H. Townsend, S. Gaichas, C. Hansen, M. Skern-Mauritzen, I.C. Kaplan, R. Gamble, **G. Fay**, M. Savina, C. Ainsworth, I. van Putten, R. Gorton, R. Brainard, K. Larsen, T. Hutton. (2016). <em>Atlantis Ecosystem Model Summit: Report from a workshop.</em> <span class="journal">Ecological Modelling</span> 335: 35-38.</li>
+      <li>Olsen, E., **G. Fay**, S. Gaichas, R. Gamble, S. Lucey, and J.S. Link. (2016). <em>Ecosystem Model Skill Assessment. Yes We Can!</em> <span class="journal">PLoS ONE</span> 11(1): e0146467. <a href="https://doi.org/10.1371/journal.pone.0146467" target="_blank">DOI</a></li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2015</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>**Fay, G.**, J.S. Link, S.I. Large, and R.J. Gamble. (2015). <em>Management performance of ecological indicators in the Georges Bank finfish fishery.</em> <span class="journal">ICES Journal of Marine Science</span> 72: 1285-1296.</li>
+      <li>Griffiths, S.P., and **G. Fay**. (2015). <em>Including recreational fisheries data in stock assessment: implications for model performance and subsequent management strategies.</em> <span class="journal">Fisheries Management and Ecology</span> 22: 192-212.</li>
+      <li>Large, S.I., **G. Fay**, K.D. Friedland, and J.S. Link. (2015). <em>Quantifying patterns of change in marine ecosystem response to multiple pressures.</em> <span class="journal">PLoS ONE</span>. <a href="https://doi.org/10.1371/journal.pone.0119922" target="_blank">DOI</a></li>
+      <li>Large, S.I., **G. Fay**, K.D. Friedland, and J.S. Link. (2015). <em>Critical points in ecosystem responses to fishing and environmental pressures.</em> <span class="journal">Marine Ecology Progress Series</span> 521: 1-17.</li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2014</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Faculty / Collaborations</h3>
+    <ul>
+      <li>Little, L.R., J. Parslow, **G. Fay**, A.D.M. Smith, R.Q. Grafton, A.E. Punt, and G.N. Tuck. (2014). <em>Environmental derivatives, risk analysis and conservation management.</em> <span class="journal">Conservation Letters</span> 7: 196-207.</li>
+    </ul>
+  </section>
+</details>
+
+<details class="pub-year">
+  <summary>2004 – 2013</summary>
+  
+  <section class="pub-group">
+    <h3 class="group-title">Full List (2004–2013)</h3>
+    <ul>
+      <li>**Fay, G.**, and A.E. Punt. (2013). <em>Methods for estimating spatial trends in Steller sea lion pup production using the Kalman filter.</em> <span class="journal">Ecological Applications</span> 23: 1455-1474.</li>
+      <li>**Fay, G.**, S.I. Large, J.S. Link, and R.J. Gamble. (2013). <em>Testing systemic fishing responses with ecosystem indicators.</em> <span class="journal">Ecological Modelling</span> 265: 45-55.</li>
+      <li>Large, S.I., **G. Fay**, K. Friedland, and J.S. Link. (2013). <em>Defining trends and thresholds in responses of ecological indicators to fishing and environmental pressures.</em> <span class="journal">ICES Journal of Marine Science</span> 70: 755-767.</li>
+      <li>Klaer, N.L., S.E. Wayte, and **G. Fay**. (2012). <em>An evaluation of the performance of a harvest strategy that uses an average-length-based assessment method.</em> <span class="journal">Fisheries Research</span> 134-136: 42-51.</li>
+      <li>**Fay, G.**, A.E. Punt, and A.D.M. Smith. (2011). <em>Impacts of spatial uncertainty on performance of age structure-based harvest strategies for blue eye trevalla (*Hyperoglyphe antarctica*).</em> <span class="journal">Fisheries Research</span> 110: 391-407.</li>
+      <li>Smith, A.D.M., D.C. Smith, G.N. Tuck, N. Klaer, A.E. Punt, I. Knuckey, J. Prince, A. Morison, R. Kloser, M. Haddon, S. Wayte, J. Day, **G. Fay**, F. Pribac, M. Fuller, B. Taylor, L.R. Little. (2008). <em>Experience in implementing harvest strategies in Australia's south-eastern fisheries.</em> <span class="journal">Fisheries Research</span> 94: 373-379.</li>
+      <li>Branch, T.A., R. Hilborn, A.C. Haynie, **G. Fay**, L. Flynn, J. Griffiths, K.N. Marshall, J.K. Randall, J.M. Scheuerell, E.J. Ward, M. Young. (2006). <em>Fleet dynamics and fishermen behavior: lessons for fisheries managers.</em> <span class="journal">Canadian Journal of Fisheries and Aquatic Sciences</span> 63: 1647-1668.</li>
+      <li>**Fay, G.** and A.E. Punt. (2006). <em>Modeling spatial dynamics of Steller sea lions (*Eumetopias jubatus*) using Maximum Likelihood and Bayesian methods: evaluating causes for population decline.</em> Pages 405-433 in: A.W. Trites et al. (eds.) Sea lions of the world. Alaska Sea Grant College Program, University of Alaska Fairbanks.</li>
+      <li>Punt, A.E. and **G. Fay**. (2006). <em>Can experimental manipulation be used to determine the cause of the decline of western stock of Steller sea lions (*Eumetopias jubatus*)?</em> Pages 435-454 in: A.W. Trites et al. (eds.) Sea lions of the world. Alaska Sea Grant College Program, University of Alaska Fairbanks.</li>
+      <li>Punt, A.E., C. Allison and **G. Fay**. (2004). <em>An examination of assessment models for the Eastern North Pacific gray whale based on inertial dynamics.</em> <span class="journal">Journal of Cetacean Research and Management</span> 6: 121-132.</li>
+    </ul>
+  </section>
+</details>
+
+</div>
