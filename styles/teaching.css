@@ -1,0 +1,179 @@
+#quarto-document-content {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.title {
+  color: black;
+  font-size: 2rem;
+}
+
+
+/* ---------- Current Offering Highlight ---------- */
+.current-offer {
+  background: linear-gradient(135deg, #d4edda, #c3e6cb);
+  border-left: 6px solid #28a745;
+  border-radius: 14px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 3rem;
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #155724;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.current-offer strong {
+  color: #28a745;
+}
+
+/* ---------- Course Grid ---------- */
+.course-list-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
+  gap: 2.5rem;
+  align-items: stretch;
+  width: 100%;
+}
+
+/* ---------- Course Cards ---------- */
+.course-card {
+  background: linear-gradient(145deg, #ffffff, #f8f9fa);
+  border: 1px solid rgba(0, 119, 204, 0.25);
+  border-radius: 22px;
+  padding: 2rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.course-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 16px 32px rgba(0, 119, 204, 0.25);
+  border-color: rgba(0, 119, 204, 0.4);
+}
+
+/* Animated Accent Strip */
+.course-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 5px;
+  background: linear-gradient(90deg, #0077cc, #00a8ff, #0077cc);
+  background-size: 200% 100%;
+  animation: shimmer 3s ease-in-out infinite;
+  border-top-left-radius: 22px;
+  border-top-right-radius: 22px;
+}
+@keyframes shimmer {
+  0%, 100% { background-position: 200% 0; }
+  50% { background-position: -200% 0; }
+}
+
+/* Course Titles */
+.course-card h4 {
+  color: #004080;
+  font-weight: 600;
+  font-size: 1.05rem;
+  margin-bottom: 0.4rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px dashed rgba(0, 119, 204, 0.3);
+}
+
+.course-card h5 {
+  color: #0077cc;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+/* Course Description */
+.course-card p {
+  flex-grow: 1;
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 1rem;
+  text-align: justify;
+}
+
+/* Footer Info (Course Details) */
+.course-info {
+  margin-top: auto;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.course-info strong {
+  color: #0077cc;
+  font-weight: 700;
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.course-info .next-offered {
+  display: block;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #d9534f;
+  margin-top: 0.5rem;
+}
+
+.course-info a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.course-info a:hover {
+  text-decoration: underline;
+}
+
+/* ---------- MAR 700 Seminar Links ---------- */
+.course-card ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+}
+
+.course-card ul li {
+  margin-bottom: 0.5rem;
+}
+
+.course-card ul li a {
+  color: #0077cc;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-weight: 500;
+}
+
+.course-card ul li a::before {
+  content: "🔗";
+  font-size: 0.9em;
+}
+
+/* ---------- Responsive Adjustments ---------- */
+@media (max-width: 992px) {
+  #quarto-document-content {
+    padding: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2.2rem;
+  }
+  .course-list-grid {
+    gap: 1.5rem;
+  }
+  .course-card {
+    padding: 1.5rem;
+  }
+}
