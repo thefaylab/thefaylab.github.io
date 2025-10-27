@@ -1,6 +1,11 @@
 ---
 title: "BLOG"
+format:
+  html:
+    css: /styles/blog.css
+    toc: false
 listing:
+  id: blog-posts
   contents: blog
   sort: "date desc"
   type: default
@@ -8,19 +13,17 @@ listing:
   max-description-length: 175
   date-format: medium
   categories: true
-  feed: true
+  filter-ui: [categories]
+  sort-ui: true
 page-layout: full
-title-block-banner: "#F8D98F" # use this for solid color banner
-#title-block-banner: images/banner_imgs/original_banners/horst_openscapes_desert_breadcrumbs.png # adding text on top of image make image look glitchy?
-aliases: 
-  - https://www.thefaylab.com/blog/
 ---
+<div class="blog-container-card">
 
-<!-- ::: column-screen -->
-<!-- ![](images/banner_imgs/text_banners/blog_banner.png) -->
-<!-- ::: -->
+### All Blog Posts
 
-<!-- SC NOTE: adding banner image below hides categories, but also renders banner full-size (unlike `title-block-banner1) -->
-<!-- ::: column-screen -->
-<!-- ![](images/banner_imgs/horst_openscapes_desert_breadcrumbs.png) -->
-<!-- ::: -->
+<div class="blog-listing-wrapper">
+::: {#blog-posts}
+:::
+</div>
+
+</div>

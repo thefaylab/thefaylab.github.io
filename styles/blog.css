@@ -1,0 +1,182 @@
+/* --- Page Layout --- */
+#quarto-document-content {
+  width: 95%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.title {
+  color: black;
+  font-size: 2rem;
+}
+
+#quarto-margin-sidebar{
+  padding-top: 80px;
+}
+
+/* --- Blog Container --- */
+.blog-container-card {
+  margin: 2rem auto;
+  padding: 2rem 3rem;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(0, 119, 204, 0.12);
+}
+
+.blog-container-card h3 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #004080;
+  text-align: left;
+  margin-bottom: 1.5rem;
+  border-left: 5px solid #0077cc;
+  padding-left: 1rem;
+}
+
+/* --- Blog Listing Wrapper --- */
+.blog-listing-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* --- Blog Post Card --- */
+.quarto-post {
+  display: flex;
+  flex-direction: row;
+  background: #fefefe;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(0, 119, 204, 0.1);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  transition: all 0.3s ease;
+  padding: 1.5rem;
+  gap: 2rem;
+}
+
+.quarto-post:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 22px rgba(0, 119, 204, 0.25);
+}
+
+/* Thumbnail */
+.quarto-post .thumbnail {
+  flex-shrink: 0;
+  width: 320px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.quarto-post .thumbnail img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.quarto-post:hover .thumbnail img {
+  transform: scale(1.05);
+}
+
+/* Body */
+.quarto-post .body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Title */
+.listing-title a {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #003366;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.listing-title a:hover {
+  color: #0077cc;
+  text-decoration: underline;
+}
+
+/* Metadata */
+.metadata {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 0.6rem;
+}
+
+/* Description */
+.listing-description {
+  color: #444;
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-top: 0.8rem;
+}
+
+/* --- Categories BELOW the description --- */
+.listing-categories {
+  margin-top: 1rem;
+}
+
+.listing-category {
+  display: inline-block;
+  background: #e7f3ff;
+  color: #0056b3;
+  padding: 0.3rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-right: 0.4rem;
+  transition: background 0.25s ease, transform 0.2s ease;
+  cursor: pointer;
+}
+
+.listing-category:hover {
+  background: #cde6ff;
+  transform: translateY(-2px);
+}
+
+/* --- Filters --- */
+.quarto-listing .listing-filters {
+  margin-bottom: 1.5rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.quarto-listing .listing-filters select {
+  border: 1px solid #0077cc;
+  border-radius: 6px;
+  padding: 0.4rem 0.8rem;
+  background: #f9fcff;
+  color: #004080;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.quarto-listing .listing-filters select:hover {
+  background: #e6f3ff;
+}
+
+/* --- Responsive --- */
+@media (max-width: 900px) {
+  .quarto-post {
+    flex-direction: column;
+  }
+
+  .quarto-post .thumbnail {
+    width: 100%;
+    height: 220px;
+  }
+
+  .blog-container-card {
+    padding: 1.5rem;
+  }
+
+  .title {
+    text-align: center;
+  }
+}
