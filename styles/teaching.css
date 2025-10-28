@@ -8,8 +8,6 @@
   font-size: 2rem;
 }
 
-
-/* ---------- Current Offering Highlight ---------- */
 .current-offer {
   background: linear-gradient(135deg, #d4edda, #c3e6cb);
   border-left: 6px solid #28a745;
@@ -26,7 +24,6 @@
   color: #28a745;
 }
 
-/* ---------- Course Grid ---------- */
 .course-list-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(600px, 1fr));
@@ -35,18 +32,16 @@
   width: 100%;
 }
 
-/* ---------- Course Cards ---------- */
 .course-card {
   background: linear-gradient(145deg, #ffffff, #f8f9fa);
-  border: 1px solid rgba(0, 119, 204, 0.25);
   border-radius: 22px;
   padding: 2rem;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
   transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
-  position: relative;
   display: flex;
   flex-direction: column;
   height: 100%;
+  border: 1px solid rgba(0, 119, 204, 0.3);
 }
 
 .course-card:hover {
@@ -55,7 +50,6 @@
   border-color: rgba(0, 119, 204, 0.4);
 }
 
-/* Animated Accent Strip */
 .course-card::before {
   content: '';
   position: absolute;
@@ -69,12 +63,12 @@
   border-top-left-radius: 22px;
   border-top-right-radius: 22px;
 }
+
 @keyframes shimmer {
   0%, 100% { background-position: 200% 0; }
   50% { background-position: -200% 0; }
 }
 
-/* Course Titles */
 .course-card h4 {
   color: #004080;
   font-weight: 600;
@@ -91,7 +85,6 @@
   margin-bottom: 1rem;
 }
 
-/* Course Description */
 .course-card p {
   flex-grow: 1;
   font-size: 1rem;
@@ -100,7 +93,6 @@
   text-align: justify;
 }
 
-/* Footer Info (Course Details) */
 .course-info {
   margin-top: auto;
   padding-top: 1rem;
@@ -134,7 +126,6 @@
   text-decoration: underline;
 }
 
-/* ---------- MAR 700 Seminar Links ---------- */
 .course-card ul {
   list-style: none;
   padding-left: 0;
@@ -159,7 +150,6 @@
   font-size: 0.9em;
 }
 
-/* ---------- Responsive Adjustments ---------- */
 @media (max-width: 992px) {
   #quarto-document-content {
     padding: 2rem;

@@ -1,59 +1,85 @@
 ---
-title: "Join the lab"
+title: "Join the Lab"
+page-layout: full
+format:
+  html:
+    theme: cosmo
+    toc: false
+    css: /styles/jointhelab.css
 ---
 
+::: {.join-lab-container}
+
+::: {.lab-sidebar}
 ## Opportunities
+<ul>
+  <li><a href="#futuregrads">Graduate Students</a></li>
+  <li><a href="#undergrads">Undergraduate Researchers</a></li>
+  <li><a href="#postdocs">Postdoctoral Researchers</a></li>
+</ul>
+:::
 
-[Graduate students](#futuregrads) \| [Undergraduate researchers](#undergrads) \| [Postdocs](#postdocs)
+::: {.lab-main}
 
-------------------------------------------------------------------------
+# Opportunities
 
-### Prospective Graduate Students {#futuregrads}
+<h2 id="futuregrads">Prospective Graduate Students</h2>
+::: {.lab-card}
 
-Thanks for your interest in joining our team to improve ecosystem-based decision making for our oceans! I supervise students at the UMassD School for Marine Science and Technology pursuing graduate degrees (M.S. and Ph.D.) through the University of Massachusetts [Intercampus Marine Science Program (IMS), which offers MS, PhD, & PSM degrees in Marine Science and Technology](https://www.umassd.edu/smast/academics/). I am also able to supervise students in the UMassD College of Engineering’s [Engineering & Applied Science PhD Program](https://www.umassd.edu/programs/engineering-applied-science-phd/).
+<p>Thanks for your interest in joining our team to improve **ecosystem-based decision making for our oceans**! I supervise students at the UMassD School for Marine Science & Technology pursuing graduate degrees (M.S. and Ph.D.) through the University of Massachusetts **Intercampus Marine Science Program (IMS)**, which offers MS, PhD, & PSM degrees in Marine Science and Technology. I am also able to supervise students in the UMassD College of Engineering’s Engineering & Applied Science PhD Program.</p>
 
-Students in our lab should expect their research to be highly quantitative, and have a focus on understanding/improving the scientific advice for living marine resource management, but there is flexibility for applying a diversity of methods to a broad scope of research questions. I’m committed to training early career researchers in statistical ecology and data science, and providing advanced skills in quantitative fisheries & ecosystem assessment to work within the marine fisheries decision-making arena. Regardless of scientific interests, I believe research computing skills help scientists to better tell compelling stories from their data, with statistical models and simulation experiments providing lenses through which strength of evidence for those stories can be compared and support scientific advice for management.
+<p>Students in our lab should expect their research to be **highly quantitative**, and have a focus on understanding/improving the scientific advice for living marine resource management, but there is flexibility for applying a diversity of methods to a broad scope of research questions. I’m committed to training early career researchers in **statistical ecology and data science**, and providing advanced skills in quantitative fisheries & ecosystem assessment to work within the marine fisheries decision-making arena. Regardless of scientific interests, I believe **research computing skills** help scientists to better tell compelling stories from their data, with statistical models and simulation experiments providing lenses through which strength of evidence for those stories can be compared and support scientific advice for management.</p>
 
-[Read about our lab culture & philosophy](https://thefaylab.github.io/lab-manual/02-lab-culture-philosophy.html) and [Lab Code of Conduct.](https://thefaylab.github.io/lab-manual/03-code-of-conduct.html) I also encourage you to learn more about our work through this site and read some of our publications to get a sense for the types of questions and approaches that we tackle within the lab. Our [lab manual](https://thefaylab.github.io/lab-manual) outlines our shared expectations and lab work practices, and may also give you a sense for what it is like to work as part of our team (as would talking to current and former members of our group).
+<p>Read about our <a href="#">lab culture & philosophy</a> and <a href="#">Lab Code of Conduct</a>. I also encourage you to learn more about our work through this site and read some of our <a href="#">publications</a> to get a sense for the types of questions and approaches that we tackle within the lab. Our <a href="#">lab manual</a> outlines our shared expectations and lab work practices, and may also give you a sense for what it is like to work as part of our team (as would talking to current and former members of our group).</p>
 
-Excellent written and oral communication abilities are required, as is an interest in working in a collaborative group that supports eachothers work and professional development. Useful quantitative skills include statistics, mathematics, and computer programming, but we place an emphasis on training to develop and extend these skill-sets. Opportunities exist (and are encouraged) for active collaborations with scientists and managers at local federal and state agencies and other regional partner institutions (e.g., [NOAA Fisheries’ Northeast Fisheries Science Center](https://nefsc.noaa.gov), and the [Cooperative Institute for the North Atlantic Region – CINAR](http://webserver.smast.umassd.edu/lab_fay/www.cinar.org)).
+<p>Excellent **written and oral communication abilities are required**, as is an interest in working in a collaborative group that supports eachothers work and professional development. Useful quantitative skills include statistics, mathematics, and computer programming, but we place an emphasis on training to develop and extend these skill-sets. Opportunities exist (and are encouraged) for active **collaborations** with scientists and managers at local federal and state agencies and other regional partner institutions (e.g., NOAA Fisheries’ Northeast Fisheries Science Center, and the Cooperative Institute for the North Atlantic Region – CINAR).</p>
 
-Interested applicants who fit the [prerequisites](https://www.umassd.edu/graduate/apply/) to apply for the graduate program at SMAST should review the [SMAST Code of Conduct and Diversity Statement](https://www.umassd.edu/media/umassdartmouth/smast/lab-pdf-files/SMAST---Code-of-conduct-and-diversitystatement_2.25.20-(1).docx), and send me an email (gfay\@umassd.edu). Please include the following in your email:
+<p><strong>Application instructions:</strong> Email <a href="mailto:gfay@umassd.edu">gfay@umassd.edu</a>. Please include the following in your email:</p>
+<ul>
+  <li>A short summary (**one paragraph or less**) of your background and career goals.</li>
+  <li>A short summary (**one paragraph or less**) of why you want to come to UMass Dartmouth, and work in our lab specifically.</li>
+  <li>A short summary (**one paragraph or less**) of a project you are interested in working on. (You are not committing to this at all, but it will give me a sense of what sorts of questions you are excited about). Or, you could also send a research proposal you’ve written, like for the NSF GRFP.</li>
+  <li>Your current **CV**.</li>
+  <li>University **transcripts** (unofficial more than OK!)</li>
+  <li>A **technical writing sample** – this could be a publication, a research proposal, a term paper, or some other piece that you are particularly proud of.</li>
+  <li>Contact information for at least **three references**.</li>
+</ul>
+<p>Heard through Dr. Fredston at UCSC, this great guide to emailing prospective PhD advisers by <a href="#">Dr. Hart at UNSW</a> is worth reading, too (and if it’s paywalled for you just let me know and I will send you a copy).</p>
 
-1.  A short summary (one paragraph or less) of your background and career goals.
+<p>I aim to respond to every email from a prospective lab member that contains the above information. However, I receive a ton of email every day, and occasionally I miss things. If you don’t get a response (or out-of-office reply) from me within two weeks, please feel free to email again. Qualified candidates will be contacted directly and encouraged to submit a full application to the IMS graduate program. Please note it is not possible for me to make any promises until I know the status of research grants and until I see all of the incoming graduate applications.</p>
 
-2.  A short summary (one paragraph or less) of why you want to come to UMass Dartmouth, and work in our lab specifically.
+<p>Note that currently the IMS program and UMassD have waived the **GRE application requirement** due to COVID-19. I hope this change will persist.</p>
 
-3.  A short summary (one paragraph or less) of a project you are interested in working on. (You are not committing to this at all, but it will give me a sense of what sorts of questions you are excited about). Or, you could also send a research proposal you’ve written, like for the NSF GRFP.
+<p>I encourage students to apply for **external funding** through graduate scholarships. Some relevant ones include the Sea Grant Graduate Fellowships, NSF Graduate Research Fellowship Program, NOAA Nancy Foster scholarships, and the Massachusetts Sea Grant Graduate Research Fellowship, though there are many other opportunities.</p>
 
-4.  Your current CV.
+<p>Complete information about graduate admissions to SMAST and IMS can be obtained via the <a href="https://www.umassd.edu/smast/academics/">academics section of the SMAST website</a>.</p>
+:::
 
-5.  University transcripts (unofficial more than OK!)
+<h2 id="undergrads">Undergraduate Researchers</h2>
+::: {.lab-card}
 
-6.  A technical writing sample – this could be a publication, a research proposal, a term paper, or some other piece that you are particularly proud of.
+<p>**Paid undergraduate research technician opportunities** in the lab, most often in marine data science and scientific communication, will be listed here when available and through CORSAIR JOBS.</p>
+<p>[**Note on volunteering:** we occasionally receive emails asking about volunteer opportunities (unpaid internships) within our group. I believe that everyone should be paid for their work and that unpaid positions help reinforce barriers to inclusive participation in science. If you are interested in our work I encourage you to please reach out about the availability of paid technician opportunities or graduate assistantships but know I will not provide volunteer positions.]</p>
 
-7.  Contact information for at least three references.
+:::
 
-Heard through Dr. Fredston at UCSC, this great [guide to emailing prospective PhD advisers](https://doi.org/10.1038/d41586-023-00786-8) by Dr. Hart at UNSW is worth reading, too (and if it’s paywalled for you just let me know and I will send you a copy).
+<h2 id="postdocs">Postdoctoral Researchers</h2>
+::: {.lab-card}
 
-I aim to respond to every email from a prospective lab member that contains the above information. However, I receive a ton of email every day, and occasionally I miss things. If you don’t get a response (or out-of-office reply) from me within two weeks, please feel free to email again. Qualified candidates will be contacted directly and encouraged to submit a full application to the IMS graduate program. Please note it is not possible for me to make any promises until I know the status of research grants and until I see all of the incoming graduate applications.
+<p>**Postdocs** are a valuable part of our research and learning team. Please contact me if our research interests align and you are interested in collaborating on a research proposal together.</p>
 
-Note that currently the IMS program and UMassD have waived the GRE application requirement due to COVID-19. I hope this change will persist.
+:::
+:::
 
-I encourage students to apply for external funding through graduate scholarships. Some relevant ones include the [Sea Grant Graduate Fellowships](http://seagrant.noaa.gov/FundingFellowships/NMFSSGFellowship.aspx), [NSF Graduate Research Fellowship Program](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201 "NSF Graduate Research Fellowship Program"), [NOAA Nancy Foster scholarships](http://fosterscholars.noaa.gov/ "NOAA Nancy Foster"), and the [Massachusetts Sea Grant Graduate Research Fellowship](https://seagrant.whoi.edu/fellowship-opportunities/grf/), though there are many other opportunities.
+<div class="lab-contact">
+  <h2>Contact</h2>
+  <p>Gavin Fay, Ph.D.</p>
+  <p>School for Marine Science & Technology (SMAST)</p>
+  <p>University of Massachusetts Dartmouth</p>
+  <p>Email: <a href="mailto:gfay@umassd.edu">gfay@umassd.edu</a></p>
+  <p>Address:</p>
+  <p>836 S Rodney French Blvd</p>
+  <p>New Bedford, MA 02744</p>
+</div>
 
-Complete information about graduate admissions to SMAST and IMS can be obtained via the [academics section of the SMAST website](https://www.umassd.edu/smast/academics/ "SMAST academics").
-
-------------------------------------------------------------------------
-
-### Undergraduate Researchers {#undergrads}
-
-Paid undergraduate research technician opportunities in the lab, most often in marine data science and scientific communication, will be listed here when available and through CORSAIR JOBS.
-
-*\[Note on volunteering: we occasionally receive emails asking about volunteer opportunities (unpaid internships) within our group. I believe that everyone should be paid for their work and that unpaid positions help reinforce barriers to inclusive participation in science. If you are interested in our work I encourage you to please reach out about the availability of paid technician opportunities or graduate assistantships but know I will not provide volunteer positions.\]*
-
-------------------------------------------------------------------------
-
-### Postdoctoral Researchers {#postdocs}
-
-Postdocs are a valuable part of our research and learning team. Please contact me if our research interests align and you are interested in collaborating on a research proposal together.
+:::

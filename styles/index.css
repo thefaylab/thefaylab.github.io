@@ -12,20 +12,21 @@
   box-shadow: 0 16px 36px rgba(0, 0, 0, 0.12);
 }
 
-/* Left column (Welcome) */
 .lab-card .welcome {
   font-size: 1.05rem;
   line-height: 1.8;
   color: #2c3e50;
   text-align: justify;
 }
+
 .lab-card .welcome h2 {
   font-size: 1.6rem;
   margin-bottom: 1rem;
   color: #004080;
 }
+
 .lab-card .welcome a {
-  color: #0077cc;
+  color: #004080;
   font-weight: 600;
   text-decoration: none;
   border-bottom: 1px dashed #0077cc;
@@ -37,7 +38,6 @@
   border-color: #005a9f;
 }
 
-/* Right column (Lab News) */
 .lab-card  {
   background: #ffffff;
   border-radius: 18px;
@@ -71,7 +71,6 @@
   color: white;
 }
 
-/* News posts list */
 .lab-card .lab-news .quarto-listing .quarto-listing-container-default {
   display: flex;
   flex-direction: column;
@@ -91,13 +90,13 @@
   border-radius: 14px;
   transition: transform 0.25s ease, box-shadow 0.25s ease, background 0.25s ease;
 }
+
 .lab-card .lab-news .quarto-post:hover {
   transform: translateY(-2px);
   background: #eef6ff;
   box-shadow: 0 4px 12px rgba(0, 119, 204, 0.15);
 }
 
-/* Post thumbnail */
 .lab-card .lab-news .quarto-post img {
   height: 70px;
   border-radius: 12px;
@@ -106,27 +105,28 @@
   border: 1px solid black;
 }
 
-/* Post text */
 .lab-card .lab-news .listing-title {
   font-size: 1rem;
   font-weight: 600;
   color: #222;
   margin-bottom: 0.2rem;
 }
+
 .lab-card .lab-news .listing-title:hover {
   color: #0077cc;
 }
+
 .lab-card .lab-news .listing-date {
   font-size: 0.8rem;
   color: #666;
   margin-bottom: 0.3rem;
 }
+
 .lab-card .lab-news .body {
   font-size: 0.9rem;
   color: #444;
 }
 
-/* Responsive layout */
 @media (max-width: 900px) {
   .lab-card {
     grid-template-columns: 1fr;

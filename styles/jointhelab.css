@@ -1,0 +1,133 @@
+#quarto-document-content {
+  width: 100%;
+  margin: 2rem auto;
+}
+
+.title {
+  color: black;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.join-lab-container {
+  display: grid;
+  grid-template-columns: 280px 1fr 300px;
+  gap: 2rem;
+  margin: 2rem auto;
+  padding: 2rem 3rem;
+  background: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  border: 1px solid rgba(0, 119, 204, 0.3);
+}
+
+.lab-sidebar {
+  height: 100% !important;
+  background: black;
+  border: 1px solid #e1e4e8;
+  border-radius: 12px;
+  padding: 1.25rem;
+  height: fit-content;
+  position: sticky;
+  top: 1rem;
+}
+
+.lab-sidebar h2 { 
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: white;
+  margin-top: 0;
+  margin-bottom: .75rem;
+}
+
+.lab-sidebar ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 0.5rem 0;
+}
+
+.lab-sidebar li {
+  margin: .4rem 0;
+}
+
+.lab-sidebar a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 0.25rem 0;
+  transition: color 0.2s ease;
+}
+
+.lab-sidebar a:hover {
+  color: skyblue;
+}
+
+.lab-main {
+  width: 100%;
+}
+
+.lab-main #opportunities-title {
+  font-size: 2.5rem;
+  color: #0b2545;
+  margin-bottom: 1rem;
+}
+
+.lab-card {
+    margin-bottom: 1.5rem;
+}
+
+.lab-card p,
+.lab-card li {
+  line-height: 1.7;
+  font-size: 1rem;
+  color: #333;
+}
+
+.lab-card ul { margin-left: 1.2rem; }
+
+.lab-contact {
+  background: #f7fbff;
+  border: 1px solid #e6f0fa;
+  border-radius: 12px;
+  padding: 1.5rem;
+  height: fit-content;
+  position: sticky;
+  top: 1rem;
+  margin-top: 0;
+  max-width: none;
+}
+
+.lab-contact h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #0b2545;
+  margin-top: 0;
+}
+
+@media (max-width: 1200px) {
+    .join-lab-container {
+      grid-template-columns: 200px 1fr;
+      gap: 1.5rem;
+    }
+    .lab-contact {
+        grid-column: 2 / 3;
+        position: static;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 992px) {
+  .join-lab-container {
+    grid-template-columns: 1fr;
+  }
+
+  .lab-sidebar,
+  .lab-contact {
+    position: static;
+    max-width: 100%;
+  }
+
+  .lab-card {
+    padding: 1.5rem;
+  }
+}
