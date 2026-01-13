@@ -375,6 +375,27 @@ Vishnu is a Master’s student in Data Science at the University of Massachusett
 <!---------------- END V. SELVARAJ ---------------->
 <br>
 
+<!---------------- START O. Tran ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/o_tran.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Olivia Tran**\
+Undergraduate Intern\
+*otran\@umassd.edu*\
+
+Olivia is currently an undergraduate student at UMass Dartmouth pursuing a bachelor's degree in conservation biology. While providing assistance in multiple labs throughout her 2026 Spring semester, she will also be rehabbing a range of animals, from squirrels to skunks to owls, on the weekend at the nonprofit organization Return2Wild. Olivia also takes care of 9 birds of her own, and for her future hopes to work more closely alongside wildlife in a conservation manner. Olivia has been helping conduct video analysis of fish biodiversity and abundance in Indonesian mangroves.
+:::
+:::::
+::::::
+
+<!---------------- END O. Tran ---------------->
+<br>
+
 <!---------------- START G. Fay ---------------->
 
 :::::: center-text
