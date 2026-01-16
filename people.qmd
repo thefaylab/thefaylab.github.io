@@ -95,24 +95,6 @@ Amanda grew up in New Mexico and attended the University of Miami where she majo
 
 <!---------------- END A. Hart ---------------->
 <br>
-<!---------------- START S. HILEMARIAME ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/cod-phylopic.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Separa Hilemariame**\
-Undergraduate student intern\
-
-:::
-:::::
-::::::
-
-<!---------------- END S. HILEMARIAME ---------------->
-<br>
 <!---------------- START L. Hohne ---------------->
 
 :::::: center-text
@@ -133,7 +115,7 @@ Leander entered the world of fisheries through his M.Sc. studies at the Humboldt
 
 <!---------------- END L. Hohne ---------------->
 <br>
-<!---------------- START G. Fay ---------------->
+<!---------------- START S HOPE ---------------->
 
 :::::: center-text
 ::::: grid
@@ -152,7 +134,7 @@ Sarah joined the Fay Lab in the Fall of 2024. She grew up in New Bedford, Massac
 :::::
 ::::::
 
-<!---------------- END G. FAY ---------------->
+<!---------------- END S. HOPE ---------------->
 <br>
 <!---------------- START R. IGNATIUS ---------------->
 
@@ -252,29 +234,10 @@ Ophelia grew up in north shore Massachusetts and earned their undergraduate degr
 ::::::
 
 <!---------------- END G. FAY ---------------->
-<br>
 
-<!---------------- START V. PATEL ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/vraj-patel.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Vraj Patel**\
-undergraduate student intern\
-
-Vraj is a Courage Builder intern working in the lab for the fall 2025 semester. He is an undergraduate at UMass Dartmouth studying computer science. An international student from India, Vraj is currently working on improving the computational efficiency of simulation code in SSEEP, to enable more rapid implementation of varying scenarios for modeling survey effort and species distribution change.
-:::
-:::::
-::::::
-
-<!---------------- END V. PATEL ---------------->
 <br>
  
-<!---------------- START G. Fay ---------------->
+<!---------------- START C. Perez ---------------->
 
 :::::: center-text
 ::::: grid
@@ -292,28 +255,10 @@ Cristina is a Marine Biologist with a Master degree in Fisheries Science from th
 :::::
 ::::::
 
-<!---------------- END G. FAY ---------------->
+<!---------------- END C. Perez ---------------->
+
 <br>
-<!---------------- START S. RANGOLE ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/cod-phylopic.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Sneha Rangole**\
-Graduate research assistant\
-*srangole\@umassd.edu*\
-
-:::
-:::::
-::::::
-
-<!---------------- END S. RANGOLE ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
+<!---------------- START C. Roman ---------------->
 
 :::::: center-text
 ::::: grid
@@ -332,9 +277,9 @@ Catalina's PhD research is conducting simulation testing to assess the performan
 :::::
 ::::::
 
-<!---------------- END G. FAY ---------------->
+<!---------------- END C. Roman ---------------->
 <br>
-<!---------------- START G. Fay ---------------->
+<!---------------- START K. Roberts ---------------->
 
 :::::: center-text
 ::::: grid
@@ -352,7 +297,7 @@ Kelsey joined the Fay lab in March 2025 as a research associate. She holds a PhD
 :::::
 ::::::
 
-<!---------------- END G. FAY ---------------->
+<!---------------- END K. Roberts ---------------->
 <br>
 <!---------------- START V. SELVARAJ ---------------->
 
@@ -385,10 +330,10 @@ Vishnu is a Master’s student in Data Science at the University of Massachusett
 
 ::: {.g-col-12 .g-col-md-8}
 **Olivia Tran**\
-Undergraduate Intern\
+Undergraduate research technician\
 *otran\@umassd.edu*\
 
-Olivia is currently an undergraduate student at UMass Dartmouth pursuing a bachelor's degree in conservation biology. While providing assistance in multiple labs throughout her 2026 Spring semester, she will also be rehabbing a range of animals, from squirrels to skunks to owls, on the weekend at the nonprofit organization Return2Wild. Olivia also takes care of 9 birds of her own, and for her future hopes to work more closely alongside wildlife in a conservation manner. Olivia has been helping conduct video analysis of fish biodiversity and abundance in Indonesian mangroves.
+Olivia is currently an undergraduate student at UMass Dartmouth pursuing a bachelor's degree in conservation biology. While providing assistance in multiple labs throughout her 2026 Spring semester, she will also be rehabbing a range of animals, from squirrels to skunks to owls, on the weekend at the nonprofit organization Return2Wild. Olivia also takes care of 9 birds of her own, and for her future hopes to work more closely alongside wildlife in a conservation manner. In the lab, Olivia has been working to conduct video analysis of fish biodiversity and abundance in Indonesian mangroves.
 :::
 :::::
 ::::::
@@ -396,7 +341,7 @@ Olivia is currently an undergraduate student at UMass Dartmouth pursuing a bache
 <!---------------- END O. Tran ---------------->
 <br>
 
-<!---------------- START G. Fay ---------------->
+<!---------------- START K. Walsh ---------------->
 
 :::::: center-text
 ::::: grid
@@ -415,9 +360,9 @@ Kamran Walsh is a PhD student at the School of Marine Science and Technology who
 :::::
 ::::::
 
-<!---------------- END G. FAY ---------------->
+<!---------------- END K. Walsh ---------------->
 <br>
-<!---------------- START G. Fay ---------------->
+<!---------------- START S. Wulfing ---------------->
 
 :::::: center-text
 ::::: grid
@@ -435,7 +380,7 @@ Sophie joined the Fay Lab in March of 2025. She grew up in Washington State but 
 :::::
 ::::::
 
-<!---------------- END G. FAY ---------------->
+<!---------------- END S. Wulfing ---------------->
 
 ------------------------------------------------------------------------
 
@@ -478,6 +423,25 @@ Next/Now: *Global Fisheries Specialist, The Nature Conservancy*
 
 Madeleine's work with the lab focused on the New England & Mid-Atlantic Fishery Management Councils' synthesis of Fish Habitat and Climate Vulnerability assessments, as well as facilitating stakeholder engagement for the New England Fishery Management Council's prototype Management Strategy Evaluation for Ecosystem-Based Fisheries Management of Georges Bank. Madeleine also supported stakeholder workshops on CINAR-funded work to evaluate changes to NOAA fishery independent survey data products due to overlap with wind installation and lease areas. Madeleine holds a Master’s in Environment Politics and Development from SOAS University of London, and undergraduate degrees from North Carolina State University in Environmental Technology and Management and French Language and Literature. She has a background in fisheries and wildlife policy, and enjoys working with science communication.
 
+<br>
+<!---------------- START S. HILEMARIAME ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Separa Hilemariame**\
+Undergraduate student intern\
+
+:::
+:::::
+::::::
+
+<!---------------- END S. HILEMARIAME ---------------->
+
 ![](images/team/Liljestrand.jpg){alt="Liljestrand" width="150"}
 
 **Dr. Emily Liljestrand, PhD**\
@@ -515,6 +479,46 @@ Angelia's thesis work focused on evaluating the impact of offshore wind impacts 
 Technical associate & lab manager (2019-2021)\
 Next/Now: *Atlantic White Shark Conservancy*\
 [Personal website](#0), [Google Scholar](#0)
+
+<br>
+
+<!---------------- START V. PATEL ---------------->
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/vraj-patel.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Vraj Patel**\
+undergraduate student intern, 2025\
+
+Vraj was a Courage Builder intern working in the lab for the fall 2025 semester. He is an undergraduate at UMass Dartmouth studying computer science. An international student from India, Vraj worked on improving the computational efficiency of simulation code in SSEEP, to enable more rapid implementation of varying scenarios for modeling survey effort and species distribution change.
+:::
+:::::
+::::::
+
+<!---------------- END V. PATEL ---------------->
+
+<br>
+<!---------------- START S. RANGOLE ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Sneha Rangole**\
+Graduate research assistant\
+*srangole\@umassd.edu*\
+
+:::
+:::::
+::::::
+
+<!---------------- END S. RANGOLE ---------------->
 
 [![](images/team/Schilpp1.jpg){alt="Schilpp"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2014/10/Schilpp1.jpg)
 
