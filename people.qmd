@@ -200,26 +200,6 @@ Garrett is a Master’s student that joined the Fay lab in Summer of 2025. He gr
 :::::: center-text
 ::::: grid
 ::: {.g-col-12 .g-col-md-4}
-![](images/team/bsbmcginnis.jpeg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Luca McGinnis**\
-M.S. student\
-*lmcginnis\@umassd.edu*\
-
-Luca's M.S. research is focused on improving the use of fishery dependent data in Northeast US fishery stock assessments, specifically through spatially explicit catch per unit effort (CPUE) standardization for US Atlantic cod. Luca holds a Bachelor's degree in Marine Science from Boston University, with undergraduate thesis research on using micro-CT imaging and modeling software to compare the morphology of sympatric sand lance species (genus Ammodytes) in the Gulf of Maine. In summer 2023 they started a full time position as a Research Biologist for the Commercial Fisheries Research Foundation.
-:::
-:::::
-::::::
-
-<!---------------- END G. FAY ---------------->
-<br>
-<!---------------- START G. Fay ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
 ![](images/team/ophelia-mcgrail.jpg)
 :::
 
@@ -450,7 +430,25 @@ Next/Now: *Stock assessment scientist, NOAA Fisheries Northeast Fisheries Scienc
 
 Emily's postdoc work in the lab focused on technical analyses for the New England Fishery Management Council's prototype Management Strategy Evaluation for Ecosystem-Based Fisheries Management of Georges Bank. This included developing modules for a multispecies MSE, including stock complex-based control rules, and working with a multispecies length-based operating model, Hydra. Emily received her Ph.D. from Michigan State University where her research focused on the performance of state-space stock assessment models. Emily was also a 2019 recipient of the NMFS-SeaGrant Population and Ecosystem Dynamics Fellowship.
 
+<!---------------- START L. McGinnis ---------------->
 
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/bsbmcginnis.jpeg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Luca McGinnis**\
+M.S. 2025\
+Next/Now: *Research Biologist, Commercial Fisheries Research Foundation*\
+
+Luca's M.S. research was focused on improving the use of fishery dependent data in Northeast US fishery stock assessments, specifically through spatially explicit catch per unit effort (CPUE) standardization for US Atlantic cod. During their graduate degree, they contributed to the 2023 Atlantic cod research track assessments.  
+:::
+:::::
+::::::
+
+<!---------------- END L. McGinnis ---------------->
 <!---------------- START A. MILLER ---------------->
 
 :::::: center-text
