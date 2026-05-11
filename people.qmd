@@ -56,24 +56,6 @@ Ajmal is currently pursuing a master's degree in data science at the University 
 
 <!---------------- END A. Abbas ---------------->
 <br>
-<!---------------- START K. FURTADO ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/cod-phylopic.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Kaz Furtado**\
-Undergraduate student intern\
-
-:::
-:::::
-::::::
-
-<!---------------- END R. IGNATIUS ---------------->
-<br>
 <!---------------- START A. Hart ---------------->
 
 :::::: center-text
@@ -155,25 +137,6 @@ Rowan is a Master’s Candidate in Data Science at UMassD who joined the Fay Lab
 ::::::
 
 <!---------------- END R. IGNATIUS ---------------->
-<br>
-<!---------------- START J. JUBA ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/cod-phylopic.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Janel Juba**\
-Offshore Wind Certificate Program Coordinator\
-*jjuba1\@umassd.edu*\
-
-:::
-:::::
-::::::
-
-<!---------------- END J. JUBA ---------------->
 <br>
 <!---------------- START G. Fay ---------------->
 
@@ -389,6 +352,25 @@ Next/Now: *Species Status Assessment Scientist, US Fish and Wildlife Service\
 [Personal website](#0)\
 *
 
+<!---------------- START K. FURTADO ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Kaz Furtado**\
+Undergraduate student intern\
+
+:::
+:::::
+::::::
+
+<!---------------- END R. IGNATIUS ---------------->
+<br>
+
 ![](images/team/Gabriel.png){alt="Gabriel"}
 
 **Sofia Gabriel**\
@@ -421,6 +403,25 @@ Undergraduate student intern\
 ::::::
 
 <!---------------- END S. HILEMARIAME ---------------->
+<!---------------- START J. JUBA ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/cod-phylopic.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Janel Juba**\
+Offshore Wind Certificate Program Coordinator\
+*jjuba1\@umassd.edu*\
+
+:::
+:::::
+::::::
+
+<!---------------- END J. JUBA ---------------->
+<br>
 
 ![](images/team/Liljestrand.jpg){alt="Liljestrand" width="150"}
 
