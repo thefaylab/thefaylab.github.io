@@ -35,48 +35,6 @@ Associate Professor\
 
 <!---------------- END G. FAY ---------------->
 <br>
-<!---------------- START A. Abbas ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/ajmal-abbas.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Ajmal Abbas**\
-Graduate research assistant\
-*aabbas1\@umassd.edu*\
-*[Portfolio website](https://skillful-lilac-ec7.notion.site/AJMAL-A-3a4ba46fe55a4b93908e876a9920e435)*
-
-Ajmal is currently pursuing a master's degree in data science at the University of Massachusetts Dartmouth. Originally from India, he brings a strong academic and research background in data-driven problem solving, with a foundation in Machine Learning, Deep Learning, and Artificial Intelligence built through both coursework and hands-on projects. He has completed projects across cybersecurity, agriculture, high-performance scientific computing, and material science prediction, applying advanced ML and DL pipelines to solve domain-specific problems. In the lab, Ajmal is developing ML/DL-based emulators to support ecosystem modeling and decision-making, merging data science foundation with environmental applications.
-:::
-:::::
-::::::
-
-<!---------------- END A. Abbas ---------------->
-<br>
-<!---------------- START A. Hart ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/AHart.jpg)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Amanda Hart**\
-Ph.D. candidate\
-*ahart2\@umassd.edu\
-[Google Scholar](https://scholar.google.com/citations?user=9Ea9PWwAAAAJ&hl=en&oi=sra)*
-
-Amanda grew up in New Mexico and attended the University of Miami where she majored in Marine Science and Biology. She is currently a stock assessment Fish Biologist at NOAA Fisheries Northeast Fisheries Science Center in Woods Hole. Her PhD thesis work is centered around developing methods and communication tools for ecosystem-based fisheries Management Strategy Evaluation. In this work, Amanda is using models of New England fisheries that seek to include a broader range of environmental data, fishing fleet dynamics, and species interactions than current stock assessment models.
-:::
-:::::
-::::::
-
-<!---------------- END A. Hart ---------------->
-<br>
 <!---------------- START L. Hohne ---------------->
 
 :::::: center-text
@@ -107,10 +65,10 @@ Leander entered the world of fisheries through his M.Sc. studies at the Humboldt
 
 ::: {.g-col-12 .g-col-md-8}
 **Sarah Hope**\
-M.S. student\
+Ph.D. student\
 *shope\@umassd.edu*\
 
-Sarah joined the Fay Lab in the Fall of 2024. She grew up in New Bedford, Massachusetts and completed her undergraduate studies in Writing and Journalism at Emerson College. When she decided to pursue her longtime passion for science, she started her journey at the University of Massachusetts, Amherst and earned a M.S. in Sustainability Science, specializing in climate impacts. She is now pursuing an advanced degree in Marine Science at SMAST, while combining her interdisciplinary background with a quantitative approach to fisheries. Her current research is focused on the intersection of supply chain and ecosystem dynamics, and how they can be used to inform sustainable management decisions and increase access to local seafood in New England.
+Sarah joined the Fay Lab in the Fall of 2024. She grew up in New Bedford, Massachusetts and completed her undergraduate studies in Writing and Journalism at Emerson College. When she decided to pursue her longtime passion for science, she started her journey at the University of Massachusetts, Amherst and earned a M.S. in Sustainability Science, specializing in climate impacts. She is now pursuing a PhD in Marine Science at SMAST, while combining her interdisciplinary background with a quantitative approach to fisheries. Her current research is focused on the intersection of supply chain and ecosystem dynamics, and how they can be used to inform sustainable management decisions and increase access to local seafood in New England.
 
 :::
 :::::
@@ -242,26 +200,6 @@ Kelsey joined the Fay lab in March 2025 as a research associate. She holds a PhD
 
 <!---------------- END K. Roberts ---------------->
 <br>
-<!---------------- START V. SELVARAJ ---------------->
-
-:::::: center-text
-::::: grid
-::: {.g-col-12 .g-col-md-4}
-![](images/team/vishnu-selvaraj.png)
-:::
-
-::: {.g-col-12 .g-col-md-8}
-**Vishnu Selvaraj**\
-Graduate research assistant\
-*vselvaraj\@umassd.edu*
-
-Vishnu is a Master’s student in Data Science at the University of Massachusetts Dartmouth, originally from India, with extensive academic and research experience in machine learning, deep learning, and data-driven cybersecurity applications. His previous work includes developing hybrid models that integrate CodeBERT, AST stylometry, and deep learning architectures for software vulnerability detection, as well as designing Graph Neural Network–based intrusion detection systems to strengthen network security. Beyond cybersecurity, he has applied CNNs for medical imaging in pneumonia detection, computer vision for pothole classification, and NLP-based sentiment analysis during industry projects. Skilled in Python, R, SQL, TensorFlow, PyTorch, and modern visualization tools, Vishnu is currently expanding his expertise into marine science, building ML/DL-based statistical emulators to support large-scale ecosystem modeling and decision-making.
-:::
-:::::
-::::::
-
-<!---------------- END V. SELVARAJ ---------------->
-<br>
 
 <!---------------- START O. Tran ---------------->
 
@@ -331,6 +269,28 @@ Sophie joined the Fay Lab in March of 2025. She grew up in Washington State but 
 
 (*next and* *current positions in italics*)
 
+<!---------------- START A. Abbas ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/ajmal-abbas.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Ajmal Abbas**\
+Graduate research assistant\
+*aabbas1\@umassd.edu*\
+*[Portfolio website](https://skillful-lilac-ec7.notion.site/AJMAL-A-3a4ba46fe55a4b93908e876a9920e435)*
+
+Ajmal is currently pursuing a master's degree in data science at the University of Massachusetts Dartmouth. Originally from India, he brings a strong academic and research background in data-driven problem solving, with a foundation in Machine Learning, Deep Learning, and Artificial Intelligence built through both coursework and hands-on projects. He has completed projects across cybersecurity, agriculture, high-performance scientific computing, and material science prediction, applying advanced ML and DL pipelines to solve domain-specific problems. In the lab, Ajmal is developing ML/DL-based emulators to support ecosystem modeling and decision-making, merging data science foundation with environmental applications.
+:::
+:::::
+::::::
+
+<!---------------- END A. Abbas ---------------->
+<br>
+
 [![](images/team/Aguiar_obi.jpeg){alt="Aguiar" width="149"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2020/12/Aguiar_obi.jpeg)
 
 **Olivia Aguiar**\
@@ -368,7 +328,7 @@ Undergraduate student intern\
 :::::
 ::::::
 
-<!---------------- END R. IGNATIUS ---------------->
+<!---------------- END K. Furtado ---------------->
 <br>
 
 ![](images/team/Gabriel.png){alt="Gabriel"}
@@ -386,6 +346,29 @@ Next/Now: *Global Fisheries Specialist, The Nature Conservancy*
 Madeleine's work with the lab focused on the New England & Mid-Atlantic Fishery Management Councils' synthesis of Fish Habitat and Climate Vulnerability assessments, as well as facilitating stakeholder engagement for the New England Fishery Management Council's prototype Management Strategy Evaluation for Ecosystem-Based Fisheries Management of Georges Bank. Madeleine also supported stakeholder workshops on CINAR-funded work to evaluate changes to NOAA fishery independent survey data products due to overlap with wind installation and lease areas. Madeleine holds a Master’s in Environment Politics and Development from SOAS University of London, and undergraduate degrees from North Carolina State University in Environmental Technology and Management and French Language and Literature. She has a background in fisheries and wildlife policy, and enjoys working with science communication.
 
 <br>
+
+<!---------------- START A. Hart ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/AHart.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Amanda Hart**\
+Ph.D. candidate\
+*ahart2\@umassd.edu\
+[Google Scholar](https://scholar.google.com/citations?user=9Ea9PWwAAAAJ&hl=en&oi=sra)*
+
+Amanda grew up in New Mexico and attended the University of Miami where she majored in Marine Science and Biology. She is currently a stock assessment Fish Biologist at NOAA Fisheries Northeast Fisheries Science Center in Woods Hole. Her PhD thesis work is centered around developing methods and communication tools for ecosystem-based fisheries Management Strategy Evaluation. In this work, Amanda is using models of New England fisheries that seek to include a broader range of environmental data, fishing fleet dynamics, and species interactions than current stock assessment models.
+:::
+:::::
+::::::
+
+<!---------------- END A. Hart ---------------->
+<br>
+
 <!---------------- START S. HILEMARIAME ---------------->
 
 :::::: center-text
@@ -527,7 +510,27 @@ Next/Now: *Education Coordinator & Science/Math teacher, Nauset Academy, Brewste
 
 Liberty completed her non-thesis M.S. degree in the Fay lab, with research on evaluating factors contributing to variability in size-at-age for Northeast US groundfish, and the implications of size-based time-varying natural mortality in state-space stock assessment models for Gulf of Maine cod. *(Main collaborator: Dr. Tim Miller, NOAA NEFSC)*
 
- 
+<!---------------- START V. SELVARAJ ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/vishnu-selvaraj.png)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Vishnu Selvaraj**\
+Graduate research assistant\
+*vselvaraj\@umassd.edu*
+
+Vishnu is a Master’s student in Data Science at the University of Massachusetts Dartmouth, originally from India, with extensive academic and research experience in machine learning, deep learning, and data-driven cybersecurity applications. His previous work includes developing hybrid models that integrate CodeBERT, AST stylometry, and deep learning architectures for software vulnerability detection, as well as designing Graph Neural Network–based intrusion detection systems to strengthen network security. Beyond cybersecurity, he has applied CNNs for medical imaging in pneumonia detection, computer vision for pothole classification, and NLP-based sentiment analysis during industry projects. Skilled in Python, R, SQL, TensorFlow, PyTorch, and modern visualization tools, Vishnu is currently expanding his expertise into marine science, building ML/DL-based statistical emulators to support large-scale ecosystem modeling and decision-making.
+:::
+:::::
+::::::
+
+<!---------------- END V. SELVARAJ ---------------->
+<br>
+
 
 [![](images/team/TammySilva.jpg){alt="Silva" width="150"}](http://webserver.smast.umassd.edu/lab_fay/wp-content/uploads/2018/06/TammySilva_cropped.jpg)
 
