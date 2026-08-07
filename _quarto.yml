@@ -22,7 +22,7 @@ website:
         text: "thefaylab.com"
       - icon: github
         href: https://github.com/thefaylab
-        text: "FayLab github"
+        text: "FayLab Github"
 
     style: "docked"
     search: true
