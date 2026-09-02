@@ -137,6 +137,28 @@ Ophelia grew up in north shore Massachusetts and earned their undergraduate degr
 <!---------------- END G. FAY ---------------->
 
 <br>
+
+<!---------------- START M. Munley ---------------->
+
+:::::: center-text
+::::: grid
+::: {.g-col-12 .g-col-md-4}
+![](images/team/MKMunley.jpg)
+:::
+
+::: {.g-col-12 .g-col-md-8}
+**Mary Kate Munley**\
+Ph.D. student\
+*mmunley\@umassd.edu*
+
+Mary Kate is a PhD student and joined the Fay Lab in Fall of 2026. Raised in New York and New Hampshire, she earned her Master's degree from the University of New Hampshire. Since 2023, Mary Kate has worked as a contracted Fisheries Biologist for the Northeast Fisheries Science Center's Cooperative Research Branch. In this role, she partners closely with the commercial squid fishing fleets and processors to collect oceanographic and biological data on longfin and shortfin squid. Her research will focus on combining cooperative research and remote sensing datasets to identify the drivers of shortfin squid life history.
+:::
+:::::
+::::::
+
+<!---------------- END M. Munley ---------------->
+
+<br>
  
 <!---------------- START C. Perez ---------------->
 
