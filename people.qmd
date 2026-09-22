@@ -143,7 +143,7 @@ Ophelia grew up in north shore Massachusetts and earned their undergraduate degr
 :::::: center-text
 ::::: grid
 ::: {.g-col-12 .g-col-md-4}
-![](images/team/MKMunley.jpg)
+![](images/team/MKMunley.JPG)
 :::
 
 ::: {.g-col-12 .g-col-md-8}
