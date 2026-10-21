@@ -6,6 +6,8 @@ title: "Publications"
 
 (bold = lab member; \*postdoc, \*\*grad student, §undergrad)
 
+\*Carr-Harris A, **G Fay**, GS DePiper, SK Gaichas, JW Cummings, BW Muffley. 2027. Comparing performance of management alternatives for the US summer flounder recreational fishery. Accepted for publication in Coastal Management.
+
 Miller, TJ, G Britten, EN Brooks, **G Fay**, A Hansell, CM Legault, B Muffley, J Wiedenmann. 2026. Factors affecting inferences on natural mortality and associated environmental effects in state-space age-structured assessment models. Canadian Journal of Fisheries and Aquatic Sciences. 83: 1-16. <https://doi.org/10.1139/cjfas-2025-0206>
 
 Miller, TJ, G Britten, EN Brooks, **G Fay**, A Hansell, CM Legault, \*C Li, B Muffley, BC Stock, J Wiedenmann. 2026. Factors affecting reliability of state-space age-structured assessment models. Canadian Journal of Fisheries and Aquatic Sciences. 83: 1-20. <https://doi.org/10.1139/cjfas-2025-0149>
@@ -30,7 +32,7 @@ Legault, CM., J Wiedenmann, J Deroba, **G Fay**, TJ Miller, E Brooks, R Bell, \*
 
 \*\*Danaher-Garcia, NK, R Connor, **G Fay**, K Melillo-Sweeting, KM Dudzinski. 2022*.* Using Social Network Analysis to Confirm the 'Gambit of the Group' Hypothesis for a Small Cetacean. Behavioral Processes 200, p.104694. <https://doi.org/10.1016/j.beproc.2022.104694>
 
-Stokesbury, KDE, **G Fay**, R Griffin. 2022. A framework for categorizing the interactions of offshore windfarms and fisheries. ICES Journal of Marine Science. **<https://doi.org/10.1093/icesjms/fsac118>**
+Stokesbury, KDE, **G Fay**, R Griffin. 2022. A framework for categorizing the interactions of offshore windfarms and fisheries. ICES Journal of Marine Science. [**https://doi.org/10.1093/icesjms/fsac118**](https://doi.org/10.1093/icesjms/fsac118){.uri}
 
 **\*Silva, T.L.**, DN Wiley, **G Fay**. 2021. A hierarchical modelling approach to estimating humpback whale abundance from sand lance abundance. Ecological Modelling 456, 109662. <https://doi.org/10.1016/j.ecolmodel.2021.109662>
 
