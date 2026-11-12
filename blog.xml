@@ -9,7 +9,7 @@
 <link>https://thefaylab.com/blog.html</link>
 <atom:link href="https://thefaylab.com/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.10.19</generator>
+<generator>quarto-1.11.9</generator>
 <lastBuildDate>Fri, 24 Oct 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Safety and Survival Training by Fishing Partnership at SMAST</title>
@@ -50,7 +50,7 @@
   <category>training</category>
   <guid>https://thefaylab.com/blog/2025-10-24-safetytraining-ri/</guid>
   <pubDate>Fri, 24 Oct 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://thefaylab.com/blog/2025-10-24-safetytraining-ri/tank1.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://thefaylab.com/blog/2025-10-24-safetytraining-ri/tank1.jpg" medium="image" type="image/jpeg" height="253" width="144"/>
 </item>
 <item>
   <title>2025 ICES Annual Science Conference, Klaipėda</title>
@@ -100,7 +100,7 @@
   <category>travel</category>
   <guid>https://thefaylab.com/blog/2025-10-22-ices-asc-2025-kawsw/</guid>
   <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
-  <media:content url="https://thefaylab.com/blog/2025-10-22-ices-asc-2025-kawsw/smastklaipeda.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://thefaylab.com/blog/2025-10-22-ices-asc-2025-kawsw/smastklaipeda.jpg" medium="image" type="image/jpeg" height="108" width="144"/>
 </item>
 <item>
   <title>Learning from our summer interns</title>
