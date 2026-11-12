@@ -4,19 +4,20 @@ title: "Teaching"
 
 ## Courses
 
-This semester (fall 2025) Dr. Fay will be offering **Advanced Population Modeling (MAR 580)**.
+This semester (fall 2026) Dr. Fay will be offering **Science Communication for Research Scientists (MAR 522)**.
 
-Students not at UMassD interested in taking MAR580 Advanced Population Modeling in fall 2025, either remotely or in-person, should email Dr. Fay ASAP.
+Spring semester 2027, Dr. Fay will be offering **Biological Statistics II (MAR 536)**, and Stock Assessment Practicum (MAR 580).
+Students not at UMassD interested in taking these classes, either remotely or in-person, should email Dr. Fay ASAP.
 
 #### MAR 530: Ecosystem-Based Fisheries Management
 
-This course highlights the theory, challenges, and approaches for implementing ecosystem-based fisheries management (EBFM). The course examines the history and background of fisheries management, leading to why more holistic approaches are being considered. A series of operational methods being used to implement EBFM, emphasizing technical efforts and models, are reviewed. The role of institutional structures and societal considerations in decision-making are explored to identify situations where EBFM can be successful. (*Spring semester, every other year, [2024 syllabus](https://drive.google.com/file/d/16OVUzWxOGj1T-5zFYk4gA28o77SxsFCF/view?usp=sharing)*) Next offered: Spring 2026
+This course highlights the theory, challenges, and approaches for implementing ecosystem-based fisheries management (EBFM). The course examines the history and background of fisheries management, leading to why more holistic approaches are being considered. A series of operational methods being used to implement EBFM, emphasizing technical efforts and models, are reviewed. The role of institutional structures and societal considerations in decision-making are explored to identify situations where EBFM can be successful. (*Spring semester, every other year, [2024 syllabus](https://drive.google.com/file/d/16OVUzWxOGj1T-5zFYk4gA28o77SxsFCF/view?usp=sharing)*) Next offered: Spring 2028
 
 #### MAR 536: Biological Statistics II
 
 [2025 Course Website](https://gavinfay.github.io/mar536-biolstats2-s23/)
 
-Student-led learning in statistical analysis of ecological data. This course provides guided learning in advanced statistical analysis, as applied to ecological research and other fields of marine science. Advanced concepts in probability, hypothesis testing, and estimation will be presented by students, including analyses of example data sets and problems. Students will be required to learn selected methods independently, present topics to the class that are relevant to their graduate research and complete a class project. A computer lab, focused on introductory and intermediate programming and analysis using R, will be held for the first half of the semester. (*Spring semester, odd years, [2025 syllabus](http://www.smast.umassd.edu/lab_fay/wp-content/uploads/2020/05/BiolStats2_syllabus_SPR2020_20200316.pdf "Biological Staistics II Spring 2023")*) Next offered: Spring 2025
+Student-led learning in statistical analysis of ecological data. This course provides guided learning in advanced statistical analysis, as applied to ecological research and other fields of marine science. Advanced concepts in probability, hypothesis testing, and estimation will be presented by students, including analyses of example data sets and problems. Students will be required to learn selected methods independently, present topics to the class that are relevant to their graduate research and complete a class project. A computer lab, focused on introductory and intermediate programming and analysis using R, will be held for the first half of the semester. (*Spring semester, odd years, [2025 syllabus](http://www.smast.umassd.edu/lab_fay/wp-content/uploads/2020/05/BiolStats2_syllabus_SPR2020_20200316.pdf "Biological Staistics II Spring 2023")*) Next offered: Spring 2027
 
 #### MAR 522: Science Communication for Research Scientists: delivering effective messages to diverse audiences
 
@@ -24,7 +25,7 @@ Practice and development of skills for communicating scientific research to a di
 
 #### MAR 580: Advanced Population Modeling for Management of Living Marine Resources
 
-This course provides instruction, demonstration and exercises in advanced population modeling, as applied to fishery resources. A wide range of stock assessment methods will be developed through statistical programming to fit increasingly complex models to fishery data through estimation of parameters and their variance. Programming software, including Template Model Builder, will be used for class assignments. The course is designed to train students to “have the ability to conduct high-quality scientific research in stock assessment, fishery population dynamics and related fields” (U.S. Dept. Commerce and U.S. Dept. Education 2008 NOAA Tech. Mem. NMFS-F/SPO-91). (*Fall semester, odd years, [2023 syllabus](https://drive.google.com/file/d/1Of57_FEEY5-Gi-VjlFN2aDORwR6DC26x/view?usp=sharing)*) Next offered: Fall 2025
+This course provides instruction, demonstration and exercises in advanced population modeling, as applied to fishery resources. A wide range of stock assessment methods will be developed through statistical programming to fit increasingly complex models to fishery data through estimation of parameters and their variance. Programming software, including Template Model Builder, will be used for class assignments. The course is designed to train students to “have the ability to conduct high-quality scientific research in stock assessment, fishery population dynamics and related fields” (U.S. Dept. Commerce and U.S. Dept. Education 2008 NOAA Tech. Mem. NMFS-F/SPO-91). (*Fall semester, odd years, [2023 syllabus](https://drive.google.com/file/d/1Of57_FEEY5-Gi-VjlFN2aDORwR6DC26x/view?usp=sharing)*) Next offered: Fall 2027
 
 #### MAR 580: Models for Marine Ecosystem-Based Management
 
